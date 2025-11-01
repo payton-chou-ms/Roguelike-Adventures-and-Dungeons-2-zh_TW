@@ -54,11 +54,11 @@
 			title: "Take a break"
 			x: -2.0d
 			y: -0.5d
-			subtitle: "Don't get caught in the rain"
+			subtitle: "別被雨淋到"
 			description: [
-				"Make yourself a drink, Get a chair sit down and watch the sunset"
+				"給自己調一杯飲料，找張椅子坐下來看日落"
 				""
-				"You've earned it."
+				"你值得擁有。"
 			]
 			dependencies: ["26B3F0D3178BE1CD"]
 			id: "59140870FC7DE344"
@@ -115,11 +115,11 @@
 			x: -4.0d
 			y: -0.5d
 			description: [
-				"Sometimes you can find pineapples and coconuts growing on beaches."
+				"有時你可以在海灘上找到鳳梨和椰子。"
 				""
-				"Chop them up with your sword and get yourself some lovely snacks."
+				"用你的劍砍下它們，為自己準備一些美味的零食。"
 				""
-				"Maybe you can even make something to drink?"
+				"也許你甚至可以做些飲料？"
 			]
 			id: "26B3F0D3178BE1CD"
 			tasks: [

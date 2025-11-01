@@ -63,12 +63,12 @@
 			x: 4.0d
 			y: 3.0d
 			description: [
-				"Dimensional Dungeons adds limitless procedurally generated dungeons to Minecraft! These dungeons are all placed in a single, separate dimension which can be accessed from a portal anywhere on the Overworld. This makes the dungeons themselves renewable and it provides challenging, replayable content."
+				"次元地牢為 Minecraft 增加了無限的程序生成地牢！這些地牢都放置在一個單獨的次元中，可以從主世界的任何地方透過傳送門進入。這使得地牢本身可以重複探索，並提供具有挑戰性、可重複遊玩的內容。"
 				""
-				"The dungeon dimension limits building and block breaking. This allows for a proper adventure mode-like experience"
+				"地牢次元限制建造和破壞方塊。這提供了真正的冒險模式體驗"
 				""
 				""
-				"Besides challenges in room design the dungeons are also randomly populated with enemies and worthwhile loot! Many rooms with valuable treasure chests require solving a puzzle that will test your knowledge of Minecraft game mechanics."
+				"除了房間設計的挑戰外，地牢還隨機填充了敵人和有價值的戰利品！許多擁有寶貴寶箱的房間需要解決謎題，這將考驗你對 Minecraft 遊戲機制的了解。"
 			]
 			id: "373262E31E3E4D5B"
 			tasks: [{
@@ -98,7 +98,7 @@
 		{
 			x: 4.0d
 			y: 5.5d
-			description: ["Blank Portal Keys are crafted from a Blaze Rod and a Name Tag. You may want several."]
+			description: ["空白傳送門鑰匙由烈焰棒和命名牌合成。你可能需要多個。"]
 			dependencies: ["373262E31E3E4D5B"]
 			id: "49D31A8380AFA032"
 			tasks: [{
@@ -121,7 +121,7 @@
 		{
 			x: 6.5d
 			y: 0.5d
-			description: ["First craft three Gilded Portal Blocks, which are a Chiseled Stone Brick surrounded by 8 Gold Ingots."]
+			description: ["首先製作三個鍍金傳送門方塊，由一個浮雕石磚和 8 個金錠合成。"]
 			dependencies: ["19C09B0537FF8F85"]
 			id: "06FDB1551D976F28"
 			tasks: [{
@@ -146,7 +146,7 @@
 		{
 			x: 9.0d
 			y: 0.5d
-			description: ["Second, combine one of your three Gilded Portal Blocks with the Trapped Chest and the Eye of Ender to form a Portal Keyhole Block."]
+			description: ["其次，將三個鍍金傳送門方塊中的一個與陷阱箱和終界之眼合成，形成傳送門鑰匙孔方塊。"]
 			dependencies: ["06FDB1551D976F28"]
 			id: "467404C9A88BA929"
 			tasks: [{
@@ -172,13 +172,13 @@
 			x: 6.5d
 			y: 5.5d
 			description: [
-				"A blank key cannot be used to enter a dungeon. A newly crafted key must first be used in an 'activation ritual' which will inscribe the name and location of a randomly generated dungeon onto the key. This action will require you to bring the key to a fitting location on The Overworld."
+				"空白鑰匙無法用於進入地牢。新製作的鑰匙必須先用於「啟動儀式」，這將在鑰匙上刻上隨機生成的地牢名稱和位置。此操作需要你將鑰匙帶到主世界的適當位置。"
 				""
-				"Basically, find a Stronghold, and use the key on the top of an End Portal Frame. You must aim for the black square on top."
+				"基本上，找到一個要塞，然後在終界傳送門框架的頂部使用鑰匙。你必須瞄準頂部的黑色方塊。"
 				""
-				"Go back to your portal frame and place the key in the keyhole. If everything is correct then a golden dungeon portal should appear. If the frame was not built correctly then the portal will shatter immediately."
+				"回到你的傳送門框架並將鑰匙放入鑰匙孔。如果一切正確，應該會出現金色的地牢傳送門。如果框架建造不正確，傳送門將立即破碎。"
 				""
-				"Keys can only be written to once. However keys are absolutely reusable! If you find a dungeon that is worth visiting more than once be sure to save that key somewhere in your base. A named key will always consistently take you back to the same dungeon."
+				"鑰匙只能寫入一次。但是鑰匙絕對可以重複使用！如果你找到值得多次訪問的地牢，請務必將該鑰匙保存在你的基地某處。已命名的鑰匙將始終帶你回到同一個地牢。"
 			]
 			dependencies: ["49D31A8380AFA032"]
 			id: "2205A97ACB6A9309"
@@ -196,14 +196,14 @@
 			x: 4.0d
 			y: 0.5d
 			description: [
-				"First, here is a minimum raw materials list:"
-				"- 9x Stone Bricks"
-				"- 3x Chiseled Stone Bricks"
-				"- 24x Gold Ingots"
-				"- 1x Trapped Chest"
-				"- 1x Eye of Ender"
+				"首先，這是最低原材料清單："
+				"- 9x 石磚"
+				"- 3x 浮雕石磚"
+				"- 24x 金錠"
+				"- 1x 陷阱箱"
+				"- 1x 終界之眼"
 				""
-				"Keep in mind you will also need to craft and activate keys. This is only the first step."
+				"請記住，你還需要製作和啟動鑰匙。這只是第一步。"
 			]
 			dependencies: ["373262E31E3E4D5B"]
 			id: "19C09B0537FF8F85"
@@ -222,12 +222,12 @@
 			x: 9.0d
 			y: 2.5d
 			description: [
-				"Basically you need a frame of Stone Bricks surrounding two air blocks. And replace the top center block with the Portal Keyhole Block. The two spires on the side need to have your two remaining Gilded Portal BLocks on top."
+				"基本上你需要一個石磚框架圍繞兩個空氣方塊。並將頂部中央方塊替換為傳送門鑰匙孔方塊。兩側的尖塔頂部需要放置你剩餘的兩個鍍金傳送門方塊。"
 				""
 				"{image:rad2:textures/misc/build_basic_1.png width:170 height:100 align:1}"
-				"Sinking the portal into the ground is a good idea so that you don't have to jump into it. But remember you still need to place the Stone Bricks on the bottom even if you can't see them!"
+				"將傳送門沉入地面是個好主意，這樣你就不必跳進去。但請記住，即使你看不到它們，你仍然需要在底部放置石磚！"
 				""
-				"Other Stone Brick variants can be used in the build, too. And the only air blocks that matter are the two blocks where the portal will appear."
+				"其他石磚變體也可以用於建造。唯一重要的空氣方塊是傳送門將出現的兩個方塊。"
 			]
 			dependencies: ["467404C9A88BA929"]
 			id: "46BDA3FB1FD338F7"
@@ -271,15 +271,15 @@
 			y: 3.5d
 			subtitle: "Find two portal crown blocks"
 			description: [
-				"Advanced dungeons are exactly what they sound like. Bigger layouts, tougher monsters, and improved loot!"
+				"進階地牢正如其名。更大的佈局、更強的怪物和更好的戰利品！"
 				""
-				"While exploring basic dungeons you might find a Portal Keystone Block with an item in it. Take it! The item inside should be an advanced key, with a different naming convention and a different color. This is the only way to obtain advanced dungeon keys. They must be found!"
+				"在探索基礎地牢時，你可能會發現一個裡面有物品的傳送門基石方塊。拿走它！裡面的物品應該是進階鑰匙，具有不同的命名規則和不同的顏色。這是獲得進階地牢鑰匙的唯一方法。它們必須被找到！"
 				""
-				"Your basic portal frame is not powerful enough to handle these legendary new portal keys! You must enhance your basic portal with additional blocks."
+				"你的基礎傳送門框架不夠強大，無法處理這些傳奇的新傳送門鑰匙！你必須用額外的方塊增強你的基礎傳送門。"
 				""
-				"First, you must hang two colorful banners, one on each spire. The banners should be white/purple with either color as the base. For reference, match the filled keyhole itself."
+				"首先，你必須在每個尖塔上懸掛兩個彩色旗幟，每個尖塔一個。旗幟應該是白色/紫色，任一顏色作為底色。作為參考，匹配已填充的鑰匙孔本身。"
 				""
-				"Second you must place two Portal Crown Blocks on top of your portal frame. You're going to have to rely on finding Portal Crown Blocks as loot in basic dungeon chests."
+				"其次，你必須在傳送門框架頂部放置兩個傳送門王冠方塊。你必須依靠在基礎地牢寶箱中找到傳送門王冠方塊作為戰利品。"
 			]
 			dependencies: ["5F3AE6FDE9AC06B6"]
 			id: "563459F7C0D8D8D3"

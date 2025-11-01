@@ -13,10 +13,10 @@
 			x: 0.0d
 			y: 0.0d
 			description: [
-				"Press 'J' (you will most likely have to change this if it conflicts with something) to open the Titles gui."
+				"按下「J」鍵（如果與其他功能衝突，你可能需要更改此按鍵）來開啟稱號界面。"
 				""
-				"Understand that you may not have any titles to choose from at first."
-				"Simply complete advancements  to start growing your selection."
+				"請注意，一開始你可能沒有任何稱號可以選擇。"
+				"只需完成成就來開始增加你的選擇。"
 			]
 			id: "4B93CE8715CACD5A"
 			tasks: [{
@@ -43,11 +43,11 @@
 			x: -1.5d
 			y: 3.0d
 			shape: "hexagon"
-			subtitle: "Earned by completing the Feedback Form during beta."
+			subtitle: "在測試期間完成回饋表單即可獲得。"
 			description: [
-				"Link to form: bit.ly/RAD2FeedbackTEST"
+				"表單連結：bit.ly/RAD2FeedbackTEST"
 				""
-				"If you provide your username if the form, you will be added to a list of users who will receive this title in the next update."
+				"如果你在表單中提供你的使用者名稱，你將被加入到下次更新時將獲得此稱號的使用者清單中。"
 			]
 			optional: true
 			id: "555DE2027606D5B7"
@@ -71,9 +71,9 @@
 			x: 0.0d
 			y: -1.5d
 			description: [
-				"Title Fragments can be found in loot, and are used to trade for Title Scrolls with villagers."
+				"稱號碎片可以在戰利品中找到，用於與村民交易稱號卷軸。"
 				""
-				"There is a limited amount of titles you can unlock with each scroll."
+				"每個卷軸可以解鎖的稱號數量有限。"
 			]
 			dependencies: ["4B93CE8715CACD5A"]
 			id: "13BF5C3D53C0B1F5"
@@ -217,12 +217,12 @@
 			x: -3.0d
 			y: 3.0d
 			shape: "hexagon"
-			subtitle: "Granted to users who subscribe to dreams01 on Patreon."
+			subtitle: "授予在 Patreon 上訂閱 dreams01 的使用者。"
 			description: [
 				""
 				"https://www.patreon.com/Dreams01"
 				""
-				"Please msg me your Minecraft username in Patreon messages, Discord messages(dreams#0285), or Discord Hall-Of-Heroes channel."
+				"請透過 Patreon 訊息、Discord 訊息（dreams#0285）或 Discord Hall-Of-Heroes 頻道傳送你的 Minecraft 使用者名稱給我。"
 			]
 			optional: true
 			id: "746A3F9BEE5F8477"
