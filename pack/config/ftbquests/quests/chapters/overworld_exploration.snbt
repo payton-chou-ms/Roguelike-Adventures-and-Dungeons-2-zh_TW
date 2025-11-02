@@ -3945,7 +3945,7 @@
 		{
 			x: 16.5d
 			y: -3.5d
-			description: ["The Enchantment Library is a block focused on storing enchantments.  Simply insert an enchanted book, and every enchantment on that book will be stored in the library internally.  Each enchantment on a deposited book will be stored as points.  A point is simply equivalent to a level 1 enchantment, and as such an enchantment is worth the amount of points it would take to combine it from level one books (2^(level -1) points per level).  The library also records the max level it has ever seen for a given enchantment, and you may only extract enchantments up to that level.  Meaning if you want to be able to extract a higher level of an enchantment, the library will need to have had that level deposited at least one time.To extract enchantments from the library, simply click the tile of the enchantment you want to extract, and it will be extracted to the output slot.  If the output slot is empty, a new enchanted book will be generated.  If it is not empty, it will apply the next level of that enchantment to the book (if you have enough points).  Shift-clicking on a tile will attempt to extract the max level available (if you have enough points).  The point cost for extracting is shown in the tooltip.  If that tooltip is red, you do not have enough points for that operation."]
+			description: ["附魔圖書館是一個專注於儲存附魔的方塊。只需插入一本附魔書，書上的每個附魔都會被儲存在圖書館內部。存入書上的每個附魔都會以點數形式儲存。一個點數等同於一級附魔，因此一個附魔的價值等於從一級書組合到該等級所需的點數（每級 2^(等級-1) 個點數）。圖書館還會記錄它見過的每個附魔的最高等級，你只能提取到該等級的附魔。這意味著如果你想提取更高等級的附魔，圖書館需要至少存入過該等級一次。要從圖書館提取附魔，只需點擊你想提取的附魔方塊，它就會被提取到輸出槽中。如果輸出槽為空，將生成一本新的附魔書。如果不為空，它會將該附魔的下一級應用到書上（如果你有足夠的點數）。Shift+點擊方塊將嘗試提取最高可用等級（如果你有足夠的點數）。提取的點數成本顯示在工具提示中。如果該工具提示為紅色，表示你沒有足夠的點數進行該操作。"]
 			dependencies: ["43509530CAD67EE9"]
 			id: "0E3EAF4D21A7FE1E"
 			tasks: [{
@@ -4691,7 +4691,7 @@
 			title: "You asked for this, Mage"
 			x: 20.0d
 			y: 7.0d
-			description: ["Blame @Doctor Mage#5234"]
+			description: ["要怪就怪 @Doctor Mage#5234"]
 			hide_dependency_lines: false
 			dependencies: ["76CDF977DD44821E"]
 			hide: true

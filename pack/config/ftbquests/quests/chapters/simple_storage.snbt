@@ -697,7 +697,7 @@
 		{
 			x: -0.5d
 			y: 8.0d
-			description: ["Half-size 2x2 storage drawers will store 4 stacks of an item per drawer (16 stacks overall)."]
+			description: ["半尺寸 2x2 儲物抽屜每個抽屜可儲存 4 組物品（總共 16 組）。"]
 			id: "227177C9C7B62C0C"
 			tasks: [{
 				id: "6ABC8CE33AAEDE2F"
@@ -793,7 +793,7 @@
 		{
 			x: -1.5d
 			y: 0.0d
-			description: ["The storage downgrade will drop the storage of the drawer it is installed in to one stack."]
+			description: ["儲存降級將把安裝它的抽屜的儲存容量降低到一組。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "61E553A98BE5C2EC"
 			tasks: [{
@@ -818,7 +818,7 @@
 		{
 			x: -0.5d
 			y: 0.5d
-			description: ["The first level of storage upgrade will increase the storage of a drawer block by 2 times."]
+			description: ["第一級儲存升級將使抽屜方塊的儲存容量增加 2 倍。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "0F7BAC3F5F3CDBDB"
 			tasks: [{
@@ -835,7 +835,7 @@
 		{
 			x: 0.0d
 			y: 1.5d
-			description: ["The second level of storage upgrade will increase the storage of a drawer block by 4 times."]
+			description: ["第二級儲存升級將使抽屜方塊的儲存容量增加 4 倍。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "723A9F5E5263517D"
 			tasks: [{
@@ -852,7 +852,7 @@
 		{
 			x: 0.0d
 			y: 2.5d
-			description: ["The third level of storage upgrade will increase the storage of a drawer block by 8 times."]
+			description: ["第三級儲存升級將使抽屜方塊的儲存容量增加 8 倍。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "71C41E71CF881A59"
 			tasks: [{
@@ -869,7 +869,7 @@
 		{
 			x: -0.5d
 			y: 3.5d
-			description: ["The fourth level of storage upgrade will increase the storage of a drawer block by 16 times."]
+			description: ["第四級儲存升級將使抽屜方塊的儲存容量增加 16 倍。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "4F02FD27A3688E42"
 			tasks: [{
@@ -886,7 +886,7 @@
 		{
 			x: -1.5d
 			y: 4.0d
-			description: ["The fifth, and final, level of storage upgrade will increase the storage of a drawer block by 32 times."]
+			description: ["第五級，也是最終級的儲存升級將使抽屜方塊的儲存容量增加 32 倍。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "0EA88FDF0A8CF786"
 			tasks: [{
@@ -903,7 +903,7 @@
 		{
 			x: -2.5d
 			y: 0.0d
-			description: ["The void upgrade will void any items added to the drawer past its max capacity."]
+			description: ["虛空升級將刪除任何超出抽屜最大容量的物品。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "338FEC8C826F9B46"
 			tasks: [{
@@ -920,7 +920,7 @@
 		{
 			x: -3.5d
 			y: 0.5d
-			description: ["The conversion upgrade will convert materials from different mods to a single type. (You should not run into this in this pack)."]
+			description: ["轉換升級會將來自不同模組的材料轉換為單一類型。（在這個整合包中你不應該會遇到這種情況）。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "6175CD799995E927"
 			tasks: [{

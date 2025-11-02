@@ -2069,7 +2069,7 @@
 		{
 			x: -3.5d
 			y: 5.0d
-			description: ["The worm box works like the composter (load with vegetables or fruit) but it produces worms to use as bait."]
+			description: ["蟲箱的作用類似於堆肥桶（裝入蔬菜或水果），但它會產生蟲子作為魚餌。"]
 			dependencies: ["00000000000015DD"]
 			id: "00000000000015E7"
 			tasks: [{
@@ -2131,7 +2131,7 @@
 			x: -1.25d
 			y: 4.0d
 			shape: "gear"
-			description: ["I caught a chest..... wonder if it is anything valuable?"]
+			description: ["我釣到了一個箱子...不知道裡面有沒有什麼值錢的東西？"]
 			dependencies: ["00000000000015DD"]
 			size: 1.5d
 			id: "00000000000015EB"
@@ -2167,7 +2167,7 @@
 		{
 			x: 0.0d
 			y: 5.5d
-			description: ["Can be dyed like leather and can be used to customize your fishing rod."]
+			description: ["可以像皮革一樣染色，並用於客製化你的釣竿。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015F0"
 			tasks: [{
@@ -2190,7 +2190,7 @@
 		{
 			x: 0.0d
 			y: 6.5d
-			description: ["Can be dyed like leather and can be used to customize your fishing rod."]
+			description: ["可以像皮革一樣染色，並用於客製化你的釣竿。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015F2"
 			tasks: [{
@@ -2463,7 +2463,7 @@
 		{
 			x: -5.5d
 			y: 5.5d
-			description: ["My first professional fillet knife."]
+			description: ["我的第一把專業切片刀。"]
 			dependencies: ["000000000000161C"]
 			id: "000000000000161E"
 			tasks: [{
@@ -2492,7 +2492,7 @@
 		{
 			x: -5.5d
 			y: 7.0d
-			description: ["My worst purchased knife."]
+			description: ["我買過最差的刀。"]
 			dependencies: ["000000000000161E"]
 			id: "0000000000001620"
 			tasks: [{

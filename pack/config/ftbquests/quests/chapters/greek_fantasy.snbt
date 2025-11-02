@@ -1190,7 +1190,7 @@
 			x: 9.0d
 			y: -1.5d
 			subtitle: "(Neutral) Spirits of the trees and protectors of nature"
-			description: ["Spawns: in most overworld biomes"]
+			description: ["生成：在大多數主世界生態域中"]
 			id: "54AEC0D74732C8D8"
 			tasks: [{
 				id: "5B85049EBBD0DD58"
@@ -1228,7 +1228,7 @@
 			x: 12.0d
 			y: -1.5d
 			subtitle: "(Neutral) Spirits of the trees and protectors of nature in the Nether"
-			description: ["Spawns: in crimson and warped forest biomes"]
+			description: ["生成：在緋紅森林和扭曲森林生態域中"]
 			id: "45934F8FADD563D5"
 			tasks: [{
 				id: "3D4B6871104BFC97"
@@ -1247,7 +1247,7 @@
 			x: 13.5d
 			y: -1.5d
 			subtitle: "(Hostile) identical to a regular cow except for the part where it tries to eat you"
-			description: ["Spawns: in most overworld biomes, and when summoned by the Geryon"]
+			description: ["生成：在大多數主世界生態域中，以及被革律翁召喚時"]
 			id: "164E59F7E5633025"
 			tasks: [{
 				id: "059B3007B3C3EB9E"
@@ -1266,7 +1266,7 @@
 			x: 15.0d
 			y: -1.5d
 			subtitle: "(Hostile) Half-men, half bull creatures that charge on sight"
-			description: ["Spawns: in most overworld biomes"]
+			description: ["生成：在大多數主世界生態域中"]
 			id: "67D113EDDEEDED53"
 			tasks: [{
 				id: "093453BFE1F89674"
@@ -1303,7 +1303,7 @@
 			x: 15.0d
 			y: 0.0d
 			subtitle: "(Miniboss) Giant lion with arrow-proof hide."
-			description: ["Spawns: in deserts in Lion Dens. Can also spawn when an Ocelot with the Strength potion effect is hit by lightning."]
+			description: ["生成：在沙漠中的獅子巢穴中。當帶有力量藥水效果的豹貓被閃電擊中時也可以生成。"]
 			id: "6E808001354311DC"
 			tasks: [{
 				id: "24761931679D0C7E"
@@ -1322,7 +1322,7 @@
 			x: 15.0d
 			y: -3.0d
 			subtitle: "(Hostile) Two-headed dog from the underworld"
-			description: ["Spawns: in the nether"]
+			description: ["生成：在地獄中"]
 			id: "20A32D27FE82D9FD"
 			tasks: [{
 				id: "6DE2ECCDF5438DAC"
@@ -1341,7 +1341,7 @@
 			x: 18.0d
 			y: -1.5d
 			subtitle: "(Miniboss) Huge, venomous snake of lore"
-			description: ["Spawns: in pyramid-shaped pits found half-buried in the jungle"]
+			description: ["生成：在叢林中半埋的金字塔形坑洞中"]
 			id: "7064F7A89BD915B1"
 			tasks: [{
 				id: "049181154A5209AD"
@@ -1360,7 +1360,7 @@
 			x: 19.5d
 			y: -1.5d
 			subtitle: "(Hostile) Spirit of the deceased"
-			description: ["Spawns:Any time a player dies, with about half of the player's experience"]
+			description: ["生成：每當玩家死亡時，會攜帶玩家大約一半的經驗值"]
 			id: "630DD6121E8705F4"
 			tasks: [{
 				id: "77C26FDFF71CA67F"
@@ -1379,7 +1379,7 @@
 			x: 21.0d
 			y: -1.5d
 			subtitle: "(Hostile) half-fish, half-woman who lures players in to eat them"
-			description: ["Spawns: in ocean areas"]
+			description: ["生成：在海洋區域中"]
 			id: "57508D8847C50F31"
 			tasks: [{
 				id: "63530ED9DB7CF06A"

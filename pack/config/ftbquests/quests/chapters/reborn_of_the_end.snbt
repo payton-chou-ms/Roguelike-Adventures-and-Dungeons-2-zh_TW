@@ -1136,7 +1136,7 @@
 			title: "Terminite Tools"
 			x: 7.0d
 			y: 4.0d
-			description: ["A handy Terminite tool set."]
+			description: ["一套便利的終界石工具組。"]
 			dependencies: ["2F65B1126A72219F"]
 			id: "692AFCEA58029429"
 			tasks: [
@@ -1217,7 +1217,7 @@
 			title: "Terminite Armor"
 			x: 9.0d
 			y: 4.0d
-			description: ["A whole set of End-alloy armor."]
+			description: ["一整套終界合金盔甲。"]
 			dependencies: ["2F65B1126A72219F"]
 			id: "3A8254A2C4CDE79E"
 			tasks: [
@@ -1356,7 +1356,7 @@
 			title: "Aeternium Tools"
 			x: 12.0d
 			y: 4.0d
-			description: ["A set of some of the most durable tools in the game."]
+			description: ["遊戲中最耐用的工具組之一。"]
 			dependencies: ["6FF5FFEE7F672F05"]
 			id: "36543B4BFF59FC05"
 			tasks: [
@@ -2535,7 +2535,7 @@
 		{
 			x: 4.5d
 			y: 8.0d
-			description: ["End dimension was improved!"]
+			description: ["終界次元已經改進了！"]
 			id: "63A64571BBB85FE5"
 			tasks: [{
 				id: "300A3AC891D5B4A2"

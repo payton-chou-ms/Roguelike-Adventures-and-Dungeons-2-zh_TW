@@ -247,7 +247,7 @@
 		{
 			x: -7.5d
 			y: 11.0d
-			description: ["A fridge upgrade that will provide all the snow and ice you need for recipes. "]
+			description: ["一個冰箱升級，可以為食譜提供你所需的所有雪和冰。"]
 			dependencies: ["0000000000000FFE"]
 			id: "0000000000001006"
 			tasks: [{
@@ -271,7 +271,7 @@
 		{
 			x: -6.5d
 			y: 11.0d
-			description: ["A fridge upgrade that saves the last item in a slot so that item spaces are saved from being replaced."]
+			description: ["一個冰箱升級，可以保存槽位中的最後一個物品，避免物品空間被替換。"]
 			dependencies: ["0000000000000FFE"]
 			id: "0000000000001008"
 			tasks: [{
@@ -295,7 +295,7 @@
 		{
 			x: -3.0d
 			y: 11.0d
-			description: ["By applying this upgrade to your oven it will be able to accept RF to cook food, no longer requiring fuel."]
+			description: ["將此升級應用到你的烤箱後，它將能夠接受 RF 來烹飪食物，不再需要燃料。"]
 			dependencies: ["0000000000000FF6"]
 			id: "000000000000100A"
 			tasks: [{
@@ -3181,7 +3181,7 @@
 			x: -17.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["You could stuff just about anything into a potato, and you have done all of it!"]
+			description: ["你幾乎可以把任何東西塞進馬鈴薯裡，而你已經全都做到了！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001463"
@@ -3240,7 +3240,7 @@
 			x: -13.0d
 			y: 28.0d
 			shape: "diamond"
-			description: ["Time to open a bakery!"]
+			description: ["是時候開一家麵包店了！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001409"
@@ -3266,7 +3266,7 @@
 			x: -7.0d
 			y: 28.0d
 			shape: "diamond"
-			description: ["This is some wacky stuff with greens!"]
+			description: ["這些綠色蔬菜做出了一些古怪的東西！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001431"
@@ -3333,7 +3333,7 @@
 			x: 3.0d
 			y: 19.0d
 			shape: "diamond"
-			description: ["You have a straight up cafe menu with these things!"]
+			description: ["你用這些東西做出了一份完整的咖啡廳菜單！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000013F3"
@@ -3361,7 +3361,7 @@
 			x: -4.0d
 			y: 19.0d
 			shape: "diamond"
-			description: ["Is a hotdog a sandwich?"]
+			description: ["熱狗算是三明治嗎？"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000013D5"
