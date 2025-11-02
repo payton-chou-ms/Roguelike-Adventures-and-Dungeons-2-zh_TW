@@ -176,7 +176,7 @@
 			x: 10.5d
 			y: -8.0d
 			subtitle: "Slay the Naga in its forest courtyard and obtain a Naga Scale to overcome the barrier magic surrounding the Lich's tower."
-			description: ["The Naga can be found in the Naga Courtyard. When killed it drops Naga Scales and a Naga Trophy along with some other loot; touching a scale will allow the player to enter the Lich Tower."]
+			description: ["娜迦可以在娜迦庭院中找到。殺死它會掉落娜迦鱗片和娜迦獎盃以及一些其他戰利品；觸摸鱗片將允許玩家進入巫妖塔。"]
 			dependencies: ["539453A048F71094"]
 			size: 1.5d
 			id: "4EA90E4534247A4D"
@@ -230,9 +230,9 @@
 			y: -8.0d
 			subtitle: "Slay the Twilight Lich at top of his tower and retrieve a Scepter to clear poisonous mosquitoes from the Swamp, see through blinding darkness of the Dark Forest's curse, and resist the Snowy Forest's chill."
 			description: [
-				"The Twilight Lich can be found in the Lich Tower. Killing it and getting a scepter will allow the player to enter the Swamp, Dark Forest, and Snowy Forest as well as the dungeons in each area."
+				"暮光巫妖可以在巫妖塔中找到。殺死它並獲得權杖將允許玩家進入沼澤、黑暗森林和雪林以及每個區域的地牢。"
 				""
-				"The next stage in Twilight Forest progression is the Twilight Swamp. The Twilight Lich must be defeated and its Scepter taken before entering this phase. Entering this stage before the Twilight Lich is defeated will inflict Hunger on the player."
+				"暮光森林進程的下一階段是暮光沼澤。在進入這個階段之前，必須擊敗暮光巫妖並取得其權杖。在擊敗暮光巫妖之前進入此階段將對玩家施加飢餓效果。"
 			]
 			dependencies: ["4EA90E4534247A4D"]
 			size: 1.5d
@@ -313,7 +313,7 @@
 			x: 14.25d
 			y: -1.5d
 			subtitle: "The meat and mushroom stew pleasantly warms you, enough so you feel you're acclimatised enough to venture into the Fire Swamp."
-			description: ["The Minoshroom can be found in Labyrinths, which are found in the Twilight Swamp biome. Natural entrances can be found through caves or the small hills found in the surface that lead directly to the center. The goal of this dungeon is to kill the Minoshroom. Killing it and eating one of the dropped Meef Stroganoff will allow the player to enter the Fire Swamp."]
+			description: ["米諾菇可以在迷宮中找到，迷宮位於暮光沼澤生物群系中。天然入口可以通過洞穴或表面上直接通往中心的小山丘找到。這個地牢的目標是殺死米諾菇。殺死它並吃掉掉落的牛肉蘑菇燉肉將允許玩家進入火焰沼澤。"]
 			dependencies: ["392FE0691197DA9F"]
 			size: 1.5d
 			id: "2D5BBCD3F940BE54"
@@ -365,9 +365,9 @@
 			y: -1.5d
 			subtitle: "Defeat the mighty Hydra and empower yourself."
 			description: [
-				"The Hydra can be found in the Hydra Lair in the middle of a Fire Swamp. Killing it and obtaining Fiery Blood from it will complete one step to unlocking the Highlands."
+				"九頭蛇可以在火焰沼澤中央的九頭蛇巢穴中找到。殺死它並從中獲得熾烈之血將完成解鎖高地的一個步驟。"
 				""
-				"The next stage in Twilight Forest progression is the Dark Forest biome. Added to its already extreme darkness, players will have Blindness inflicted on them unless they have defeated the Twilight Lich first. This can be circumvented if the player is wearing a helmet enchanted with Night Vision."
+				"暮光森林進程的下一階段是黑暗森林生物群系。除了已經極度黑暗之外，除非玩家先擊敗了暮光巫妖，否則將對玩家施加失明效果。如果玩家佩戴附有夜視的頭盔，則可以避免這種情況。"
 			]
 			dependencies: ["2D5BBCD3F940BE54"]
 			size: 1.5d
@@ -420,7 +420,7 @@
 			x: 1.75d
 			y: 6.0d
 			subtitle: "Settle the restless phantoms in the Knight's Tomb and the carminite tower's devices will obey you."
-			description: ["The Knight Phantom can be found in the Goblin Knight Stronghold underneath Dark Forests. Before being able to enter the stronghold, the player must find a room with a Trophy Pedestal. On the pedestal, they must place any trophy. When placed down the shield around the stronghold will be removed.The player then needs to go through the stronghold until the Knight Phantom is found. When killed it will allow access to the Dark Tower."]
+			description: ["幻影騎士可以在黑暗森林下方的哥布林騎士要塞中找到。在能夠進入要塞之前，玩家必須找到一個有獎盃基座的房間。在基座上，他們必須放置任何獎盃。放置後，要塞周圍的護盾將被移除。然後玩家需要穿過要塞直到找到幻影騎士。殺死它將允許進入黑暗塔。"]
 			dependencies: ["5349542EAF609696"]
 			size: 1.5d
 			id: "2E603FCB82DC886B"
@@ -479,9 +479,9 @@
 			y: 6.0d
 			subtitle: "Touch the fiery red tears of the Ur-Ghast."
 			description: [
-				"The Ur-Ghast can be found in the Dark Tower found in the middle of the Dark Forest. It is found at the top of the tower, along with many other monsters, such as Carminite Ghastlings, Towerwood Borers, and Carminite Golems. Killing it and taking the Fiery Tears will complete one step to unlocking the Highlands."
+				"烏爾惡魂可以在黑暗森林中央的黑暗塔中找到。它位於塔頂，還有許多其他怪物，如胭脂紅小惡魂、塔木蛀蟲和胭脂紅傀儡。殺死它並獲取熾烈之淚將完成解鎖高地的一個步驟。"
 				""
-				"The next stage in Twilight Forest progression is in the Snowy Forest and Glacier biomes. If entered before defeating the Twilight Lich, the player will freeze and move much slower than in other biomes."
+				"暮光森林進程的下一階段是在雪林和冰川生物群系中。如果在擊敗暮光巫妖之前進入，玩家將會凍結並比在其他生物群系中移動得更慢。"
 			]
 			dependencies: ["2E603FCB82DC886B"]
 			size: 1.5d
@@ -539,7 +539,7 @@
 			x: 16.0d
 			y: 6.0d
 			subtitle: "Line your garments with the soft fur from the Alpha Yeti, keeping you safe from the Glacier's cold."
-			description: ["The Alpha Yeti is found in the Yeti Lair, in the center of Snowy Forest biomes. There are four natural entrances. Inside the lair are many Yeti packs. Killing the Alpha Yeti and obtaining the Alpha Yeti Fur will unlock the Glacier biome."]
+			description: ["阿爾法雪人位於雪林生物群系中心的雪人巢穴中。有四個天然入口。巢穴內有許多雪人群。殺死阿爾法雪人並獲得阿爾法雪人毛皮將解鎖冰川生物群系。"]
 			dependencies: ["43FF6B04F1048E09"]
 			size: 1.5d
 			id: "78493192F7A18FD2"
@@ -596,7 +596,7 @@
 			x: 13.5d
 			y: 13.5d
 			subtitle: "Defeat the Snow Queen atop the Aurora Palace."
-			description: ["The Snow Queen is found in the Aurora Palace, located in Glacier biomes. When conquered, the player will complete one step to unlocking the Highlands."]
+			description: ["冰雪女王位於極光宮殿中，該宮殿位於冰川生物群系。征服後，玩家將完成解鎖高地的一個步驟。"]
 			dependencies: ["78493192F7A18FD2"]
 			size: 1.5d
 			id: "680FD59F7ACC7E21"
@@ -676,9 +676,9 @@
 			y: 13.5d
 			subtitle: "Slay the Hydra, Ur-Ghast, and Snow Queen to clear the acid rain and embolden yourself for the Highlands."
 			description: [
-				"When the Hydra, Ur-Ghast and Snow Queen have been defeated, the Highlands will unlock, revealing the final stages in progression. If entered before defeating all three bosses, the player will be damaged by acid rain."
+				"當九頭蛇、烏爾惡魂和冰雪女王都被擊敗後，高地將解鎖，揭示進程的最後階段。如果在擊敗所有三個 Boss 之前進入，玩家將受到酸雨的傷害。"
 				""
-				"Unlike previous stages, the Highlands does not have a boss to defeat, rather an item to obtain to get to the center. This area is split into two: the Troll Cave and the Cloud Cottage. To complete this achievement, the player must obtain the Lamp of Cinders from inside an Obsidian vault, requiring a Giant's Pickaxe to break in. Once the Lamp is acquired, the player can move on to the next stage."
+				"與之前的階段不同，高地沒有需要擊敗的 Boss，而是需要獲得一個物品才能到達中心。這個區域分為兩部分：巨魔洞穴和雲中小屋。要完成此成就，玩家必須從黑曜石寶庫內獲得餘燼之燈，需要巨人鎬才能打破進入。一旦獲得燈籠，玩家就可以進入下一階段。"
 			]
 			dependencies: ["680FD59F7ACC7E21"]
 			size: 1.5d
@@ -889,7 +889,7 @@
 		{
 			x: 2.0d
 			y: 13.5d
-			description: ["The Thornlands stage is the final functioning stage in Twilight Forest. It is completed by simply burning through the dense bushes of Thorns with a Lamp of Cinders. This allows the player to move onto the final stage of progression."]
+			description: ["荊棘之地階段是暮光森林中最後一個功能階段。只需用餘燼之燈燒穿茂密的荊棘叢即可完成。這允許玩家進入最後的進程階段。"]
 			dependencies: ["76A2F6D8DEEDE474"]
 			id: "19B32C52F6F2C275"
 			tasks: [{
@@ -2023,7 +2023,7 @@
 		{
 			x: 7.0d
 			y: -10.0d
-			description: ["The Questing Ram is a friendly boss animal added by Twilight Forest. He is found in the Quest Grove, which can only be found in the Enchanted Forest biome. Unlike other bosses, this animal is not meant to be slain. Instead, the player is supposed to complete his Quest of giving it Wool in every color. Wool can be given to him by dropping the Wool under the Ram, or by using the Wool on him. Each time a block of Wool is given his body will elongate and a stripe of that color wool will be added to his body."]
+			description: ["任務公羊是暮光森林新增的友好 Boss 動物。牠位於任務樹林中，該樹林只能在魔法森林生物群系中找到。與其他 Boss 不同，這種動物不是用來殺死的。相反，玩家應該完成牠的任務，即給牠每種顏色的羊毛。可以通過將羊毛扔在公羊下方或在牠身上使用羊毛來給牠羊毛。每次給予一個羊毛方塊，牠的身體就會延長，並在牠的身體上添加該顏色羊毛的條紋。"]
 			dependencies: ["539453A048F71094"]
 			id: "3B03FB1361F6D5C7"
 			tasks: [{
@@ -3189,7 +3189,7 @@
 		{
 			x: -2.0d
 			y: -5.5d
-			description: ["Get your axes and shears ready! Search every nook and cranny and get anything and everything that comes from trees! Craft, loot, obtain every slab... sapling... leaves... more... everything. ALL OF IT! "]
+			description: ["準備好你的斧頭和剪刀！搜索每一個角落和縫隙，獲取任何和所有來自樹木的東西！合成、戰利品、獲得每一個半磚...樹苗...樹葉...更多...所有的東西。全部！"]
 			id: "4BA7DC6CA55620AB"
 			tasks: [{
 				id: "1248CDC2A4B7663D"
