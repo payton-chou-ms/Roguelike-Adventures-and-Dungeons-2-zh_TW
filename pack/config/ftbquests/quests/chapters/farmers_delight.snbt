@@ -12,9 +12,9 @@
 			x: -4.0d
 			y: -5.5d
 			description: [
-				"This will allow you to start creating a number of drinks. By right clicking on this with a variety of grown products the process can begin."
-				"The brewing barrel will bubble while working, but when this stops right clicking with an empty glass bottle will give you your new treat."
-				"The following quests give you some drinks to try."
+				"這將允許你開始製作多種飲料。透過右鍵點擊並使用各種種植產品即可開始該過程。"
+				"釀造桶在工作時會冒泡，但當這停止時，用空玻璃瓶右鍵點擊將給你新的飲品。"
+				"以下任務給你一些飲料可以嘗試。"
 			]
 			id: "00000000000001B9"
 			tasks: [{
@@ -390,7 +390,7 @@
 			icon: "simplefarming:grape_seeds"
 			x: -1.0d
 			y: -5.5d
-			description: ["Grapes will grow into a small bush that must then have a fence piece attached to the upper bush piece to grow grapes."]
+			description: ["葡萄將長成一個小灌木，然後必須在上部灌木片上附加一塊柵欄才能長出葡萄。"]
 			id: "00000000000001DB"
 			tasks: [
 				{
@@ -428,7 +428,7 @@
 		{
 			x: -4.0d
 			y: -2.5d
-			description: ["Will prevent crops from being trampled in a 10 block radius."]
+			description: ["將防止作物在 10 個方塊半徑內被踐踏。"]
 			id: "000000000000035D"
 			tasks: [{
 				id: "000000000000035E"
@@ -1202,7 +1202,7 @@
 			title: "Potato, Potatoe"
 			x: -9.5d
 			y: 0.5d
-			description: ["Should be able to nab some of these to get you started from a village."]
+			description: ["應該能夠從村莊中獲取一些來開始。"]
 			dependencies: ["0000000000000FC0"]
 			id: "00000000000000CD"
 			tasks: [{
@@ -1227,7 +1227,7 @@
 		{
 			x: -10.5d
 			y: -2.5d
-			description: ["You will come across a lot of these from grass."]
+			description: ["你會從草叢中遇到很多這些。"]
 			dependencies: ["0000000000000FC0"]
 			id: "00000000000000C5"
 			tasks: [{
@@ -1252,7 +1252,7 @@
 			title: "Wheatabix"
 			x: -12.0d
 			y: -2.5d
-			description: ["Get to growing!"]
+			description: ["開始種植吧！"]
 			dependencies: ["00000000000000C5"]
 			id: "00000000000000C9"
 			tasks: [{
@@ -1306,7 +1306,7 @@
 		{
 			x: -12.0d
 			y: -0.5d
-			description: ["Cook up some Cactus!"]
+			description: ["煮一些仙人掌！"]
 			dependencies: ["0000000000000FC2"]
 			id: "00000000000000D1"
 			tasks: [{
@@ -1336,7 +1336,7 @@
 		{
 			x: -13.5d
 			y: -0.5d
-			description: ["Give your base some flair."]
+			description: ["為你的基地增添一些風格。"]
 			dependencies: ["00000000000000D1"]
 			id: "00000000000000D3"
 			tasks: [{
@@ -1360,7 +1360,7 @@
 		{
 			x: -15.5d
 			y: -8.5d
-			description: ["Will display the first page of a book and quill or a map."]
+			description: ["將顯示書和羽毛筆或地圖的第一頁。"]
 			dependencies: ["0000000000000730"]
 			id: "0000000000000732"
 			tasks: [{
@@ -1377,7 +1377,7 @@
 		{
 			x: -14.0d
 			y: -8.5d
-			description: ["A chicken uses some squid juice to mark on some flat sticks surrounded by the skin of a cow."]
+			description: ["一隻雞使用一些魷魚汁在被牛皮包圍的平木棍上做標記。"]
 			dependencies: ["0000000000000FE4"]
 			id: "0000000000000730"
 			tasks: [{
@@ -1395,7 +1395,7 @@
 			title: "Sugar or Paper?"
 			x: -9.5d
 			y: -5.5d
-			description: ["Let those stalks reach for the sky!"]
+			description: ["讓那些莖稈伸向天空！"]
 			dependencies: ["0000000000000FC0"]
 			id: "000000000000072E"
 			tasks: [{
@@ -1424,9 +1424,9 @@
 			x: -7.0d
 			y: -2.5d
 			description: [
-				"The following are your basic crops that will always be handy when you are hungry."
+				"以下是你的基本作物，當你飢餓時總是很方便。"
 				""
-				"The quests following the initial crops give a basic recipe to help keep you fed but look to JEI for more complex and fullfilling recipes."
+				"初始作物後的任務提供基本食譜以幫助你保持溫飽，但請查看 JEI 以獲取更複雜和令人滿意的食譜。"
 			]
 			id: "0000000000000FC0"
 			tasks: [{
@@ -1443,7 +1443,7 @@
 			title: "Cacti"
 			x: -10.0d
 			y: -0.5d
-			description: ["Desert adventure time."]
+			description: ["沙漠冒險時間。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FC2"
 			tasks: [{
@@ -1486,7 +1486,7 @@
 		{
 			x: -10.5d
 			y: -1.5d
-			description: ["I am supposed to beat a root?"]
+			description: ["我應該打一個根莖嗎？"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FC6"
 			tasks: [{
@@ -1527,7 +1527,7 @@
 		{
 			x: -12.0d
 			y: -6.5d
-			description: ["Man I will be able to write so much stuff on this."]
+			description: ["夥計，我將能夠在這上面寫這麼多東西。"]
 			dependencies: ["000000000000072E"]
 			id: "0000000000000FCE"
 			tasks: [{
@@ -1553,7 +1553,7 @@
 			title: "Carrots"
 			x: -9.0d
 			y: 1.5d
-			description: ["Should be able to find a few of these in villages as well."]
+			description: ["也應該能夠在村莊中找到一些這些。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD0"
 			tasks: [{
@@ -1571,7 +1571,7 @@
 		{
 			x: -10.5d
 			y: -3.5d
-			description: ["Have to eat some melons to make some melons."]
+			description: ["必須吃一些西瓜才能做西瓜。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD2"
 			tasks: [{
@@ -1588,7 +1588,7 @@
 		{
 			x: -10.0d
 			y: -4.5d
-			description: ["You don't have jack on me Mr. Pumpkin!"]
+			description: ["南瓜先生，你可奈何不了我！"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD4"
 			tasks: [{
@@ -1606,7 +1606,7 @@
 			title: "Hell Wart"
 			x: -9.0d
 			y: -6.5d
-			description: ["Nether fortress mold."]
+			description: ["地獄要塞黴菌。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD6"
 			tasks: [{
@@ -1625,7 +1625,7 @@
 			title: "Sweet Berries"
 			x: -8.5d
 			y: -7.5d
-			description: ["You are going to have to travel to the great white north to find some of these delicous berries."]
+			description: ["你將不得不前往極北之地才能找到一些這些美味的漿果。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD8"
 			tasks: [{
@@ -1714,7 +1714,7 @@
 		{
 			x: -12.0d
 			y: -7.5d
-			description: ["The skin of the innocent..... oh boy that sounds bad....."]
+			description: ["無辜者的皮膚.....哦天啊，這聽起來很糟糕....."]
 			id: "0000000000000FE2"
 			tasks: [{
 				id: "0000000000000FE3"
@@ -1737,7 +1737,7 @@
 		{
 			x: -14.0d
 			y: -7.5d
-			description: ["Bound and binded."]
+			description: ["束縛和綁定。"]
 			dependencies: [
 				"0000000000000FCE"
 				"0000000000000FE2"
@@ -1863,7 +1863,7 @@
 		{
 			x: -12.0d
 			y: -8.5d
-			description: ["Eggs o'plenty!"]
+			description: ["蛋蛋滿滿！"]
 			id: "000000000000132B"
 			tasks: [{
 				id: "000000000000132C"
@@ -1887,7 +1887,7 @@
 		{
 			x: -4.0d
 			y: 0.5d
-			description: ["Time to get fishing!"]
+			description: ["是時候去釣魚了！"]
 			id: "00000000000015DB"
 			tasks: [{
 				id: "00000000000015DC"
@@ -1916,7 +1916,7 @@
 		{
 			x: -3.5d
 			y: 2.5d
-			description: ["My own custom designed fishing rod. Can be customized with special tackle and bait."]
+			description: ["我自己定制設計的釣竿。可以用特殊的釣具和魚餌進行定制。"]
 			dependencies: ["00000000000015DB"]
 			id: "00000000000015DD"
 			tasks: [{
@@ -1952,7 +1952,7 @@
 		{
 			x: -2.0d
 			y: 2.5d
-			description: ["When you are the best fisherman around."]
+			description: ["當你是附近最好的漁夫時。"]
 			dependencies: ["00000000000015DD"]
 			id: "00000000000015DF"
 			tasks: [{
@@ -1975,7 +1975,7 @@
 		{
 			x: -0.5d
 			y: 2.5d
-			description: ["When you just want to blind the fish."]
+			description: ["當你只想讓魚致盲時。"]
 			dependencies: ["00000000000015DF"]
 			id: "00000000000015E1"
 			tasks: [{
@@ -2017,7 +2017,7 @@
 		{
 			x: 1.0d
 			y: 2.5d
-			description: ["The best fishing rod around. Neptune's personal rod. Increases bite rate of fish."]
+			description: ["周圍最好的釣竿。海神的個人釣竿。增加魚的咬餌率。"]
 			dependencies: ["00000000000015E1"]
 			id: "00000000000015E3"
 			tasks: [{
@@ -2052,7 +2052,7 @@
 		{
 			x: -2.0d
 			y: 5.5d
-			description: ["Is placed on the ground with a rightclick. From there, you can access it's inventory where you can apply tackle to fishing rods on the right. The box also has storage slots to hold bait and tackle. To pickup the box again simply shift rightclick it."]
+			description: ["右鍵點擊放置在地面上。從那裡，你可以訪問其物品欄，在右側可以將釣具應用於釣竿。盒子還有儲存槽來存放魚餌和釣具。要再次拾起盒子，只需按住 Shift 右鍵點擊它。"]
 			dependencies: ["00000000000015DD"]
 			id: "00000000000015E5"
 			tasks: [{
@@ -2069,7 +2069,7 @@
 		{
 			x: -3.5d
 			y: 5.0d
-			description: ["The worm box works like the composter (load with vegetables or fruit) but it produces worms to use as bait."]
+			description: ["蟲箱的作用類似於堆肥桶（裝入蔬菜或水果），但它會產生蟲子作為魚餌。"]
 			dependencies: ["00000000000015DD"]
 			id: "00000000000015E7"
 			tasks: [{
@@ -2088,7 +2088,7 @@
 			title: "Bait"
 			x: -3.5d
 			y: 6.0d
-			description: ["Worms are but a single bait that can be used with fishing rods. Their are also leeches and minnows that you catch by fishing."]
+			description: ["蠕蟲只是可以與釣竿一起使用的一種魚餌。還有你透過釣魚捕捉的水蛭和小魚。"]
 			dependencies: ["00000000000015E7"]
 			id: "00000000000015E9"
 			tasks: [{
@@ -2131,7 +2131,7 @@
 			x: -1.25d
 			y: 4.0d
 			shape: "gear"
-			description: ["I caught a chest..... wonder if it is anything valuable?"]
+			description: ["我釣到了一個箱子...不知道裡面有沒有什麼值錢的東西？"]
 			dependencies: ["00000000000015DD"]
 			size: 1.5d
 			id: "00000000000015EB"
@@ -2167,7 +2167,7 @@
 		{
 			x: 0.0d
 			y: 5.5d
-			description: ["Can be dyed like leather and can be used to customize your fishing rod."]
+			description: ["可以像皮革一樣染色，並用於客製化你的釣竿。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015F0"
 			tasks: [{
@@ -2190,7 +2190,7 @@
 		{
 			x: 0.0d
 			y: 6.5d
-			description: ["Can be dyed like leather and can be used to customize your fishing rod."]
+			description: ["可以像皮革一樣染色，並用於客製化你的釣竿。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015F2"
 			tasks: [{
@@ -2213,7 +2213,7 @@
 		{
 			x: 0.0d
 			y: 7.5d
-			description: ["Incurs a 20% chance to not use durability when applied to a rod."]
+			description: ["應用於釣竿時有 20% 的機率不使用耐久度。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015F4"
 			tasks: [{
@@ -2236,7 +2236,7 @@
 		{
 			x: 0.0d
 			y: 8.5d
-			description: ["Increases a rods luck when applied to a rod."]
+			description: ["應用於釣竿時增加釣竿的幸運值。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015F6"
 			tasks: [{
@@ -2253,7 +2253,7 @@
 		{
 			x: 0.0d
 			y: 9.5d
-			description: ["Incurs a 50% chance to not use durability when applied to a rod."]
+			description: ["應用於釣竿時有 50% 的機率不使用耐久度。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015F8"
 			tasks: [{
@@ -2283,7 +2283,7 @@
 		{
 			x: -1.0d
 			y: 10.0d
-			description: ["Allows a rod to cast further when applied to a rod."]
+			description: ["應用於釣竿時允許釣竿投得更遠。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015FA"
 			tasks: [{
@@ -2306,7 +2306,7 @@
 		{
 			x: -2.0d
 			y: 10.0d
-			description: ["Allows a chance to catch two things at once when applied to a rod."]
+			description: ["應用於釣竿時允許有機會一次捕獲兩件東西。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015FC"
 			tasks: [{
@@ -2329,7 +2329,7 @@
 		{
 			x: -3.0d
 			y: 9.5d
-			description: ["Increases the amount of time allowed to reel in a fish when applied to a rod."]
+			description: ["應用於釣竿時增加允許捲入魚的時間量。"]
 			dependencies: ["00000000000015E5"]
 			id: "00000000000015FE"
 			tasks: [{
@@ -2352,7 +2352,7 @@
 		{
 			x: -3.5d
 			y: 8.5d
-			description: ["Plays a note when a fish is about to bite when applied to a rod."]
+			description: ["應用於釣竿時當魚即將上鉤時播放音符。"]
 			dependencies: ["00000000000015E5"]
 			id: "0000000000001600"
 			tasks: [{
@@ -2375,7 +2375,7 @@
 		{
 			x: -3.5d
 			y: 7.5d
-			description: ["Incurs a 50% chance to not use durability when applied to a rod, as well as increase the rods luck."]
+			description: ["應用於釣竿時有 50% 的機率不使用耐久度，並增加釣竿的幸運值。"]
 			dependencies: ["00000000000015E5"]
 			id: "0000000000001602"
 			tasks: [{
@@ -2399,9 +2399,9 @@
 			x: -5.5d
 			y: 2.5d
 			description: [
-				"Fillet of fish sure sounds a lot better than eating a whole fish, scales and all."
+				"魚片聽起來肯定比吃整條魚（包括魚鱗和所有）好得多。"
 				""
-				"Pretty much a sharp stick."
+				"基本上就是一根尖棍子。"
 			]
 			dependencies: ["00000000000015DB"]
 			id: "000000000000161A"
@@ -2433,7 +2433,7 @@
 		{
 			x: -5.5d
 			y: 4.0d
-			description: ["Should be better than cutting open a fish with a sharp stick."]
+			description: ["應該比用尖棍子切開魚好。"]
 			dependencies: ["000000000000161A"]
 			id: "000000000000161C"
 			tasks: [{
@@ -2463,7 +2463,7 @@
 		{
 			x: -5.5d
 			y: 5.5d
-			description: ["My first professional fillet knife."]
+			description: ["我的第一把專業切片刀。"]
 			dependencies: ["000000000000161C"]
 			id: "000000000000161E"
 			tasks: [{
@@ -2492,7 +2492,7 @@
 		{
 			x: -5.5d
 			y: 7.0d
-			description: ["My worst purchased knife."]
+			description: ["我買過最差的刀。"]
 			dependencies: ["000000000000161E"]
 			id: "0000000000001620"
 			tasks: [{
@@ -2515,7 +2515,7 @@
 		{
 			x: -5.5d
 			y: 8.5d
-			description: ["This knife should never dull."]
+			description: ["這把刀應該永遠不會變鈍。"]
 			dependencies: ["0000000000001620"]
 			id: "0000000000001622"
 			tasks: [{
@@ -2550,7 +2550,7 @@
 		{
 			x: -5.5d
 			y: 10.0d
-			description: ["A fillet knife imbuded with the power of Neptune. It will never break and gives additional fillets per fish."]
+			description: ["注入海神力量的魚片刀。它永遠不會破裂，每條魚提供額外的魚片。"]
 			dependencies: ["0000000000001622"]
 			id: "0000000000001624"
 			tasks: [{
@@ -2583,9 +2583,9 @@
 			subtitle: "Knives are scavenging tools: they allow you to obtain a few more resources from both fauna and flora."
 			description: [
 				""
-				"- Any animals you slay using a Knife are guaranteed to drop secondary items, such as Leather and Feathers;"
+				"- 你使用刀殺死的任何動物都保證掉落次要物品，例如皮革和羽毛；"
 				""
-				"- Grassy plants (grass, wheat, rice etc) cut with a Knife will occasionally yield Straw, a firm and useful fiber;"
+				"- 用刀切割的草本植物（草、小麥、水稻等）偶爾會產出稻草，一種堅韌且有用的纖維；"
 				""
 				"- They act as a modest melee weapon: swings faster than a sword for lesser damage;"
 				""
@@ -2637,11 +2637,11 @@
 			x: 3.0d
 			y: -8.5d
 			description: [
-				"The Stove is a direct upgrade to the Campfire's cooking features, and a suitable heat source for the Cooking Pot."
+				"爐灶是營火烹飪功能的直接升級，也是烹飪鍋的合適熱源。"
 				""
-				"To add items to its grill, simply right-click the Stove when it has no objects blocking its top face. Stoves detect campfire recipes to cook, meaning they usually also take 30 seconds to fully prepare items. Stoves cannot be automated through item transferring blocks (e.g. Hoppers), but require no fuel to cook items, much like a Campfire."
+				"要向其烤架添加物品，只需在其頂面沒有物體阻擋時右鍵點擊爐灶。爐灶檢測營火食譜進行烹飪，這意味著它們通常也需要 30 秒才能完全準備物品。爐灶無法透過物品轉移方塊（例如漏斗）自動化，但不需要燃料來烹飪物品，就像營火一樣。"
 				""
-				"Stoves can hold six (6) items on its grill, and will gently pop cooked outputs above its surface, instead of throwing them around."
+				"爐灶的烤架上可以容納六 (6) 個物品，並會在其表面上方輕輕彈出煮熟的輸出，而不是將它們扔到周圍。"
 				""
 				"Stoves can be put out using shovels or buckets of water, and reignited with Flint and Steel."
 			]
@@ -2669,11 +2669,11 @@
 			x: 4.5d
 			y: -6.0d
 			description: [
-				"The Cooking Pot is a workstation where you can both prepare and store a large amount of meals. When placed above any suitable heat source (campfire, open flames, lava, a stove etc.), it will start bubbling, indicating it's ready to cook."
+				"烹飪鍋是一個工作站，你可以在其中準備和儲存大量膳食。當放置在任何合適的熱源（營火、明火、岩漿、爐灶等）上方時，它會開始冒泡，表示它已準備好烹飪。"
 				""
-				"You can put up to six ingredients inside a pot. If they match, the pot will start cooking them up into a meal. Most meals need a container to be served on, such as Bowls; the result slot will tell you which one to use. Simply add the container on the corresponding slot, or right-click the pot with it, to take a serving!"
+				"你可以在鍋中放入最多六種材料。如果它們匹配，鍋將開始將它們烹飪成一頓飯。大多數膳食需要一個容器來盛裝，例如碗；結果槽會告訴你使用哪一個。只需將容器添加到相應的槽位，或用它右鍵點擊鍋，即可取出一份！"
 				""
-				"Meals tend to be quite large, so they don't stack up as high in your inventory. If you're not going to eat them all right away, you can just mine the whole pot and take it with you! Cooking Pots can hold 64 servings of any meal with a container, regardless of their maximum stack limit."
+				"膳食往往相當大，因此它們在你的物品欄中堆疊得不高。如果你不打算立即吃完它們，你可以直接開採整個鍋並隨身攜帶！烹飪鍋可以容納 64 份帶容器的任何膳食，無論其最大堆疊限制如何。"
 			]
 			dependencies: ["32D6083223BDCD90"]
 			id: "18F8DADD01FEC9C2"
@@ -2700,9 +2700,9 @@
 			y: -8.5d
 			subtitle: "The Cutting Board is a workstation where players can break down one item into many outputs, by using a valid tool on it."
 			description: [
-				"Items can be placed on the Cutting Board by using them on it. It always prefers receiving items from the off-hand, allowing players to hold their ingredients there while holding the tool in their main hand, processing the stack simply by holding the use button."
+				"物品可以透過在砧板上使用它們來放置。它總是優先從副手接收物品，允許玩家將材料放在那裡，同時在主手中握住工具，只需按住使用按鈕即可處理堆疊。"
 				""
-				"When the correct tool is used on a valid item, it will be broken down into 1-4 different outputs, which are swiped sideways. Outputs always fly to the direction opposite to the Cutting Board's handle, allowing them to be collected by an item-capturing block, such as a Hopper or Basket. The tool receives 1 point of damage for each processed item."
+				"當在有效物品上使用正確的工具時，它將被分解為 1-4 個不同的輸出，這些輸出會向側面滑動。輸出總是飛向與砧板手柄相反的方向，允許它們被物品捕獲方塊（例如漏斗或籃子）收集。工具每處理一個物品就會受到 1 點傷害。"
 			]
 			dependencies: ["19A4385584636C45"]
 			id: "2FEC85DD348C7C1C"
@@ -2727,7 +2727,7 @@
 		{
 			x: 4.0d
 			y: -7.0d
-			description: ["When consumed, it will remove a single random negative effect from the player, keeping positive ones untouched. This provides a simple use for Cocoa Beans in difficult, risky trips."]
+			description: ["食用時，它將從玩家身上移除一個隨機的負面效果，保持正面效果不變。這為可可豆在困難、危險的旅行中提供了一個簡單的用途。"]
 			dependencies: ["18F8DADD01FEC9C2"]
 			id: "55AF1779E7AE28A7"
 			tasks: [{
@@ -2752,7 +2752,7 @@
 			x: 1.5d
 			y: 0.0d
 			description: [
-				"Using a Knife on grassy plants will yield Straw, a useful building and composting material. Early on, it's best used to craft some Ropes."
+				"在草本植物上使用刀會產生稻草，這是一種有用的建築和堆肥材料。早期最好用它來製作一些繩索。"
 				""
 			]
 			dependencies: ["06FCFD49B9DC5C59"]
@@ -2779,9 +2779,9 @@
 			x: 3.0d
 			y: 1.5d
 			description: [
-				"Ropes are essentially reverse scaffolding: the can be continuously deployed downward from the same spot, and can be climbed without collision. This allows players to safely descend or ascend high altitudes, such as ravines or mountains."
+				"繩索本質上是反向鷹架：它們可以從同一位置連續向下部署，並且可以在沒有碰撞的情況下攀爬。這允許玩家安全地下降或上升高海拔，例如峽谷或山脈。"
 				""
-				"When placing Rope, you can use more ropes against the first one to deploy them downward. This will continuously extend a column of rope down to the bottom-most Y-level possible, allowing for easy and controllable descents into chasms, ravines or from high locations."
+				"放置繩索時，你可以在第一個繩索上使用更多繩索向下部署它們。這將連續將繩索柱延伸到可能的最底部 Y 級別，允許輕鬆且可控地下降到深淵、峽谷或從高處。"
 				""
 				"To suppress rope deployment, simply sneak while placing it. If there's no space underneath to deploy, it will also place normally."
 			]
@@ -2808,7 +2808,7 @@
 		{
 			x: 5.0d
 			y: 1.5d
-			description: ["Fully absorbs your fall without dealing damage."]
+			description: ["完全吸收你的墜落而不造成傷害。"]
 			dependencies: ["27E4CBB51DBD27CD"]
 			id: "22E1A465FAF7EAA2"
 			tasks: [{
@@ -2947,9 +2947,9 @@
 			x: 3.5d
 			y: 0.0d
 			description: [
-				"Rich Soil is an enhanced type of dirt, more fertile and durable to the elements."
+				"肥沃土壤是一種增強型泥土，對元素更肥沃且更耐用。"
 				""
-				"Rich Soil cannot be directly crafted. To make it, you must craft Organic Compost and place it into the world, letting it decompose over time."
+				"肥沃土壤無法直接合成。要製作它，你必須合成有機堆肥並將其放入世界，讓它隨時間分解。"
 				""
 				"Organic Compost will decompose more easily under sunlight and moisture from nearby water, but doesn't actually hydrate like farmland. It can also be gently accelerated by placing activators next to it, in a 3x3x3 area centered on itself."
 				""
@@ -2983,8 +2983,8 @@
 			x: 5.5d
 			y: 0.0d
 			description: [
-				"When any growable plant is placed on Rich Soil, its growth will be randomly boosted, similar to the usage of Bone Meal."
-				"Rich Soil can be tilled into Rich Farmland through the use of hoes. Rich Farmland is immune to mob trampling and won't unravel to Melons or Pumpkins, but requires hydration in order to boost crops."
+				"當任何可生長的植物放置在肥沃土壤上時，其生長將被隨機加速，類似於骨粉的使用。"
+				"肥沃土壤可以透過使用鋤頭耕作成肥沃農田。肥沃農田對生物踐踏免疫，不會被西瓜或南瓜破壞，但需要水合才能促進作物生長。"
 				""
 				"Mushrooms planted on Rich Soil under sufficient darkness will eventually form a Mushroom Colony. Such colonies will grow from 2 to 5 mushroom caps over time, dropping them when harvested."
 			]
@@ -3013,9 +3013,9 @@
 			y: -6.0d
 			subtitle: "Feasts are very large meals, which can be placed as a block to provide multiple servings to players."
 			description: [
-				"Feasts are not edible directly as an item; they must be placed down as a block first. When placed, players can use (right-click) them with Bowls to serve themselves with a consumable portion."
+				"盛宴不能作為物品直接食用；它們必須先作為方塊放下。放置後，玩家可以使用（右鍵點擊）它們與碗一起為自己提供一份可消費的部分。"
 				""
-				"The existing feasts in Farmer's Delight provide 4 servings in total. Plated feasts will also leave behind leftovers in the form of a dirty plate; right-clicking or mining it will retrieve the original Bowl, and any bones or food scraps left behind."
+				"農夫的喜悅中現有的盛宴總共提供 4 份。盤裝盛宴也會留下殘羹剩飯的形式的髒盤子；右鍵點擊或開採它將取回原始碗，以及留下的任何骨頭或食物殘渣。"
 			]
 			dependencies: ["18F8DADD01FEC9C2"]
 			id: "619A52669514E850"
@@ -3125,7 +3125,7 @@
 		{
 			x: 6.0d
 			y: -8.5d
-			description: ["This combination allows your mount to be a lot more agile during travels. Since mounts eat a large volume of feed, the item does not need to be contained in a Bowl, saving some inventory space."]
+			description: ["這種組合使你的坐騎在旅行期間更加敏捷。由於坐騎吃大量飼料，物品不需要裝在碗中，節省了一些物品欄空間。"]
 			dependencies: ["604569BC4764E258"]
 			id: "31E7C56ABBA6A7B2"
 			tasks: [{
@@ -3149,7 +3149,7 @@
 		{
 			x: 6.5d
 			y: -7.5d
-			description: ["This combination allows wolves to catch up a lot more easily with you or nimble opponents, as well as last longer in battle."]
+			description: ["這種組合使狼更容易追上你或靈活的對手，並在戰鬥中持續更長時間。"]
 			dependencies: ["604569BC4764E258"]
 			id: "3693C3F67BD59401"
 			tasks: [{

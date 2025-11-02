@@ -95,15 +95,15 @@
 			x: -0.5d
 			y: -0.5d
 			description: [
-				"There are couple of new mechanics that this pack employs, descriptions of which you will find following this quest."
-				"You can always come back here to read them again."
+				"這個模組包採用了一些新的機制，你將在這個任務之後找到它們的描述。"
+				"你隨時可以回到這裡再次閱讀它們。"
 				""
-				"- Gain variable benefits for eating a greater variety of foods."
-				"- Harvest groups of blocks at time to speed up mining, harvesting, and tilling."
-				"- more Piglins behaviors"
-				"- progressive difficulty(including bosses)"
-				"- bleeding"
-				"- new nether portal mechanics"
+				"- 透過食用更多種類的食物獲得可變的好處。"
+				"- 一次收穫一組方塊以加快採礦、收穫和耕作速度。"
+				"- 更多豬布林行為"
+				"- 漸進式難度（包括 Boss）"
+				"- 流血"
+				"- 新的地獄傳送門機制"
 			]
 			id: "56127AAF761DC8DA"
 			tasks: [{
@@ -130,19 +130,19 @@
 			x: -2.0d
 			y: -0.5d
 			description: [
-				"- Piglins now have a reputation system that works similarly to Villagers. Doing things like fighting alongside them against Wither mobs, giving them gifts and bartering with them increases your reputation. Doing things like hurting or killing Piglin mobs and engaging in unauthorized mining/chest opening around them decreases your reputation."
+				"- 豬布林現在有一個類似於村民的聲譽系統。做一些事情，例如與他們一起對抗凋零怪物、送禮物給他們以及與他們進行易物會增加你的聲譽。做一些事情，例如傷害或殺死豬布林怪物以及在他們周圍進行未經授權的採礦/開箱會降低你的聲譽。"
 				""
-				"- At +50 reputation with a Piglin, you will no longer be required to wear gold armor around them. At +100 reputation, you will be authorized to open chests and mine gold around them."
+				"- 當與豬布林的聲譽達到 +50 時，你將不再需要在他們周圍穿金盔甲。在 +100 聲譽時，你將被授權在他們周圍打開箱子和採金。"
 				""
-				"- At -50 reputation with a Piglin, you will no longer receive items from bartering. At -100 reputation, you will be attacked on sight regardless of whether or not you are wearing gold armor."
+				"- 當與豬布林的聲譽達到 -50 時，你將不再從易物中獲得物品。在 -100 聲譽時，無論你是否穿金盔甲，你都會被立即攻擊。"
 				""
-				"- Piglins seek out and pick up food items (by default, porkchops and cooked porkchops) and consume them, complete with an eating animation. Players can also right-click them with their food items if the Piglin has not already recently eaten and they will accept it. Eating food will also restore a Piglin's health in an amount identical to the food item's hunger value."
+				"- 豬布林會尋找並拾取食物物品（預設為豬排和熟豬排）並消耗它們，還有完整的進食動畫。如果豬布林最近沒有吃過東西，玩家也可以右鍵點擊他們並給他們食物物品，他們會接受。進食也會恢復豬布林的生命值，數量與食物物品的飢餓值相同。"
 				""
-				"- Piglins can now barter with gold nuggets and gold blocks. Gold nuggets make you far more likely to receive common barter items, with all item stack sizes halved. Gold blocks make you far more likely to receive rare barter items, with all item stack sizes doubled."
+				"- 豬布林現在可以用金粒和金塊進行易物。金粒使你更有可能獲得常見的易物物品，所有物品堆疊大小減半。金塊使你更有可能獲得稀有的易物物品，所有物品堆疊大小加倍。"
 				""
-				"- Piglins now shake their heads like Villagers when declining an offered item."
+				"- 豬布林現在會像村民一樣在拒絕提供的物品時搖頭。"
 				""
-				" Piglins now emit particles/make sounds when accepting an item from you or declining it."
+				"豬布林現在在接受你的物品或拒絕時會發出粒子/聲音。"
 				""
 				""
 			]
@@ -172,11 +172,11 @@
 			x: 0.0d
 			y: 2.5d
 			description: [
-				"Nether portals now come in the form of Dimensional Rifts, which you'll find scattered deep underground. You'll have to find one of these Rifts in order to get to the Nether - but be careful, because it's now a one-way trip!"
+				"地獄傳送門現在以次元裂縫的形式出現，你會發現它們散佈在地下深處。你必須找到其中一個裂縫才能到達地獄 - 但要小心，因為這現在是單程旅行！"
 				""
-				"To get back from the Nether, you'll have to search for a Monolith. These are new, semi-rare structures that can be easily spotted from far away thanks to the beams they shoot into the sky."
+				"要從地獄回來，你必須尋找巨石陣。這些是新的、半稀有的結構，由於它們射向天空的光束，可以從遠處輕鬆發現。"
 				""
-				"The block at the center of each Monolith that shoots this beam is called a Reclaimer, and it's the key to returning to the Overworld. However, the Reclaimer won't do much without a little power. In order to power it, you'll have to place a gold block on each of its four sides - something that shouldn't be too difficult to pull off in the Nether. "
+				"每個巨石陣中心射出這束光的方塊稱為回收器，它是返回主世界的關鍵。然而，回收器沒有一點能量就做不了什麼。為了為它供電，你必須在它的四個側面各放置一個金塊 - 這在地獄中應該不會太難完成。"
 				""
 				"Once powered, the Reclaimer has the ability to lift you back into the Overworld."
 				"================================="
@@ -213,7 +213,7 @@
 				"血月是一個月相事件，它提高了怪物的生成的上限，同時也讓您沒辦法睡覺，血月的機制是受到 Terraria 的血月中出現的怪物生成率增加的啟發。"
 				""
 				"豐收之月:"
-				"The harvest moon is a lunar which cranks up both the crop growth rate and crop drop rate!"
+				"豐收月是一個月相，它同時提高作物生長速度和作物掉落率！"
 				""
 				"藍月:"
 				"The blue moon is a lunar event that gives you the luck effect and increases the quality of loot in vanilla loot tables!"
@@ -238,11 +238,11 @@
 			shape: "square"
 			subtitle: "目前的維度數量：10"
 			description: [
-				"• Atum 2 - a new and unique desert dimension full of sand, temples, as well as many new enemies! Traveling through the dimension you can discover new artifacts, making your way to them through mountains of sand and enemies."
+				"• Atum 2 - 一個充滿沙子、神廟以及許多新敵人的新奇沙漠次元！穿越次元時，你可以發現新的文物，穿過沙丘和敵人到達它們。"
 				""
-				"• Blue skies: Everbright and Everdawn - two new dimensions, one lighter and colder, and the other darker and warmer. In each of them you will find new blocks, mobs, tools, weapons and bosses."
+				"• Blue skies：Everbright 和 Everdawn - 兩個新次元，一個更亮更冷，另一個更暗更溫暖。在每個次元中，你都會發現新的方塊、生物、工具、武器和 Boss。"
 				""
-				"• Dimensional Dungeons - limitless procedurally generated dungeons dimension."
+				"• Dimensional Dungeons - 無限的程序生成地牢次元。"
 				""
 				"• The Afterlight - a soul-themed dark and luminescent dimension, located on the Dark Arm of the Dimensional Plane (In between the End and the Overworld)"
 				""
@@ -280,9 +280,9 @@
 			y: -2.0d
 			subtitle: "In-Depth, Well Balanced and Seamlessly Integrated Dodging"
 			description: [
-				"- Armor Weights. Dodging is impacted directly by the heaviness of your armor; you have to think twice about what you equip!"
+				"- 盔甲重量。閃避直接受到盔甲重量的影響；你必須三思而後行你裝備什麼！"
 				""
-				"- You can adjust the Dodge Key button from its default value of Left-Alt in Minecraft's controls menu!"
+				"- 你可以在 Minecraft 的控制選單中從預設值 Left-Alt 調整閃避按鍵！"
 			]
 			dependencies: ["56127AAF761DC8DA"]
 			id: "55DE8B3522A4F8A6"
@@ -325,18 +325,18 @@
 			x: 3.0d
 			y: 9.0d
 			description: [
-				"There is now a new system for enchanting that uses three stats, instead of the original single stat system."
+				"現在有一個新的附魔系統，使用三個屬性，而不是原來的單一屬性系統。"
 				""
-				"Eterna is the stat that controls what level your enchanting table is at.  Certain types of bookshelves are only capable of providing certain max levels of Eterna, so be sure to check the max on the block."
+				"Eterna 是控制你的附魔台等級的屬性。某些類型的書架只能提供某些最大等級的 Eterna，所以一定要檢查方塊上的最大值。"
 				""
-				"Quanta determines how much flux is in your enchanting process.  When you begin an enchantment process, after spending your experience, your Quanta level will work behind the scenes to change your enchantment level.  This is not always beneficial, as Quanta is capable of both increasing and decreasing the actual enchanting level.  With a lot of Quanta, and a little luck, you could technically receive an enchantment equal to spending 200 levels!"
+				"Quanta 決定你的附魔過程中有多少通量。當你開始附魔過程時，在花費你的經驗後，你的 Quanta 等級將在幕後工作以改變你的附魔等級。這並不總是有益的，因為 Quanta 能夠增加和減少實際的附魔等級。憑藉大量的 Quanta 和一點運氣，你理論上可以獲得相當於花費 200 級的附魔！"
 				""
 				"Arcana determines how hard it is to get rare enchantments.  At 0%, the base rules for enchantment rarity apply, but as your Arcana increases, rare enchantments will become more common, and common enchantments will become quite rare.  At 100% Arcana, the rarities are flipped on their heads entirely, and Very Rare enchantments will show up at the rate of common enchantments, while Common enchantments will be hard to find!  Finally, at 25% and 75% Arcana, every time you enchant, you are guaranteed an extra enchantment."
 				""
 				"To support the new enchantment stat system, Apotheosis adds 11 new bookshelves, each with their own unique enchanting stat combinations.  Shown here are the Endshelves, Seashelves, Hellshelves, the Beeshelf and the Melonshelf.  Combinations of these shelves can allow for any stat values you could dream of, however, reaching significantly high Eterna levels requires Endshelves."
 				""
-				"The Enchantment Library"
-				"The Enchantment Library is a block focused on storing enchantments.  Simply insert an enchanted book, and every enchantment on that book will be stored in the library internally.  Each enchantment on a deposited book will be stored as points.  A point is simply equivalent to a level 1 enchantment, and as such an enchantment is worth the amount of points it would take to combine it from level one books (2^(level -1) points per level).  The library also records the max level it has ever seen for a given enchantment, and you may only extract enchantments up to that level.  Meaning if you want to be able to extract a higher level of an enchantment, the library will need to have had that level deposited at least one time.To extract enchantments from the library, simply click the tile of the enchantment you want to extract, and it will be extracted to the output slot.  If the output slot is empty, a new enchanted book will be generated.  If it is not empty, it will apply the next level of that enchantment to the book (if you have enough points).  Shift-clicking on a tile will attempt to extract the max level available (if you have enough points).  The point cost for extracting is shown in the tooltip.  If that tooltip is red, you do not have enough points for that operation."
+				"附魔圖書館"
+				"附魔圖書館是一個專注於儲存附魔的方塊。只需插入一本附魔書，書上的每個附魔都會被儲存在圖書館內部。存入書上的每個附魔都會以點數形式儲存。一個點數等同於一級附魔，因此一個附魔的價值等於從一級書組合到該等級所需的點數（每級 2^(等級-1) 個點數）。圖書館還會記錄它見過的每個附魔的最高等級，你只能提取到該等級的附魔。這意味著如果你想提取更高等級的附魔，圖書館需要至少存入過該等級一次。要從圖書館提取附魔，只需點擊你想提取的附魔方塊，它就會被提取到輸出槽中。如果輸出槽為空，將生成一本新的附魔書。如果不為空，它會將該附魔的下一級應用到書上（如果你有足夠的點數）。Shift+點擊方塊將嘗試提取最高可用等級（如果你有足夠的點數）。提取的點數成本顯示在工具提示中。如果該工具提示為紅色，表示你沒有足夠的點數進行該操作。"
 			]
 			id: "6FCA404FDB2D82CC"
 			tasks: [{
@@ -386,7 +386,7 @@
 			description: [
 				"現在每個動物與人都會流血。這是一種類似中毒的藥水效果，可以使用一個新物品：「繃帶」，來解除這種效果。您穿著的裝備越多，流血的機率就越低。"
 				""
-				"Bleeding is caused by many different sources such as receiving sword damage, being bitten by a spider, or by touching a cactus..."
+				"流血是由許多不同的來源造成的，例如受到劍的傷害、被蜘蛛咬傷或觸摸仙人掌..."
 				""
 				"It is important to keep bandages with you at all times because bleeding becomes more deadly as the game progresses!"
 			]
@@ -421,7 +421,7 @@
 				"As difficulty increases, mobs become stronger."
 				""
 				""
-				"The difficulty value will determine how much extra health mobs can have. Mobs will also gain bonus attack damage and potion effects."
+				"難度值將決定生物可以擁有多少額外的生命值。生物還將獲得額外的攻擊傷害和藥水效果。"
 				""
 			]
 			dependencies: ["56127AAF761DC8DA"]
@@ -450,11 +450,11 @@
 			x: 1.5d
 			y: -2.0d
 			description: [
-				"Each Wither killed and Ender Dragon (re)spawned will count towards a point of Difficulty, making them harder the next time they're spawned.Each point of difficulty increases the Bosses stats and unlocks abilities."
+				"每次殺死凋零和重生終界龍都會計入一個難度點，使它們下次生成時更難。每個難度點都會增加 Boss 的屬性並解鎖能力。"
 				""
 				"Wither "
-				"Wither Health increases by 10 for each point of difficulty."
-				"Regenerates 0.05 HP per second for each point of difficulty (up to 1 HP per second). This is summed to the base regeneration of 1 HP per second the Wither already has."
+				"凋零生命值每個難度點增加 10。"
+				"每個難度點每秒再生 0.05 HP（最多每秒 1 HP）。這會加到凋零已經擁有的每秒 1 HP 的基礎再生上。"
 				"After the first Wither Spawned the second Wither will spawn Wither Minions (Wither Skeletons)."
 				"Has 2% chance per point of difficulty (up to 50%) to drop a Nether Star Shard."
 				""
@@ -526,11 +526,11 @@
 			y: -1.5d
 			subtitle: "Some of the new difficulty mechanics:"
 			description: [
-				"- Groups of enemies"
-				"Enemies appear in groups with one leader and followers who attack the same target as the leader. Followers are more likely to have weapons and leaders to have armors."
+				"- 敵人群組"
+				"敵人以群組形式出現，有一個領導者和跟隨者，他們攻擊與領導者相同的目標。跟隨者更有可能擁有武器，領導者更有可能擁有盔甲。"
 				""
-				"- Undead Army (new Raid)"
-				"The new raid starts after killing a certain amount of undead enemies. It has 3-5 waves, scales difficulty over time, and rewards the player with a treasure bag after finishing it. Also scales difficulty with each player participating in!"
+				"- 不死軍團（新的襲擊）"
+				"新的襲擊在殺死一定數量的不死敵人後開始。它有 3-5 波，隨著時間推移難度會增加，完成後會獎勵玩家一個寶藏袋。還會根據參與的每個玩家增加難度！"
 				""
 				"- fall damage can causes Slowness and Nausea"
 				""
@@ -570,11 +570,11 @@
 			x: 3.0d
 			y: 6.0d
 			description: [
-				"Spice of Life: Potato Edition will give you benefits for eating a variety of foods."
+				"Spice of Life: Potato Edition 會為食用多種食物提供好處。"
 				""
-				"You will receive variable benefits depending on how diverse your current diet is, and has been in the recent past."
+				"你將根據你當前飲食的多樣性以及最近過去的飲食多樣性獲得可變的好處。"
 				""
-				"You will have to maintain that level of diversity to keep those benefits. This should encourage automation of a variety of foods, rather than just encouraging you to eat each food once (SoL: Carrot Edition)."
+				"你必須保持這種多樣性水準才能保持這些好處。這應該鼓勵各種食物的自動化，而不僅僅是鼓勵你吃每種食物一次（SoL: Carrot Edition）。"
 				""
 				"*Note: This means your diversity score is constantly and dynamically changing depending on what your current and past diet. Thus, you can have many benefits after eating a diverse set of foods for a time, but falling back to eating only bread will gradually result in a loss/weakening of gained benefits.To get a higher diversity score, you need to keep including more and more diverse types of foods in your diet."
 			]
@@ -603,7 +603,7 @@
 			x: -1.0d
 			y: 2.5d
 			description: [
-				"There are multiple new villager jobs, all with unique trades, workstations, and advancements!"
+				"有多個新的村民職業，都有獨特的交易、工作站和進度！"
 				"- OCEANOGRAPHER"
 				"- NETHEROLOGIST"
 				"- FORESTER"
@@ -646,11 +646,11 @@
 			x: 3.0d
 			y: 7.0d
 			description: [
-				"Lost Trinkets mod adds more than 70+ unlockable trinkets with different abilities and rarities."
+				"Lost Trinkets 模組添加了 70 多個可解鎖的飾品，具有不同的能力和稀有度。"
 				""
-				"Trinkets are randomly unlocked when you doing some activities like fighting enemies and bosses, trading, mining ores, cutting trees, and farming.Each activity has a rarity of unlocking trinkets eg: killing bosses has a better chance than normal enemies"
+				"飾品在你進行某些活動時隨機解鎖，例如與敵人和 Boss 戰鬥、交易、開採礦石、砍樹和耕作。每個活動都有解鎖飾品的稀有度，例如：殺死 Boss 比普通敵人有更好的機會"
 				""
-				"You can access the trinket GUI by pressing the R key on your keyboard."
+				"你可以透過按鍵盤上的 R 鍵訪問飾品 GUI。"
 				"========================"
 				"There are also countless amount of curious(baubles) which have their own slot in your inventory. Each with unique different ability or property. "
 				""
@@ -702,13 +702,13 @@
 				""
 				"- Wither Skeletons may spawn with the Wither Sword instead of the Stone Sword"
 				""
-				"- Undead Army now has 4 waves"
+				"- 不死軍團現在有 4 波"
 				""
-				"- undead spawned during the Undead Army are twice as likely to have enchanted items"
+				"- 不死軍團期間生成的不死生物擁有附魔物品的可能性是兩倍"
 				""
-				"- undead spawned during the Undead Army are twice as likely to have armor pieces"
+				"- 不死軍團期間生成的不死生物擁有盔甲的可能性是兩倍"
 				""
-				"- Undead Army gives 100% more experience for completing it"
+				"- 不死軍團完成後給予 100% 更多經驗"
 				""
 				"- whenever you die from Bleeding or are killed by a Zombie there spawns a special Zombie with your head"
 			]
@@ -782,15 +782,15 @@
 				""
 				"- Creepers on explosion may spawn more Creeperlings"
 				""
-				"- Undead Army now has 5 waves"
+				"- 不死軍團現在有 5 波"
 				""
-				"- undead spawned during the Undead Army are quadruple as likely to have enchanted items"
+				"- 不死軍團期間生成的不死生物擁有附魔物品的可能性是四倍"
 				""
-				"- undead spawned during the Undead Army are thrice as likely to have armor pieces"
+				"- 不死軍團期間生成的不死生物擁有盔甲的可能性是三倍"
 				""
-				"- Undead Army now rewards with 2 Treasure Bags (instead of 1)"
+				"- 不死軍團現在獎勵 2 個寶藏袋（而不是 1 個）"
 				""
-				"- Undead Army gives 200% more experience for completing it (instead of 100%)"
+				"- 不死軍團完成後給予 200% 更多經驗（而不是 100%）"
 				""
 			]
 			dependencies: ["577182F7C0C5B85B"]
@@ -838,9 +838,9 @@
 			y: 8.0d
 			subtitle: "Keeps safe your inventory items on death with many features for better survivability and exploration"
 			description: [
-				"Corail Tombstone handles your death in Minecraft by providing tons of configuration options, many features to encourage to discover the world and several compatibilities between mods."
+				"Corail Tombstone 透過提供大量配置選項、許多鼓勵探索世界的功能以及模組之間的幾個兼容性來處理你在 Minecraft 中的死亡。"
 				""
-				"It also introduces a perk system : the Knowledge of Death, and a magic system based on some enchantable items with the help of the Souls haunting the Decorative Graves and waiting for a way to be freed for their eternal sentence.A screen in game allows to configure player preferences, access a Compendium of infos and the selection of the perks."
+				"它還引入了一個特權系統：死亡知識，以及一個基於一些可附魔物品的魔法系統，並藉助纏繞在裝飾性墳墓上的靈魂的幫助，等待一種方式讓它們從永恆的判決中解脫。遊戲中的螢幕允許配置玩家偏好、訪問資訊概要和選擇特權。"
 			]
 			id: "00EEAE0FACC02300"
 			tasks: [{
@@ -925,9 +925,9 @@
 			x: -0.7250000000000001d
 			y: 9.4d
 			description: [
-				"Alchemy skill is gained by brewing potions in the Brewing Stand."
+				"煉金技能透過在釀造台中釀造藥水獲得。"
 				""
-				"Higher levels of this skill allow for the possibility of extra potions being brewed when brewing a potion."
+				"更高等級的此技能允許在釀造藥水時有可能釀造額外的藥水。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -964,9 +964,9 @@
 			y: 8.55d
 			description: [
 				"敏捷技能可以數種方式獲得:"
-				"-Sprinting: the faster you are going, the more xp you will gain (Potions can boost this)."
-				"-Jumping: the higher you jump the more xp you gain (Potions can boost this)."
-				"-Saving fall damage (a chance probability of occuring when taking fall damage)."
+				"-衝刺：你跑得越快，你將獲得的經驗值就越多（藥水可以增強這一點）。"
+				"-跳躍：你跳得越高，你獲得的經驗值就越多（藥水可以增強這一點）。"
+				"-減少摔落傷害（受到摔落傷害時有機率發生）。"
 				""
 				"Higher levels of agility will grant a higher chance to save fall damage"
 			]
@@ -998,11 +998,11 @@
 			x: -2.0d
 			y: 6.85d
 			description: [
-				"Swimming skill is gained by going swimming in the lakes, rivers, and oceans."
+				"游泳技能透過在湖泊、河流和海洋中游泳獲得。"
 				""
-				"Higher levels of swimming will grant two advantages, underwater nightvision and the ability to stay underwater longer."
-				"Underwater Nightvision will unlock at level 25."
-				"Swimming, and to a lesser extent Endurance, will work together to extend your ability to stay underwater."
+				"更高等級的游泳將授予兩個優勢，水下夜視和在水下停留更長時間的能力。"
+				"水下夜視將在 25 級解鎖。"
+				"游泳，以及在較小程度上耐力，將共同延長你在水下停留的能力。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -1038,9 +1038,9 @@
 			x: 0.125d
 			y: 9.4d
 			description: [
-				"Flying skill is gained by flying around with an Elytra."
+				"飛行技能透過使用鞘翅飛行獲得。"
 				""
-				"There is no bonus for higher levels of this skill."
+				"此技能的更高等級沒有獎勵。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -1076,11 +1076,11 @@
 			x: 1.4d
 			y: 6.85d
 			description: [
-				"Endurance skill is gained by taking damage from any source (falling, getting hit by mobs, etc.)."
+				"耐力技能透過受到任何來源的傷害（摔落、被生物擊中等）獲得。"
 				""
-				"Higher levels of endurance will decrease the amount of damage taken from hits and increases the amount of extra hearts you have. It also contributes to how long you can stay underwater."
+				"更高等級的耐力將減少受到的傷害量並增加你擁有的額外心心數量。它還有助於你在水下停留的時間。"
 				""
-				"Endurance will also contribute a healing effect across time, with higher levels healing more hearts for every passive time frame."
+				"耐力還將隨時間提供治療效果，更高等級在每個被動時間範圍內治療更多心心。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -1116,9 +1116,9 @@
 			x: 1.4d
 			y: 7.699999999999999d
 			description: [
-				"Combat skill is gained by hitting mobs to deal damage. You will get less xp if the mob is passive, dies, or is one-shot from full health."
+				"戰鬥技能透過擊中生物造成傷害獲得。如果生物是被動的、死亡或從滿血被一擊，你將獲得更少的經驗值。"
 				""
-				"Higher levels of combat increase the amount of damage you can do with melee weapons."
+				"更高等級的戰鬥增加你用近戰武器造成的傷害量。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -1154,10 +1154,10 @@
 			x: 0.9749999999999996d
 			y: 9.4d
 			description: [
-				"Archery skill is gained by shooting mobs with a bow."
-				"You will get less xp if the mob is passive, but more if the mob is killed, is one-shot, or if the arrow flies over 16 blocks."
+				"箭術技能透過用弓射擊生物獲得。"
+				"如果生物是被動的，你將獲得更少的經驗值，但如果生物被殺死、被一擊或箭飛過 16 個方塊，你將獲得更多的經驗值。"
 				""
-				"Higher levels of archery allows you to do extra damage with bows."
+				"更高等級的箭術允許你用弓造成額外傷害。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -1193,9 +1193,9 @@
 			x: 0.9749999999999996d
 			y: 6.0d
 			description: [
-				"Excavation skill is gained by breaking dirt or dirt-based blocks."
+				"挖掘技能透過破壞泥土或基於泥土的方塊獲得。"
 				""
-				"Higher levels of excavation give you the ability to dig faster and to find treasure in blocks when digging."
+				"更高等級的挖掘使你能夠更快地挖掘並在挖掘時在方塊中找到寶藏。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -1231,9 +1231,9 @@
 			x: 0.125d
 			y: 6.0d
 			description: [
-				"Mining Skill is gained by breaking rock or rock-based blocks."
+				"採礦技能透過破壞岩石或基於岩石的方塊獲得。"
 				""
-				"Higher levels of mining allow you to mine faster and to drop extra items when mining."
+				"更高等級的採礦允許你更快地採礦並在採礦時掉落額外物品。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -1269,9 +1269,9 @@
 			x: -0.7250000000000001d
 			y: 6.0d
 			description: [
-				"Woodcutting skill is gained by breaking wood blocks (logs, planks, etc.)."
+				"伐木技能透過破壞木材方塊（原木、木板等）獲得。"
 				""
-				"Higher levels of woodcutting allow you to cut wood faster and have the possiblity of dropping extra wood blocks."
+				"更高等級的伐木允許你更快地砍伐木材並有可能掉落額外的木材方塊。"
 			]
 			dependencies: ["000000000000009D"]
 			size: 0.85d
@@ -1439,9 +1439,9 @@
 			x: 2.0d
 			y: 2.5d
 			description: [
-				"Waystones allows players to return to them once they've been activated, either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing waystone to hop from one to the other."
+				"傳送石允許玩家在啟動後返回它們，可以透過傳送卷軸、可充電的傳送石，或使用現有的傳送石從一個跳到另一個。"
 				""
-				"You can find some in the wild and in the villages."
+				"你可以在野外和村莊中找到一些。"
 				""
 				"You can also buy a personal one in the shop and put it whenever you need."
 			]

@@ -50,7 +50,7 @@
 			y: 2.0d
 			shape: "hexagon"
 			description: [
-				"This modpack contains over 60 new unique biomes to find and explore each with unique atmosphere."
+				"這個模組包包含超過 60 個全新且獨特的生物群系，每個都有獨特的氛圍可供尋找和探索。"
 				""
 			]
 			size: 2.0d
@@ -1454,8 +1454,8 @@
 			shape: "octagon"
 			subtitle: "New dungeons and challenges"
 			description: [
-				"There are dozens of new dungeons, some of them are guarded with Bosses."
-				"What are you waiting for? Go conquer them all!"
+				"有數十個新地牢，其中一些由 Boss 守衛。"
+				"你還在等什麼？去征服它們全部吧！"
 			]
 			size: 2.0d
 			id: "2DADDB2315AB67D6"

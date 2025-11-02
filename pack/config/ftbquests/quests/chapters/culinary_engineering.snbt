@@ -13,7 +13,7 @@
 			y: 13.0d
 			shape: "gear"
 			subtitle: "(Connection from \"Farmer's Delight\" chapter)"
-			description: ["With this book you will be able to make food specifically from in your inventory."]
+			description: ["有了這本書，你將能夠直接從你的物品欄中製作食物。"]
 			size: 1.5d
 			id: "0000000000000FF0"
 			tasks: [{
@@ -26,7 +26,7 @@
 			x: -6.0d
 			y: 13.0d
 			shape: "rsquare"
-			description: ["This cooking table is the first step in having a entire functioning and linked kitchen. It will be where you craft your food. "]
+			description: ["這個烹飪桌是擁有完整功能和連接廚房的第一步。它將是你製作食物的地方。"]
 			dependencies: ["0000000000000FF0"]
 			id: "0000000000000FF2"
 			tasks: [{
@@ -52,7 +52,7 @@
 			x: -4.0d
 			y: 13.0d
 			shape: "rsquare"
-			description: ["By having a sink linked into your kitchen (touching other counter blocks and equipment) you will have water supplied freely to all your recipes."]
+			description: ["將水槽連接到你的廚房（接觸其他櫃檯方塊和設備），你的所有食譜將免費獲得水源供應。"]
 			id: "0000000000000FF4"
 			tasks: [{
 				id: "0000000000000FF5"
@@ -69,7 +69,7 @@
 			x: -3.0d
 			y: 12.0d
 			shape: "rsquare"
-			description: ["The oven will allow you to cook any food needed in your recipes, when connected in your kitchen. Without upgrades the oven will require a fuel source to cook food."]
+			description: ["烤箱將允許你在連接到廚房時烹飪食譜所需的任何食物。如果沒有升級，烤箱將需要燃料來源來烹飪食物。"]
 			id: "0000000000000FF6"
 			tasks: [{
 				id: "0000000000000FF7"
@@ -85,7 +85,7 @@
 		{
 			x: -5.0d
 			y: 12.0d
-			description: ["The toaster will convert bread to toast for any recipe needing it."]
+			description: ["烤麵包機會將麵包轉換成吐司，供任何需要它的食譜使用。"]
 			id: "0000000000000FF8"
 			tasks: [{
 				id: "0000000000000FF9"
@@ -110,9 +110,9 @@
 			x: -1.0d
 			y: 14.0d
 			description: [
-				"Provides a constant supply of milk for recipes without manually having to be filled. "
+				"為食譜提供持續的牛奶供應，無需手動填充。"
 				""
-				"May want to drop an anvil on a cow over a milk jar to see if one actually fits."
+				"也許可以試試在牛奶罐上方的牛身上掉落鐵砧，看看牛是否真的能裝進去。"
 			]
 			dependencies: ["0000000000000FFC"]
 			id: "0000000000000FFA"
@@ -137,7 +137,7 @@
 		{
 			x: -1.0d
 			y: 12.0d
-			description: ["Holds milk to be used in recipes. Must be filled with milk manually."]
+			description: ["存放供食譜使用的牛奶。必須手動填充牛奶。"]
 			id: "0000000000000FFC"
 			tasks: [{
 				id: "0000000000000FFD"
@@ -161,8 +161,8 @@
 			x: -7.0d
 			y: 12.0d
 			description: [
-				"The fridge is a decorative storage block that will allow you to store ingredients for recipes."
-				"Can be double stacked to expand storage space."
+				"冰箱是一個裝飾性儲存方塊，可讓你存放食譜的材料。"
+				"可以雙層堆疊以擴展儲存空間。"
 			]
 			id: "0000000000000FFE"
 			tasks: [{
@@ -179,7 +179,7 @@
 		{
 			x: -5.0d
 			y: 14.0d
-			description: ["Holds tools that will be able to be used in recipes in attached kitchens."]
+			description: ["存放可在連接的廚房中用於食譜的工具。"]
 			id: "0000000000001000"
 			tasks: [{
 				id: "0000000000001001"
@@ -201,7 +201,7 @@
 		{
 			x: -7.0d
 			y: 14.0d
-			description: ["Holds and displays spices to be used in the kitchen."]
+			description: ["存放和展示供廚房使用的香料。"]
 			id: "0000000000001002"
 			tasks: [{
 				id: "0000000000001003"
@@ -217,7 +217,7 @@
 		{
 			x: -3.0d
 			y: 14.0d
-			description: ["Stores and displays fruit for recipes that can be used by the kitchen."]
+			description: ["存放和展示供廚房食譜使用的水果。"]
 			id: "0000000000001004"
 			tasks: [{
 				id: "0000000000001005"
@@ -247,7 +247,7 @@
 		{
 			x: -7.5d
 			y: 11.0d
-			description: ["A fridge upgrade that will provide all the snow and ice you need for recipes. "]
+			description: ["一個冰箱升級，可以為食譜提供你所需的所有雪和冰。"]
 			dependencies: ["0000000000000FFE"]
 			id: "0000000000001006"
 			tasks: [{
@@ -271,7 +271,7 @@
 		{
 			x: -6.5d
 			y: 11.0d
-			description: ["A fridge upgrade that saves the last item in a slot so that item spaces are saved from being replaced."]
+			description: ["一個冰箱升級，可以保存槽位中的最後一個物品，避免物品空間被替換。"]
 			dependencies: ["0000000000000FFE"]
 			id: "0000000000001008"
 			tasks: [{
@@ -295,7 +295,7 @@
 		{
 			x: -3.0d
 			y: 11.0d
-			description: ["By applying this upgrade to your oven it will be able to accept RF to cook food, no longer requiring fuel."]
+			description: ["將此升級應用到你的烤箱後，它將能夠接受 RF 來烹飪食物，不再需要燃料。"]
 			dependencies: ["0000000000000FF6"]
 			id: "000000000000100A"
 			tasks: [{
@@ -360,9 +360,9 @@
 			x: 2.5d
 			y: 14.0d
 			description: [
-				"Kitchen counter allows you to connect multiple pieces of kitchen equipment together as well as provide some storage for ingredients."
+				"廚房檯面允許你將多個廚房設備連接在一起，並為材料提供一些儲存空間。"
 				""
-				"Can be dyed to change their color."
+				"可以染色以改變它們的顏色。"
 			]
 			id: "0000000000001010"
 			tasks: [{
@@ -424,12 +424,12 @@
 			y: 16.25d
 			shape: "octagon"
 			description: [
-				"Surrounding the above Kitchen item quests are a number of recipes that you can try to make. These may be complex but their benefits and boost may be appealing if you give them a try. Trying out a good number of these food will help you get benefits from SOL: Potato Edition."
-				"*You may need to zoom out quite a bit to see all the quests*"
+				"圍繞上述廚房物品任務的是一些你可以嘗試製作的食譜。這些可能很複雜，但如果你嘗試一下，它們的好處和提升可能會很吸引人。嘗試大量這些食物將幫助你從 SOL: Potato Edition 獲得好處。"
+				"*你可能需要縮小相當多才能看到所有任務*"
 				""
-				"Feel no need to complete a lot of these quests as they do not provide rewards, but are here to give you ideas on what to cook to keep your diet diverse."
+				"不需要完成很多這些任務，因為它們不提供獎勵，但在這裡是為了給你關於烹飪什麼以保持飲食多樣化的想法。"
 				""
-				"May this be your veritable recipe book."
+				"願這成為你真正的食譜書。"
 			]
 			size: 2.5d
 			id: "000000000000107A"
@@ -3092,7 +3092,7 @@
 			x: 10.0d
 			y: 10.0d
 			shape: "diamond"
-			description: ["Frying chunks of anything improves them greatly! "]
+			description: ["油炸任何東西的塊狀物都能大大改善它們！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001489"
@@ -3129,7 +3129,7 @@
 			x: 9.0d
 			y: 17.0d
 			shape: "diamond"
-			description: ["These are some big wacky sandwiches!"]
+			description: ["這些是一些大而古怪的三明治！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"000000000000145D"
@@ -3155,7 +3155,7 @@
 			x: -17.0d
 			y: 17.0d
 			shape: "diamond"
-			description: ["Some nice stuffed meals with some nice stew on the side!"]
+			description: ["一些美味的填餡餐點，旁邊還有一些美味的燉菜！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001479"
@@ -3181,7 +3181,7 @@
 			x: -17.5d
 			y: 10.0d
 			shape: "diamond"
-			description: ["You could stuff just about anything into a potato, and you have done all of it!"]
+			description: ["你幾乎可以把任何東西塞進馬鈴薯裡，而你已經全都做到了！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001463"
@@ -3216,7 +3216,7 @@
 			x: -4.0d
 			y: 26.0d
 			shape: "diamond"
-			description: ["Pies just like they used to make."]
+			description: ["就像他們過去製作的派。"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000013B5"
@@ -3240,7 +3240,7 @@
 			x: -13.0d
 			y: 28.0d
 			shape: "diamond"
-			description: ["Time to open a bakery!"]
+			description: ["是時候開一家麵包店了！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001409"
@@ -3266,7 +3266,7 @@
 			x: -7.0d
 			y: 28.0d
 			shape: "diamond"
-			description: ["This is some wacky stuff with greens!"]
+			description: ["這些綠色蔬菜做出了一些古怪的東西！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001431"
@@ -3292,7 +3292,7 @@
 			x: 2.0d
 			y: 28.0d
 			shape: "diamond"
-			description: ["Liquids that don't power machines, but they sure put pep in your step!"]
+			description: ["不為機器供電的液體，但它們確實讓你精神抖擻！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000014D5"
@@ -3333,7 +3333,7 @@
 			x: 3.0d
 			y: 19.0d
 			shape: "diamond"
-			description: ["You have a straight up cafe menu with these things!"]
+			description: ["你用這些東西做出了一份完整的咖啡廳菜單！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000013F3"
@@ -3361,7 +3361,7 @@
 			x: -4.0d
 			y: 19.0d
 			shape: "diamond"
-			description: ["Is a hotdog a sandwich?"]
+			description: ["熱狗算是三明治嗎？"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000013D5"
@@ -3391,7 +3391,7 @@
 			x: -11.0d
 			y: 19.0d
 			shape: "diamond"
-			description: ["Some meals from all over the world!"]
+			description: ["來自世界各地的一些膳食！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000013E1"

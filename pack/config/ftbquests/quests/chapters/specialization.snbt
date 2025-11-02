@@ -22,10 +22,10 @@
 			subtitle: "Specialization(Starterkit/kits/item sets)"
 			description: [
 				""
-				"Kits are sets of items that are designed to help you at the start and throughout your gameplay."
+				"套件是旨在幫助你在遊戲開始和整個遊戲過程中的物品組合。"
 				""
-				"You can see them as classes or professions but they mostly do not affect your gameplay(doesn't add new skills or stats) and served purely for roleplaying purpose."
-				"Some of them are aquired from quests and some are buyable for coins in shop."
+				"你可以將它們視為職業或專業，但它們大多不會影響你的遊戲玩法（不會添加新技能或屬性），純粹用於角色扮演目的。"
+				"其中一些可以從任務中獲得，一些可以在商店中用硬幣購買。"
 				""
 				"First tiers of kits will offer simple general items and starting from second tier you will get Artifacts associated with the name of the kit."
 				""

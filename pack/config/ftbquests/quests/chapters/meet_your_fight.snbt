@@ -13,13 +13,13 @@
 			y: 3.0d
 			shape: "hexagon"
 			description: [
-				"Bellringer 是一個由 Meet Your Fight 模組所新增的 Boss。It can be summoned by using a Haunted Bell. When killed, it drops 1 Phantoplasm and 3-4 Gold Ingots."
+				"Bellringer 是一個由 Meet Your Fight 模組所新增的 Boss。可以透過使用鬧鐘（Haunted Bell）來召喚它。被殺死後，會掉落 1 個靈質（Phantoplasm）和 3-4 個金錠。"
 				""
-				"Bellringer floats above the ground and can pass through walls, similarly to a Vex. When targeting a player, it tries to constantly stay a few blocks in front and above its target."
+				"Bellringer 漂浮在地面上並能穿牆，類似惱鬼。當以玩家為目標時，它會試圖保持在目標前方和上方幾個方塊的位置。"
 				""
-				"All of its attacks consists of sending waves of projectiles that travel in a straight line after a short delay. Each projectile deals 8 damage on contact and can pass through walls. Bellringer randomly alternates between the following two attacks during the fight:"
+				"它的所有攻擊都是在短暫延遲後發射成直線前進的波狀投射物。每個投射物接觸時造成 8 點傷害並能穿牆。Bellringer 在戰鬥中隨機交替使用以下兩種攻擊："
 				""
-				"After falling below 50%, it rings its bell to apply Slowness II for 15 seconds to all nearby entities, then quickly fire 20 lines of projectiles at ground level that go toward its current target. After this attack is finished, Bellringer resumes its normal attacks, but each will fire 4 waves of projectiles instead of 3 for the rest of the fight."
+				"當生命值降至 50% 以下時，它會搖響鐘聲對所有附近實體施加緩慢 II 效果持續 15 秒，然後快速向當前目標發射 20 條地面高度的投射物線。此攻擊結束後，Bellringer 恢復正常攻擊，但在戰鬥剩餘時間內，每次攻擊會發射 4 波投射物而不是 3 波。"
 			]
 			size: 1.5d
 			id: "01586496C0B6EB67"
@@ -62,12 +62,12 @@
 			y: 2.25d
 			shape: "hexagon"
 			description: [
-				"Swampjaw is a boss added by Meet Your Fight. It can be summoned by using a Fossil Bait. When killed, it drops 1 Mossy Tooth, 3-6 Bones, 2-4 Vines, and 1-3 Dirt."
+				"Swampjaw 是由 Meet Your Fight 模組新增的 Boss。可以透過使用化石餌（Fossil Bait）來召喚它。被殺死後，會掉落 1 個苔蘚牙（Mossy Tooth）、3-6 個骨頭、2-4 個藤蔓和 1-3 個泥土。"
 				""
-				"Swampjaw usually flies above its current target and moves like a Phantom, except it can see and fly through walls. When attacking it repeats the following pattern in the same order:"
-				"Orbit a few seconds around and above its target."
-				"Rapidly move above its target to drop 3 mines, these explode when touching the ground with half the strength of TNT and do not destroy blocks or hurt Swampjaw."
-				"Swoop down to charge its target, dealing 7 damage on contact. Damaging Swampjaw prematurely cancels this attack."
+				"Swampjaw 通常飛在當前目標上方，移動方式類似幻翼，但它可以看穿並飛穿牆壁。攻擊時它會按以下順序重複相同的模式："
+				"在目標周圍和上方盤旋幾秒鐘。"
+				"快速移動到目標上方並投下 3 個地雷，這些地雷觸地時會以 TNT 一半的威力爆炸，不會破壞方塊或傷害 Swampjaw。"
+				"俯衝衝向目標，接觸時造成 7 點傷害。過早傷害 Swampjaw 會取消此攻擊。"
 			]
 			size: 1.5d
 			id: "6A51E5206B5F75D4"
@@ -1132,17 +1132,17 @@
 			y: -2.0d
 			shape: "hexagon"
 			description: [
-				"Gateways are a great way to farm mob drops after you have collected a few."
+				"傳送門是收集了一些之後刷怪物掉落物的絕佳方式。"
 				""
-				"Every gate opened contains a link to a world full of a certain type of mob.  Waves and waves of those mobs will progressively pour forth, and each wave completed will spawn additional loot from that mob at that portal."
+				"每個開啟的傳送門都包含通往充滿特定類型怪物世界的連結。一波又一波的怪物會逐漸湧出，每完成一波就會在該傳送門處生成該怪物的額外戰利品。"
 				""
-				"Completion of an entire portal will cause a massive amount of loot and experience to pour forth from the portal, and the portal will close."
+				"完成整個傳送門會使大量戰利品和經驗從傳送門湧出，然後傳送門會關閉。"
 				""
-				"To open a gateway, you must first craft a Gate Pearl.  A gate pearl will be able to open a specific portal size, attuned to a specific mob.  Simply craft the gate opener you want, and use it on the nearest block."
+				"要開啟傳送門，你必須先製作傳送門珍珠。傳送門珍珠能夠開啟特定大小的傳送門，與特定怪物調和。只需製作你想要的傳送門開啟器，並在最近的方塊上使用它。"
 				""
-				"Once you've opened a gateway, your next goal is to close it.  You can close a gateway by completing each wave.  But be warned, failure to complete a wave on time will trigger a destabilization event, which will annihilate the gateway and may damage nearby things!"
+				"一旦你開啟了傳送門，你的下一個目標就是關閉它。你可以透過完成每一波來關閉傳送門。但要注意，未能及時完成一波會觸發不穩定事件，這會毀滅傳送門並可能損壞附近的東西！"
 				""
-				"A gateway's max number of stages is indicated by its boss bar.  Every section on the bar represents a wave, and each section will tick down once it begins.  Clearing a wave will immediately end that wave's timer, and start the sequence for the next wave.  Every time a wave is completed, additional loot (as if more of the spawned mob had died) will spawn from the portal.  The more waves you clear, the more loot spawns at the center, but the stronger the spawned monsters become.  Each wave, the mobs that come forth will be exponentially stronger than their predecessors.  Upon completion of every wave, you will receive a large burst of experience and loot, and the portal will close with no adverse effects."
+				"傳送門的最大階段數由其 Boss 血條顯示。血條上的每個部分代表一波，每個部分在開始後會倒數計時。清除一波會立即結束該波的計時器，並開始下一波的序列。每次完成一波，額外的戰利品（就像更多生成的怪物死亡一樣）會從傳送門生成。你清除的波數越多，中心生成的戰利品就越多，但生成的怪物也變得越強。每一波，湧出的怪物都會比前一波指數級地更強。完成所有波次後，你將獲得大量經驗和戰利品，傳送門將關閉且不會有負面影響。"
 			]
 			dependencies: ["636C994CC9BDE02A"]
 			size: 2.0d
@@ -3958,8 +3958,8 @@
 			x: 0.0d
 			y: -0.5d
 			description: [
-				"Spirit Orbs can drop from spawners and other various structures."
-				"They can be used to craft gateways or upgrade your paraglider's stamina using a goddess statue."
+				"靈魂寶珠可以從生怪籠和其他各種結構掉落。"
+				"它們可以用於製作傳送門或使用女神雕像升級你的滑翔傘的耐力。"
 			]
 			id: "636C994CC9BDE02A"
 			tasks: [{
@@ -3999,7 +3999,7 @@
 		{
 			x: 1.5d
 			y: -1.5d
-			description: ["Upgraded version of spirit orb used to make bigger gateways."]
+			description: ["靈魂寶珠的升級版本，用於製作更大的傳送門。"]
 			dependencies: ["636C994CC9BDE02A"]
 			id: "382CA6AE28A6316A"
 			tasks: [{
@@ -4048,7 +4048,7 @@
 			title: "Break 25 Spawners"
 			x: -1.5d
 			y: -1.5d
-			description: ["Spawners are the easiest way to get spirit orbs"]
+			description: ["生怪籠是獲得靈魂寶珠最簡單的方法"]
 			dependencies: ["636C994CC9BDE02A"]
 			id: "203172A2D2865B49"
 			tasks: [{
@@ -4084,7 +4084,7 @@
 		{
 			x: -3.0d
 			y: -1.0d
-			description: ["Dropped during the Undead Army event."]
+			description: ["在不死軍團事件中掉落。"]
 			id: "7D48C1C4B70B99F8"
 			tasks: [{
 				id: "1839C0D23C028D73"
@@ -4108,7 +4108,7 @@
 		{
 			x: -3.0d
 			y: -2.0d
-			description: ["Do it again! The mob spawners this event creates is a great way to get renewable spirit orbs"]
+			description: ["再做一次！此事件創建的生怪籠是獲得可再生靈魂寶珠的絕佳方式"]
 			dependencies: ["7D48C1C4B70B99F8"]
 			id: "71296448B1C20014"
 			tasks: [{
@@ -4375,7 +4375,7 @@
 		{
 			x: 9.0d
 			y: 12.5d
-			description: ["Illusioners start to spawn naturally in Expert Mode (after wither is defeated), but can also spawn in raids."]
+			description: ["幻術師在專家模式中（擊敗凋零後）開始自然生成，但也可以在襲擊中生成。"]
 			id: "4F18B88B2A7608F8"
 			tasks: [{
 				id: "46494CE179A84D35"

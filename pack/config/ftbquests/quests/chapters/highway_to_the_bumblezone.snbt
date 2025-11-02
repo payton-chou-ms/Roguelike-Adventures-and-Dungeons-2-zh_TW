@@ -27,12 +27,12 @@
 			y: 0.0d
 			shape: "octagon"
 			description: [
-				"  The Bumblezone is a dimension filled with Honeycomb Blocks, Honey Blocks, Honey Crystals, Sugar Water, and few new bee-related Blocks! There's even a structure with unique bee armor you can obtain!"
+				"  Bumblezone 是一個充滿蜂巢方塊、蜂蜜方塊、蜂蜜水晶、糖水和一些新的蜜蜂相關方塊的次元！甚至還有一個結構可以獲得獨特的蜜蜂盔甲！"
 				""
 				""
-				" Entering the dimension is super easy! Just throw an Enderpearl at any Bee Nest or Beehive (even modded ones works!) to enter inside it and spawn into the dimension. You can also make yourself (riding a mob or vehicle) or any mob enter the dimension by using a piston to push the player or mob into a Beehive or Bee Nest block!"
+				" 進入這個次元超級簡單！只需向任何蜂巢或蜂箱（甚至是模組的也可以！）扔一顆終界珍珠就可以進入其中並生成到次元。你也可以使用活塞將玩家或生物推入蜂箱或蜂巢方塊，讓自己（騎乘生物或載具）或任何生物進入次元！"
 				""
-				"To teleport out of the dimension, you can either dig down and fall below Y = 0 or climb your way to above Y = 256."
+				"要傳送出次元，你可以向下挖掘並降到 Y = 0 以下，或者爬到 Y = 256 以上。"
 			]
 			size: 2.0d
 			id: "17777CD49B8B6F41"

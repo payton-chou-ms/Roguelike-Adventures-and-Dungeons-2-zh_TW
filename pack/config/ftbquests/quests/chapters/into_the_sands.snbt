@@ -15,11 +15,11 @@
 			y: 0.0d
 			subtitle: "Enter Atum dimension"
 			description: [
-				"To create the Atum Portal, build a 5x5 floor layer, then add another layer, clear out a 3x3 area on the top layer and fill each with a water source block."
+				"要建造 Atum 傳送門，先建造一個 5x5 的地板層，然後再加一層，在頂層清出一個 3x3 的區域，並用水源方塊填充每個位置。"
 				""
-				"Each corner must have a 2 high pillar."
+				"每個角落必須有一個 2 格高的柱子。"
 				""
-				"The throw a Scarab into the water to activate the portal."
+				"然後將聖甲蟲扔進水中以啟動傳送門。"
 			]
 			size: 1.5d
 			id: "4352370BD2C34188"

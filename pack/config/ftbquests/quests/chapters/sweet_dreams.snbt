@@ -32,11 +32,11 @@
 			shape: "rsquare"
 			subtitle: "來聽聽沙人的搖籃曲"
 			description: [
-				"Tired of those boring old beds at your base."
+				"厭倦了基地裡那些無聊的舊床嗎？"
 				""
-				"Upgrade to a strange bed by finding some speical mushrooms."
+				"找到一些特殊的蘑菇，升級到奇異床吧。"
 				""
-				"The best place to find them is within the nether."
+				"尋找它們的最佳地點是地獄。"
 			]
 			id: "7CD8E2889CDD0041"
 			tasks: [
@@ -95,11 +95,11 @@
 			x: 0.5d
 			y: 0.0d
 			shape: "rsquare"
-			subtitle: "Don't let the bed bugs bite"
+			subtitle: "別讓床蟲咬你"
 			description: [
-				"Are you dreaming or is this reality who knows."
+				"你在做夢還是這是現實，誰知道呢。"
 				""
-				"Why don't you explore this wonderful dream before you wake up."
+				"何不在醒來之前探索這個美妙的夢境？"
 			]
 			dependencies: ["7CD8E2889CDD0041"]
 			hide: false
@@ -125,11 +125,11 @@
 			x: 0.5d
 			y: 2.0d
 			shape: "rsquare"
-			subtitle: "This is going to be a terrible night"
+			subtitle: "這將是一個可怕的夜晚"
 			description: [
-				"Looks like someone slept on the wrong side of the bed"
+				"看來有人睡錯了邊"
 				""
-				"What a terrible nightmare to be in on the bright side maybe you can find something useful."
+				"身處如此可怕的噩夢中，好的一面是也許你能找到一些有用的東西。"
 			]
 			dependencies: ["7CD8E2889CDD0041"]
 			hide: false
