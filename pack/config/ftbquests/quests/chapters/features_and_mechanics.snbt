@@ -95,15 +95,15 @@
 			x: -0.5d
 			y: -0.5d
 			description: [
-				"There are couple of new mechanics that this pack employs, descriptions of which you will find following this quest."
-				"You can always come back here to read them again."
+				"這個模組包採用了一些新的機制，你將在這個任務之後找到它們的描述。"
+				"你隨時可以回到這裡再次閱讀它們。"
 				""
-				"- Gain variable benefits for eating a greater variety of foods."
-				"- Harvest groups of blocks at time to speed up mining, harvesting, and tilling."
-				"- more Piglins behaviors"
-				"- progressive difficulty(including bosses)"
-				"- bleeding"
-				"- new nether portal mechanics"
+				"- 透過食用更多種類的食物獲得可變的好處。"
+				"- 一次收穫一組方塊以加快採礦、收穫和耕作速度。"
+				"- 更多豬布林行為"
+				"- 漸進式難度（包括 Boss）"
+				"- 流血"
+				"- 新的地獄傳送門機制"
 			]
 			id: "56127AAF761DC8DA"
 			tasks: [{
@@ -130,19 +130,19 @@
 			x: -2.0d
 			y: -0.5d
 			description: [
-				"- Piglins now have a reputation system that works similarly to Villagers. Doing things like fighting alongside them against Wither mobs, giving them gifts and bartering with them increases your reputation. Doing things like hurting or killing Piglin mobs and engaging in unauthorized mining/chest opening around them decreases your reputation."
+				"- 豬布林現在有一個類似於村民的聲譽系統。做一些事情，例如與他們一起對抗凋零怪物、送禮物給他們以及與他們進行易物會增加你的聲譽。做一些事情，例如傷害或殺死豬布林怪物以及在他們周圍進行未經授權的採礦/開箱會降低你的聲譽。"
 				""
-				"- At +50 reputation with a Piglin, you will no longer be required to wear gold armor around them. At +100 reputation, you will be authorized to open chests and mine gold around them."
+				"- 當與豬布林的聲譽達到 +50 時，你將不再需要在他們周圍穿金盔甲。在 +100 聲譽時，你將被授權在他們周圍打開箱子和採金。"
 				""
-				"- At -50 reputation with a Piglin, you will no longer receive items from bartering. At -100 reputation, you will be attacked on sight regardless of whether or not you are wearing gold armor."
+				"- 當與豬布林的聲譽達到 -50 時，你將不再從易物中獲得物品。在 -100 聲譽時，無論你是否穿金盔甲，你都會被立即攻擊。"
 				""
-				"- Piglins seek out and pick up food items (by default, porkchops and cooked porkchops) and consume them, complete with an eating animation. Players can also right-click them with their food items if the Piglin has not already recently eaten and they will accept it. Eating food will also restore a Piglin's health in an amount identical to the food item's hunger value."
+				"- 豬布林會尋找並拾取食物物品（預設為豬排和熟豬排）並消耗它們，還有完整的進食動畫。如果豬布林最近沒有吃過東西，玩家也可以右鍵點擊他們並給他們食物物品，他們會接受。進食也會恢復豬布林的生命值，數量與食物物品的飢餓值相同。"
 				""
-				"- Piglins can now barter with gold nuggets and gold blocks. Gold nuggets make you far more likely to receive common barter items, with all item stack sizes halved. Gold blocks make you far more likely to receive rare barter items, with all item stack sizes doubled."
+				"- 豬布林現在可以用金粒和金塊進行易物。金粒使你更有可能獲得常見的易物物品，所有物品堆疊大小減半。金塊使你更有可能獲得稀有的易物物品，所有物品堆疊大小加倍。"
 				""
-				"- Piglins now shake their heads like Villagers when declining an offered item."
+				"- 豬布林現在會像村民一樣在拒絕提供的物品時搖頭。"
 				""
-				" Piglins now emit particles/make sounds when accepting an item from you or declining it."
+				"豬布林現在在接受你的物品或拒絕時會發出粒子/聲音。"
 				""
 				""
 			]
