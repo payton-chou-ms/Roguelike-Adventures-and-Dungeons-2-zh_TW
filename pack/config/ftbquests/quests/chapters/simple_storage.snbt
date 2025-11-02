@@ -23,7 +23,7 @@
 		{
 			x: 10.0d
 			y: 1.5d
-			description: ["The root of your Simple Storage Network. You will only need a single root per network."]
+			description: ["你的簡易儲存網路的根節點。每個網路只需要一個根節點。"]
 			dependencies: ["0000000000001247"]
 			size: 1.5d
 			id: "00000000000001A1"
@@ -48,7 +48,7 @@
 		{
 			x: 9.0d
 			y: 0.5d
-			description: ["Link cables are used to link inventories (a chest for example) into a network. Only a single link cable must be in contact with the chest, a standard network cable can then connect the remaining distance to the network."]
+			description: ["連結線纜用於將儲存空間（例如箱子）連結到網路中。只需要一條連結線纜接觸箱子，然後可以用標準網路線纜連接剩餘的距離到網路。"]
 			dependencies: ["00000000000001A1"]
 			id: "00000000000001A3"
 			tasks: [{
@@ -83,7 +83,7 @@
 		{
 			x: 11.5d
 			y: 2.5d
-			description: ["This block allows you to craft with items from a network."]
+			description: ["這個方塊允許你使用網路中的物品進行合成。"]
 			dependencies: ["00000000000001A1"]
 			id: "00000000000001A5"
 			tasks: [{
@@ -107,7 +107,7 @@
 		{
 			x: 6.5d
 			y: 1.5d
-			description: ["These cables are the basis of the Simple Storage Network. Use these cables to link your network together."]
+			description: ["這些線纜是簡易儲存網路的基礎。使用這些線纜將你的網路連接在一起。"]
 			id: "00000000000001A7"
 			tasks: [{
 				id: "00000000000001A8"
@@ -123,7 +123,7 @@
 		{
 			x: 8.5d
 			y: 2.5d
-			description: ["This block will allow you to see what is stored in a network."]
+			description: ["這個方塊將允許你查看網路中儲存的內容。"]
 			dependencies: ["00000000000001A1"]
 			id: "00000000000001A9"
 			tasks: [{
@@ -147,7 +147,7 @@
 		{
 			x: 11.0d
 			y: 0.5d
-			description: ["An import cable imports items INTO the network (aka the output of machine into the network). Only a single import cable needs to be placed on a block to attach it to a network, the remaining distance can be connected with standard network cable."]
+			description: ["匯入線纜將物品匯入網路（即機器的輸出匯入網路）。只需要在方塊上放置一條匯入線纜將其連接到網路，剩餘距離可以用標準網路線纜連接。"]
 			dependencies: ["00000000000001A1"]
 			id: "0000000000001132"
 			tasks: [{
@@ -178,8 +178,8 @@
 			x: 10.0d
 			y: 0.0d
 			description: [
-				"An export cable pulls items OUT of a network and into a block (aka importing a item into a machine from the network). Only a single export cable needs to be placed to put into a block, they can be connected by standard network cable to the network."
-				"Can be right clicked to set whitelists/blacklists of items for the link."
+				"匯出線纜將物品從網路中拉出並放入方塊（即從網路匯入物品到機器）。只需要放置一條匯出線纜將物品放入方塊，它們可以透過標準網路線纜連接到網路。"
+				"可以右鍵點擊以設定該連結的物品白名單/黑名單。"
 			]
 			dependencies: ["00000000000001A1"]
 			id: "0000000000001134"
@@ -210,7 +210,7 @@
 		{
 			x: 8.5d
 			y: -0.5d
-			description: ["Functions as a link cable but can limit the items that are connected and set storage priority."]
+			description: ["作為連結線纜使用，但可以限制連接的物品並設定儲存優先順序。"]
 			dependencies: ["00000000000001A3"]
 			id: "0000000000001136"
 			tasks: [{
@@ -233,7 +233,7 @@
 		{
 			x: 11.5d
 			y: -0.5d
-			description: ["Acts like an input cable but allows the input to the network to be filtered."]
+			description: ["作為輸入線纜使用，但允許對輸入到網路的物品進行過濾。"]
 			dependencies: ["0000000000001132"]
 			id: "0000000000001138"
 			tasks: [{
@@ -256,7 +256,7 @@
 		{
 			x: 9.5d
 			y: 3.0d
-			description: ["This upgrade will improve the speed that a cable will operate at. Can be input when right clicking a linked cable and input at the top right."]
+			description: ["這個升級將提高線纜的運行速度。可以在右鍵點擊連結線纜時輸入，並在右上角輸入。"]
 			dependencies: ["00000000000001A1"]
 			id: "000000000000113E"
 			tasks: [{
@@ -273,7 +273,7 @@
 		{
 			x: 9.5d
 			y: 4.5d
-			description: ["This upgrade will increase the size of a stack of items that a link cable can move. Can be input by right clicking a linked cable and input at the top right."]
+			description: ["這個升級將增加連結線纜可以移動的物品堆疊大小。可以透過右鍵點擊連結線纜並在右上角輸入。"]
 			dependencies: ["000000000000113E"]
 			id: "0000000000001140"
 			tasks: [{
@@ -291,9 +291,9 @@
 			x: 10.5d
 			y: 3.0d
 			description: [
-				"This remote will allow you to see the contents of a network at a distance. Can be linked to a network by shift right clicking the root with the remote."
+				"這個遙控器將允許你遠距離查看網路的內容。可以透過按住 Shift 並用遙控器右鍵點擊根節點來連結到網路。"
 				""
-				"The network will need to be chunk loaded to be seen at a distance."
+				"網路需要區塊載入才能在遠處查看。"
 			]
 			dependencies: ["00000000000001A1"]
 			id: "0000000000001142"
@@ -312,9 +312,9 @@
 			x: 10.5d
 			y: 4.5d
 			description: [
-				"An upgrade of the storage remote that allows you to craft at a distance from your storage network."
+				"儲存遙控器的升級版本，允許你在遠離儲存網路的地方進行合成。"
 				""
-				"Your network will need to be chunk loaded to remain active at a distance."
+				"你的網路需要區塊載入才能在遠處保持活動狀態。"
 			]
 			dependencies: ["0000000000001142"]
 			id: "0000000000001144"
@@ -332,7 +332,7 @@
 		{
 			x: 8.0d
 			y: 1.5d
-			description: ["The Network Guide Book will be your guide to Simple Storage Network machines and mechanics."]
+			description: ["網路指南書將是你了解簡易儲存網路機器和機制的指南。"]
 			dependencies: ["00000000000001A7"]
 			id: "0000000000001247"
 			tasks: [{
@@ -381,7 +381,7 @@
 		{
 			x: -1.0d
 			y: -1.5d
-			description: ["The Drawer Controller Slave will allow you to extend your storage system when connected to a storage controller. This is more performance friendly than having multiple controllers."]
+			description: ["抽屜控制器副機將允許你在連接到儲存控制器時擴展你的儲存系統。這比擁有多個控制器更有效能。"]
 			dependencies: ["66D26625F2F9CB42"]
 			id: "159670F55DD10CD9"
 			tasks: [{
@@ -405,9 +405,9 @@
 			x: -2.0d
 			y: 5.0d
 			description: [
-				"Compacting drawers are a special drawer that will hold a specific material type and allow it to be changed between its different material amounts."
+				"壓縮抽屜是一種特殊的抽屜，可以容納特定的材料類型，並允許在不同的材料數量之間轉換。"
 				""
-				"For example, loading this drawer with a iron block will allow you to pull the iron block, 9 iron ingots, or 81 iron nuggets from it with no crafting required."
+				"例如，將鐵方塊裝入此抽屜後，你可以從中拉出鐵方塊、9 個鐵錠或 81 個鐵粒，無需任何合成。"
 			]
 			id: "69855EE51B48E6B7"
 			tasks: [{
@@ -431,9 +431,9 @@
 			x: -2.0d
 			y: 6.5d
 			description: [
-				"The Drawer Key will allow you to lock an item to a storage drawer slot. This will lock that item into that slot, even when all items are removed from the drawer."
+				"抽屜鑰匙將允許你將物品鎖定到儲存抽屜槽位。即使所有物品從抽屜中移除，這也會將該物品鎖定在該槽位。"
 				""
-				"The Quantify Key will allow you to show/hide the storage drawer display of the number of items contained on the face of the drawer."
+				"數量鑰匙將允許你顯示/隱藏抽屜正面所含物品數量的儲存抽屜顯示。"
 			]
 			id: "206FE38B596D60E7"
 			tasks: [
@@ -457,7 +457,7 @@
 		{
 			x: -3.5d
 			y: 5.0d
-			description: ["Full-size 1x1 storage drawers will store 32 stacks of an item."]
+			description: ["全尺寸 1x1 儲存抽屜將儲存 32 組物品。"]
 			id: "0994B5C8D2761BEA"
 			tasks: [{
 				id: "0498B4CE87823DEF"
@@ -505,7 +505,7 @@
 		{
 			x: -3.5d
 			y: 6.5d
-			description: ["Full-size 1x2 storage drawers will store 16 stacks of an item per drawer (32 stacks overall)."]
+			description: ["全尺寸 1x2 儲存抽屜每個抽屜將儲存 16 組物品（總共 32 組）。"]
 			id: "5B1664C5DEB1160D"
 			tasks: [{
 				id: "23A19BE3AFE3F041"
@@ -945,7 +945,7 @@
 			x: -2.0d
 			y: 2.0d
 			shape: "hexagon"
-			description: ["This upgrade template is the base of many upgrades that can be applied to storage drawers."]
+			description: ["這個升級模板是許多可應用於儲存抽屜的升級的基礎。"]
 			size: 1.5d
 			id: "3B2469805D2E4E2B"
 			tasks: [{
@@ -962,7 +962,7 @@
 		{
 			x: -4.0d
 			y: 1.5d
-			description: ["The illumination upgrade will make the item and number count on the front of the drawer glow, being more visible in less lit areas."]
+			description: ["照明升級將使抽屜正面的物品和數量計數發光，在光線較暗的區域更加可見。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "52B6116AD14A0D31"
 			tasks: [{
@@ -979,7 +979,7 @@
 		{
 			x: -4.0d
 			y: 2.5d
-			description: ["The redstone upgrade will ouptut a redstone signal equivalent to the level that the storage is full."]
+			description: ["紅石升級將輸出相當於儲存滿度等級的紅石訊號。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "1A1749750B6EF51A"
 			tasks: [{
@@ -996,7 +996,7 @@
 		{
 			x: -3.5d
 			y: 3.5d
-			description: ["The min redstone upgrade will output a redstone signal equivalent to the lowest filled drawer level."]
+			description: ["最小紅石升級將輸出相當於最低填充抽屜等級的紅石訊號。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "17742B177BFBE35C"
 			tasks: [{
@@ -1013,7 +1013,7 @@
 		{
 			x: -2.5d
 			y: 4.0d
-			description: ["The max redstone upgrade will output a redstone signal equivalent to how full the most filled drawer."]
+			description: ["最大紅石升級將輸出相當於最滿填充抽屜滿度的紅石訊號。"]
 			dependencies: ["3B2469805D2E4E2B"]
 			id: "49997B92CC48A598"
 			tasks: [{
