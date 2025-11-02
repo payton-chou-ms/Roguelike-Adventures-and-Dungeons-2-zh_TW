@@ -437,7 +437,7 @@
 			icon: "betterendforge:end_lily_leaf"
 			x: -3.0d
 			y: -1.5d
-			description: ["Deep lakes in the nether filled with End Lotus flowers."]
+			description: ["地獄中充滿終界蓮花的深湖。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "783082B8C8FB9061"
 			tasks: [{
@@ -463,7 +463,7 @@
 		{
 			x: -2.0d
 			y: -3.0d
-			description: ["Megalakes but with Lacugrove trees and various flowers. May seem to be a more like a grassland than a lake."]
+			description: ["巨型湖泊，但有 Lacugrove 樹和各種花卉。看起來更像草原而不是湖泊。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "1ECA6B89B6D233FE"
 			tasks: [{
@@ -489,7 +489,7 @@
 		{
 			x: -1.0d
 			y: -3.5d
-			description: ["Flower-filled land covered with giant bioluminescent glowshroom trees."]
+			description: ["充滿鮮花的土地，覆蓋著巨大的生物發光蘑菇樹。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "72621E64C7433420"
 			tasks: [{
@@ -515,7 +515,7 @@
 		{
 			x: 0.0d
 			y: -4.0d
-			description: ["Thick forest of hanging vines, Umbrella trees, and jellyshrooms."]
+			description: ["由懸垂藤蔓、傘樹和水母菇組成的茂密森林。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "3F33F2304E5E7667"
 			tasks: [{
@@ -534,7 +534,7 @@
 		{
 			x: 1.0d
 			y: -3.5d
-			description: ["Large stars of ice and snow that exist between ender islands."]
+			description: ["存在於終界島嶼之間的大型冰雪星體。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "5D80B3968D2593F6"
 			tasks: [{
@@ -560,7 +560,7 @@
 		{
 			x: -2.0d
 			y: 1.0d
-			description: ["End stone spires covered in pink Tenanea trees and vines."]
+			description: ["覆蓋著粉紅色 Tenanea 樹和藤蔓的終界石尖塔。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "6BE71A977A31E41B"
 			tasks: [{
@@ -586,7 +586,7 @@
 		{
 			x: 2.0d
 			y: -2.0d
-			description: ["A flat grassland that is extremely grassy and has lumecorn sprouts."]
+			description: ["極其草木茂盛的平坦草原，有 lumecorn 幼苗。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "13EAD10EE57FCCBC"
 			tasks: [{
@@ -612,7 +612,7 @@
 		{
 			x: 3.0d
 			y: -1.5d
-			description: ["A vibrant orange land with thick ground cover and large Helix trees."]
+			description: ["充滿活力的橙色土地，有厚厚的地面覆蓋物和大型螺旋樹。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "60862E8751A2AB9D"
 			tasks: [{
@@ -638,7 +638,7 @@
 		{
 			x: 2.0d
 			y: 1.0d
-			description: ["A land filled with various stacks of sulfur vents that contain their own water based ecosystems. Are worth a dive into."]
+			description: ["充滿各種硫磺噴口堆疊的土地，其中包含自己的水生生態系統。值得潛入探索。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "0D771167B0378700"
 			tasks: [{
@@ -664,7 +664,7 @@
 		{
 			x: 2.0d
 			y: -3.0d
-			description: ["A forest of Chorus plants and Pythadendron trees."]
+			description: ["紫頌植物和 Pythadendron 樹組成的森林。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "580BDDDD0ED68F5A"
 			tasks: [{
@@ -690,7 +690,7 @@
 		{
 			x: -3.0d
 			y: 0.5d
-			description: ["A desolate, dusty region with not much significance beyond a large Enderman population."]
+			description: ["荒涼、塵土飛揚的地區，除了大量的終界使者族群外沒有什麼重要意義。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "5660A78B0AE862C7"
 			tasks: [{
@@ -716,7 +716,7 @@
 		{
 			x: -3.5d
 			y: -0.5d
-			description: ["A layered mountainous land of various ender rocks."]
+			description: ["由各種終界岩石組成的層狀山地。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "4FD8DB6A4B137B73"
 			tasks: [{
@@ -742,7 +742,7 @@
 		{
 			x: -2.0d
 			y: -2.0d
-			description: ["Dark forest of Dragon trees and shadow plants."]
+			description: ["由龍樹和陰影植物組成的黑暗森林。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "6D798E6430C4C1C5"
 			tasks: [{
@@ -768,7 +768,7 @@
 		{
 			x: 3.0d
 			y: 0.5d
-			description: ["Mountainous islands that have large rainbow Aurora Crystal formations."]
+			description: ["有大型彩虹極光水晶形成物的山地島嶼。"]
 			dependencies: ["3697C11949A0A907"]
 			id: "742FA17F32B5562D"
 			tasks: [{
@@ -794,7 +794,7 @@
 		{
 			x: 3.5d
 			y: -0.5d
-			description: ["Mining Aurora Crystal will give you shards that are infused with a mythical energy that pulses through the End."]
+			description: ["開採極光水晶將獲得注入神秘能量的碎片，這種能量在終界中脈動。"]
 			dependencies: ["742FA17F32B5562D"]
 			id: "5E2DFA9A653F3619"
 			tasks: [{
@@ -811,7 +811,7 @@
 		{
 			x: 4.5d
 			y: -0.5d
-			description: ["The End for Dummies explains portal restart rituals and infusions."]
+			description: ["《終界入門指南》解釋了傳送門重啟儀式和灌注。"]
 			dependencies: [
 				"5E2DFA9A653F3619"
 				"0B56F802933E9AB7"
@@ -831,7 +831,7 @@
 		{
 			x: 10.0d
 			y: -2.5d
-			description: ["Infusion rituals and pedestal setup are described in The End for Dummies."]
+			description: ["《終界入門指南》中描述了灌注儀式和基座設置。"]
 			dependencies: ["5FE08145513FF66D"]
 			id: "55DCE2FA47D4C837"
 			tasks: [{
@@ -849,7 +849,7 @@
 			title: "Amber"
 			x: 9.0d
 			y: -5.0d
-			description: ["Comes from Amber ore. Gives raw amber, placing 2x2 in a crafting table to make a gem."]
+			description: ["來自琥珀礦石。產生原琥珀，在合成台中以 2x2 放置以製作寶石。"]
 			dependencies: ["55DCE2FA47D4C837"]
 			id: "5E4164741B56B1BC"
 			tasks: [
@@ -886,7 +886,7 @@
 		{
 			x: 11.0d
 			y: -6.0d
-			description: ["Infused Terminite Armor"]
+			description: ["灌注終焉石盔甲"]
 			dependencies: ["5E4164741B56B1BC"]
 			id: "254E533B919E0141"
 			tasks: [
@@ -962,7 +962,7 @@
 		{
 			x: 12.5d
 			y: -3.0d
-			description: ["Comes from Ender Ore, rare ore deep in ender islands."]
+			description: ["來自終界礦石，終界島嶼深處的稀有礦石。"]
 			dependencies: ["55DCE2FA47D4C837"]
 			id: "6E047390333830E1"
 			tasks: [{
@@ -1032,7 +1032,7 @@
 		{
 			x: 8.0d
 			y: 2.5d
-			description: ["Alloy of Iron and Ender Dust made in a End Stone Smelter."]
+			description: ["在終界石熔爐中製成的鐵和終界塵合金。"]
 			dependencies: [
 				"0B56F802933E9AB7"
 				"46966AA1DDAD75DC"
@@ -1070,7 +1070,7 @@
 		{
 			x: 10.5d
 			y: 1.5d
-			description: ["Alloy of Netherite and Terminite made in a End Stone Smelter."]
+			description: ["在終界石熔爐中製成的下界合金和終焉石合金。"]
 			dependencies: ["2F65B1126A72219F"]
 			id: "0BD7D528F30810EC"
 			tasks: [{
@@ -1284,9 +1284,9 @@
 			x: 10.5d
 			y: 4.0d
 			description: [
-				"From combining Terminite Armor with Aeternium ingots in a Smithing Table."
+				"在鍛造台中將終焉石盔甲與永恆石錠結合而成。"
 				""
-				"One of the highest tiers of armor."
+				"最高級別的盔甲之一。"
 			]
 			dependencies: [
 				"0BD7D528F30810EC"
@@ -1450,7 +1450,7 @@
 			title: "Aeternium Tool Parts"
 			x: 13.0d
 			y: 2.5d
-			description: ["Smithed in an anvil with a Smith Hammer and Aeternium ingots."]
+			description: ["在鐵砧上用鐵匠錘和永恆石錠鍛造。"]
 			dependencies: ["0BD7D528F30810EC"]
 			id: "6FF5FFEE7F672F05"
 			tasks: [
