@@ -248,7 +248,7 @@
 			description: [
 				"The lunchbag allows you to store food to be fed on while maxing diversity gain."
 				""
-				"Shift-right click to open its inventory, allowing you to load it with food. Then, when you are hungry, right clicking with the lunchbag in your hand will feed you with the best food to maximize your diversity."
+				"按住 Shift 右鍵點擊打開其物品欄，允許你裝載食物。然後，當你飢餓時，手持午餐袋右鍵點擊將餵你最好的食物以最大化你的多樣性。"
 				""
 				""
 			]
@@ -483,7 +483,7 @@
 			title: "So much room for activities now!"
 			x: 6.0d
 			y: 1.0d
-			description: ["Below you can find tools in order of mining skill requirement. There are a lot more tools available and these are just basic ones."]
+			description: ["以下你可以找到按採礦技能要求排序的工具。還有更多工具可用，這些只是基本的。"]
 			dependencies: ["01ECE22274DDE487"]
 			id: "518DF4A178673014"
 			tasks: [{
@@ -784,9 +784,9 @@
 			x: 8.0d
 			y: -2.0d
 			description: [
-				"- Paxels: A combination of Axe, Pickaxe, and Shovel. Can be used to create Path blocks as well as Stripped Logs."
+				"- 萬用工具：斧頭、鎬和鏟子的組合。可用於創建路徑方塊以及剝皮原木。"
 				""
-				"- Scythes: A tool for harvesting + replanting crops in an AOE. Also works as a weapon with an attack AOE."
+				"- 鐮刀：在 AOE 範圍內收穫 + 重新種植作物的工具。也可作為具有攻擊 AOE 的武器。"
 				""
 				"- Sickles: A tool for mining plant material blocks in an AOE."
 			]
@@ -1680,7 +1680,7 @@
 		{
 			x: 18.0d
 			y: -3.5d
-			description: ["You can also disenchant enchanted books and any equipment on Grindstone and get some levels back"]
+			description: ["你也可以在砂輪上解除附魔書和任何裝備的附魔並取回一些等級"]
 			dependencies: ["4D4CE785FDA4EFB9"]
 			id: "43509530CAD67EE9"
 			tasks: [{
@@ -2124,7 +2124,7 @@
 		{
 			x: 19.5d
 			y: -3.5d
-			description: ["The Altar of the Sea is a block with allows you to recycle worthless enchanted items.  To begin, you need four enchanted items and a fair amount of experience.  Then, you place one enchanted item on each pillar (target the pillar and right click it while holding the item).  Once all four pillars hold an item, the Altar will begin to drain experience from nearby players.  The amount of experience required is based on the levels an rarities of the provided enchantments.  Once the experience has been drained, all four items will be consumed, and a newly created enchanted book will be created.  The new enchantments are random, but better enchantments will be obtained with higher levels and rarities of provided enchantments.  The Altar of the Sea can generate treasure enchantments."]
+			description: ["海之祭壇是一個允許你回收無價值附魔物品的方塊。首先，你需要四個附魔物品和相當數量的經驗。然後，將一個附魔物品放置在每個柱子上（瞄準柱子並在持有物品時右鍵點擊）。一旦所有四個柱子都持有物品，祭壇將開始從附近玩家那裡吸取經驗。所需的經驗量基於提供的附魔的等級和稀有度。一旦經驗被吸取完畢，所有四個物品都將被消耗，並創建一個新的附魔書。新的附魔是隨機的，但更高等級和稀有度的提供附魔將獲得更好的附魔。海之祭壇可以生成寶藏附魔。"]
 			dependencies: ["43509530CAD67EE9"]
 			id: "1A15D385F7DDF6E4"
 			tasks: [{
@@ -2663,7 +2663,7 @@
 			y: 0.0d
 			subtitle: "More villages!"
 			description: [
-				"There are multiple new villager jobs, all with unique trades, workstations, and advancements!"
+				"有多個新的村民職業，都有獨特的交易、工作站和進度！"
 				"OCEANOGRAPHER, NETHEROLOGIST, FORESTER, ENDEROLOGIST, ENGINEER, FLORIST, HUNTER, MINER, "
 			]
 			dependencies: ["7FC81AF332294769"]
@@ -3299,7 +3299,7 @@
 			subtitle: "Knives are scavenging tools: they allow you to obtain a few more resources from both fauna and flora."
 			description: [
 				""
-				"Head over to the \"Farmer's Delight\" quest chapter to learn more!"
+				"前往「農夫的喜悅」任務章節了解更多！"
 			]
 			dependencies: ["02ED7F720C5EBABD"]
 			id: "01F975837F68C5EC"
@@ -3360,7 +3360,7 @@
 			y: -4.5d
 			shape: "gear"
 			subtitle: "Next chapter: End!"
-			description: ["You can find more quests for End dimension in 'End Exploration' chapter!"]
+			description: ["你可以在「終界探索」章節中找到更多終界次元的任務！"]
 			dependencies: ["1486101A3CE0CAAA"]
 			size: 1.5d
 			id: "359F39A14EC630B9"
@@ -3496,7 +3496,7 @@
 			x: 21.0d
 			y: -1.0d
 			description: [
-				"Nether portals now come in the form of Dimensional Rifts, which you'll find scattered deep underground. You'll have to find one of these Rifts in order to get to the Nether - but be careful, because it's now a one-way trip!"
+				"地獄傳送門現在以次元裂縫的形式出現，你會發現它們散佈在地下深處。你必須找到其中一個裂縫才能到達地獄 - 但要小心，因為這現在是單程旅行！"
 				""
 				"To get back from the Nether, you'll have to search for a Monolith. These are new, semi-rare structures that can be easily spotted from far away thanks to the beams they shoot into the sky."
 				""
@@ -3537,9 +3537,9 @@
 			x: 22.0d
 			y: 0.0d
 			description: [
-				" You can bucket the Dimensional Plasma from a Dimensional Rift to bring it closer to your base, and you can mine the Reclaimer from a Monolith and place it right by where your Plasma teleports you to in the Nether."
+				" 你可以用桶裝次元等離子體從次元裂縫帶到更靠近你基地的地方，你也可以從巨石陣中開採回收器並將其放置在等離子體將你傳送到地獄的位置旁邊。"
 				""
-				"So, it's pretty close to a two-way portal, the only real difference being you'll have to find a Dimensional Rift and a Monolith first."
+				"所以，它非常接近雙向傳送門，唯一真正的區別是你必須先找到次元裂縫和巨石陣。"
 			]
 			dependencies: ["1C7D1D2C57D866A2"]
 			id: "0ECAA8F766B80A62"
@@ -3739,7 +3739,7 @@
 			x: 5.5d
 			y: -4.5d
 			description: [
-				"Modpack encourages many different playstyles including nomadic exploring!"
+				"模組包鼓勵許多不同的遊戲風格，包括遊牧探索！"
 				""
 				"These items will help you with that. Though it may take time to gather them all..."
 			]
@@ -5095,7 +5095,7 @@
 			y: -1.0d
 			shape: "octagon"
 			subtitle: "Enter the Nether!"
-			description: ["To get back from the Nether, you'll have to search for a Monolith. These are new, semi-rare structures that can be easily spotted from far away thanks to the beams they shoot into the sky."]
+			description: ["要從地獄回來，你必須尋找巨石陣。這些是新的、半稀有的結構，由於它們射向天空的光束，可以從遠處輕鬆發現。"]
 			dependencies: ["1C7D1D2C57D866A2"]
 			size: 1.5d
 			id: "4DFF53E47185A474"
