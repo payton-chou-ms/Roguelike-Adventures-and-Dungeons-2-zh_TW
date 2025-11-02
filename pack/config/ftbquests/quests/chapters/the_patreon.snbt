@@ -1927,7 +1927,7 @@
 			x: 6.5d
 			y: 8.5d
 			subtitle: "Want custom icon/description/reward?"
-			description: ["Msg me (dreams) anywhere and we will arrange it!"]
+			description: ["在任何地方留言給我（dreams），我們會安排！"]
 			id: "5D04D87B47AD5904"
 			tasks: [{
 				id: "039F3C5B8DE2E5AA"
