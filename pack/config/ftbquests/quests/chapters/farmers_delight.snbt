@@ -12,9 +12,9 @@
 			x: -4.0d
 			y: -5.5d
 			description: [
-				"This will allow you to start creating a number of drinks. By right clicking on this with a variety of grown products the process can begin."
-				"The brewing barrel will bubble while working, but when this stops right clicking with an empty glass bottle will give you your new treat."
-				"The following quests give you some drinks to try."
+				"這將允許你開始製作多種飲料。透過右鍵點擊並使用各種種植產品即可開始該過程。"
+				"釀造桶在工作時會冒泡，但當這停止時，用空玻璃瓶右鍵點擊將給你新的飲品。"
+				"以下任務給你一些飲料可以嘗試。"
 			]
 			id: "00000000000001B9"
 			tasks: [{
@@ -390,7 +390,7 @@
 			icon: "simplefarming:grape_seeds"
 			x: -1.0d
 			y: -5.5d
-			description: ["Grapes will grow into a small bush that must then have a fence piece attached to the upper bush piece to grow grapes."]
+			description: ["葡萄將長成一個小灌木，然後必須在上部灌木片上附加一塊柵欄才能長出葡萄。"]
 			id: "00000000000001DB"
 			tasks: [
 				{
@@ -428,7 +428,7 @@
 		{
 			x: -4.0d
 			y: -2.5d
-			description: ["Will prevent crops from being trampled in a 10 block radius."]
+			description: ["將防止作物在 10 個方塊半徑內被踐踏。"]
 			id: "000000000000035D"
 			tasks: [{
 				id: "000000000000035E"
@@ -1202,7 +1202,7 @@
 			title: "Potato, Potatoe"
 			x: -9.5d
 			y: 0.5d
-			description: ["Should be able to nab some of these to get you started from a village."]
+			description: ["應該能夠從村莊中獲取一些來開始。"]
 			dependencies: ["0000000000000FC0"]
 			id: "00000000000000CD"
 			tasks: [{
@@ -1227,7 +1227,7 @@
 		{
 			x: -10.5d
 			y: -2.5d
-			description: ["You will come across a lot of these from grass."]
+			description: ["你會從草叢中遇到很多這些。"]
 			dependencies: ["0000000000000FC0"]
 			id: "00000000000000C5"
 			tasks: [{
@@ -1252,7 +1252,7 @@
 			title: "Wheatabix"
 			x: -12.0d
 			y: -2.5d
-			description: ["Get to growing!"]
+			description: ["開始種植吧！"]
 			dependencies: ["00000000000000C5"]
 			id: "00000000000000C9"
 			tasks: [{
@@ -1306,7 +1306,7 @@
 		{
 			x: -12.0d
 			y: -0.5d
-			description: ["Cook up some Cactus!"]
+			description: ["煮一些仙人掌！"]
 			dependencies: ["0000000000000FC2"]
 			id: "00000000000000D1"
 			tasks: [{
@@ -1336,7 +1336,7 @@
 		{
 			x: -13.5d
 			y: -0.5d
-			description: ["Give your base some flair."]
+			description: ["為你的基地增添一些風格。"]
 			dependencies: ["00000000000000D1"]
 			id: "00000000000000D3"
 			tasks: [{
@@ -1360,7 +1360,7 @@
 		{
 			x: -15.5d
 			y: -8.5d
-			description: ["Will display the first page of a book and quill or a map."]
+			description: ["將顯示書和羽毛筆或地圖的第一頁。"]
 			dependencies: ["0000000000000730"]
 			id: "0000000000000732"
 			tasks: [{
@@ -1377,7 +1377,7 @@
 		{
 			x: -14.0d
 			y: -8.5d
-			description: ["A chicken uses some squid juice to mark on some flat sticks surrounded by the skin of a cow."]
+			description: ["一隻雞使用一些魷魚汁在被牛皮包圍的平木棍上做標記。"]
 			dependencies: ["0000000000000FE4"]
 			id: "0000000000000730"
 			tasks: [{
@@ -1395,7 +1395,7 @@
 			title: "Sugar or Paper?"
 			x: -9.5d
 			y: -5.5d
-			description: ["Let those stalks reach for the sky!"]
+			description: ["讓那些莖稈伸向天空！"]
 			dependencies: ["0000000000000FC0"]
 			id: "000000000000072E"
 			tasks: [{
@@ -1424,9 +1424,9 @@
 			x: -7.0d
 			y: -2.5d
 			description: [
-				"The following are your basic crops that will always be handy when you are hungry."
+				"以下是你的基本作物，當你飢餓時總是很方便。"
 				""
-				"The quests following the initial crops give a basic recipe to help keep you fed but look to JEI for more complex and fullfilling recipes."
+				"初始作物後的任務提供基本食譜以幫助你保持溫飽，但請查看 JEI 以獲取更複雜和令人滿意的食譜。"
 			]
 			id: "0000000000000FC0"
 			tasks: [{
@@ -1443,7 +1443,7 @@
 			title: "Cacti"
 			x: -10.0d
 			y: -0.5d
-			description: ["Desert adventure time."]
+			description: ["沙漠冒險時間。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FC2"
 			tasks: [{
@@ -1486,7 +1486,7 @@
 		{
 			x: -10.5d
 			y: -1.5d
-			description: ["I am supposed to beat a root?"]
+			description: ["我應該打一個根莖嗎？"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FC6"
 			tasks: [{
@@ -1527,7 +1527,7 @@
 		{
 			x: -12.0d
 			y: -6.5d
-			description: ["Man I will be able to write so much stuff on this."]
+			description: ["夥計，我將能夠在這上面寫這麼多東西。"]
 			dependencies: ["000000000000072E"]
 			id: "0000000000000FCE"
 			tasks: [{
@@ -1553,7 +1553,7 @@
 			title: "Carrots"
 			x: -9.0d
 			y: 1.5d
-			description: ["Should be able to find a few of these in villages as well."]
+			description: ["也應該能夠在村莊中找到一些這些。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD0"
 			tasks: [{
@@ -1571,7 +1571,7 @@
 		{
 			x: -10.5d
 			y: -3.5d
-			description: ["Have to eat some melons to make some melons."]
+			description: ["必須吃一些西瓜才能做西瓜。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD2"
 			tasks: [{
@@ -1588,7 +1588,7 @@
 		{
 			x: -10.0d
 			y: -4.5d
-			description: ["You don't have jack on me Mr. Pumpkin!"]
+			description: ["南瓜先生，你可奈何不了我！"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD4"
 			tasks: [{
@@ -1606,7 +1606,7 @@
 			title: "Hell Wart"
 			x: -9.0d
 			y: -6.5d
-			description: ["Nether fortress mold."]
+			description: ["地獄要塞黴菌。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD6"
 			tasks: [{
@@ -1625,7 +1625,7 @@
 			title: "Sweet Berries"
 			x: -8.5d
 			y: -7.5d
-			description: ["You are going to have to travel to the great white north to find some of these delicous berries."]
+			description: ["你將不得不前往極北之地才能找到一些這些美味的漿果。"]
 			dependencies: ["0000000000000FC0"]
 			id: "0000000000000FD8"
 			tasks: [{
@@ -1714,7 +1714,7 @@
 		{
 			x: -12.0d
 			y: -7.5d
-			description: ["The skin of the innocent..... oh boy that sounds bad....."]
+			description: ["無辜者的皮膚.....哦天啊，這聽起來很糟糕....."]
 			id: "0000000000000FE2"
 			tasks: [{
 				id: "0000000000000FE3"
@@ -1737,7 +1737,7 @@
 		{
 			x: -14.0d
 			y: -7.5d
-			description: ["Bound and binded."]
+			description: ["束縛和綁定。"]
 			dependencies: [
 				"0000000000000FCE"
 				"0000000000000FE2"
@@ -1863,7 +1863,7 @@
 		{
 			x: -12.0d
 			y: -8.5d
-			description: ["Eggs o'plenty!"]
+			description: ["蛋蛋滿滿！"]
 			id: "000000000000132B"
 			tasks: [{
 				id: "000000000000132C"
@@ -1887,7 +1887,7 @@
 		{
 			x: -4.0d
 			y: 0.5d
-			description: ["Time to get fishing!"]
+			description: ["是時候去釣魚了！"]
 			id: "00000000000015DB"
 			tasks: [{
 				id: "00000000000015DC"
@@ -1916,7 +1916,7 @@
 		{
 			x: -3.5d
 			y: 2.5d
-			description: ["My own custom designed fishing rod. Can be customized with special tackle and bait."]
+			description: ["我自己定制設計的釣竿。可以用特殊的釣具和魚餌進行定制。"]
 			dependencies: ["00000000000015DB"]
 			id: "00000000000015DD"
 			tasks: [{
