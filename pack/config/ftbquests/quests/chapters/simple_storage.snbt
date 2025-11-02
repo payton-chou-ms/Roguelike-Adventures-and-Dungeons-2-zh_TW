@@ -356,9 +356,9 @@
 			x: -3.0d
 			y: -1.5d
 			description: [
-				"The Drawer Controller will allow you to connect all storage drawers in a 12 block radius making a large combined storage."
+				"抽屜控制器將允許你連接 12 個方塊半徑內的所有儲存抽屜，形成一個大型組合儲存。"
 				""
-				"You can deposit items into the entire system by right clicking items onto it. Double right clicking the controller will attempt to dump your enitre inventory into the system, but only if they currently exist in the system."
+				"你可以透過右鍵點擊物品將物品存入整個系統。雙擊右鍵控制器將嘗試將你的整個物品欄傾倒到系統中，但僅限於系統中已經存在的物品。"
 			]
 			id: "66D26625F2F9CB42"
 			tasks: [{
@@ -553,7 +553,7 @@
 		{
 			x: -3.5d
 			y: 8.0d
-			description: ["Full-size 2x2 storage drawers will store 8 stacks of an item per drawer (32 stacks overall)."]
+			description: ["全尺寸 2x2 儲存抽屜每個抽屜將儲存 8 組物品（總共 32 組）。"]
 			id: "3EA48F9716705F18"
 			tasks: [{
 				id: "702BCF9A77D94BFF"
@@ -601,7 +601,7 @@
 		{
 			x: -0.5d
 			y: 5.0d
-			description: ["Half-size 1x1 storage drawers will store 16 stacks of an item."]
+			description: ["半尺寸 1x1 儲存抽屜將儲存 16 組物品。"]
 			id: "5649FC1867467561"
 			tasks: [{
 				id: "2936B970D64810EC"
@@ -649,7 +649,7 @@
 		{
 			x: -0.5d
 			y: 6.5d
-			description: ["Half-size 1x2 storage drawers will store 8 stacks of an item per drawer (16 stacks overall)."]
+			description: ["半尺寸 1x2 儲存抽屜每個抽屜將儲存 8 組物品（總共 16 組）。"]
 			id: "057CB349E1D67E10"
 			tasks: [{
 				id: "12084578B8CA0A5E"
