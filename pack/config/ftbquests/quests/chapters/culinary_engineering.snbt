@@ -360,9 +360,9 @@
 			x: 2.5d
 			y: 14.0d
 			description: [
-				"Kitchen counter allows you to connect multiple pieces of kitchen equipment together as well as provide some storage for ingredients."
+				"廚房檯面允許你將多個廚房設備連接在一起，並為材料提供一些儲存空間。"
 				""
-				"Can be dyed to change their color."
+				"可以染色以改變它們的顏色。"
 			]
 			id: "0000000000001010"
 			tasks: [{
@@ -424,12 +424,12 @@
 			y: 16.25d
 			shape: "octagon"
 			description: [
-				"Surrounding the above Kitchen item quests are a number of recipes that you can try to make. These may be complex but their benefits and boost may be appealing if you give them a try. Trying out a good number of these food will help you get benefits from SOL: Potato Edition."
-				"*You may need to zoom out quite a bit to see all the quests*"
+				"圍繞上述廚房物品任務的是一些你可以嘗試製作的食譜。這些可能很複雜，但如果你嘗試一下，它們的好處和提升可能會很吸引人。嘗試大量這些食物將幫助你從 SOL: Potato Edition 獲得好處。"
+				"*你可能需要縮小相當多才能看到所有任務*"
 				""
-				"Feel no need to complete a lot of these quests as they do not provide rewards, but are here to give you ideas on what to cook to keep your diet diverse."
+				"不需要完成很多這些任務，因為它們不提供獎勵，但在這裡是為了給你關於烹飪什麼以保持飲食多樣化的想法。"
 				""
-				"May this be your veritable recipe book."
+				"願這成為你真正的食譜書。"
 			]
 			size: 2.5d
 			id: "000000000000107A"
@@ -3092,7 +3092,7 @@
 			x: 10.0d
 			y: 10.0d
 			shape: "diamond"
-			description: ["Frying chunks of anything improves them greatly! "]
+			description: ["油炸任何東西的塊狀物都能大大改善它們！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001489"
@@ -3129,7 +3129,7 @@
 			x: 9.0d
 			y: 17.0d
 			shape: "diamond"
-			description: ["These are some big wacky sandwiches!"]
+			description: ["這些是一些大而古怪的三明治！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"000000000000145D"
@@ -3155,7 +3155,7 @@
 			x: -17.0d
 			y: 17.0d
 			shape: "diamond"
-			description: ["Some nice stuffed meals with some nice stew on the side!"]
+			description: ["一些美味的填餡餐點，旁邊還有一些美味的燉菜！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"0000000000001479"

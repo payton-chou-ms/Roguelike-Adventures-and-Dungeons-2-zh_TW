@@ -1030,7 +1030,7 @@
 			x: 13.5d
 			y: 0.0d
 			subtitle: "Brass automaton that will devastate any player foolish enough to build it."
-			description: ["To summon the Talos, place 3x2 copper blocks and place a bronze block on top. Watch out! That dispenser on his arm isn't just for looks..."]
+			description: ["要召喚塔羅斯，放置 3x2 的銅方塊並在頂部放置一個青銅方塊。小心！他手臂上的發射器不僅僅是為了好看..."]
 			id: "5F907B1936D811FC"
 			tasks: [{
 				id: "2A089EBCE8C7D10E"
@@ -1049,7 +1049,7 @@
 			x: -1.5d
 			y: -1.5d
 			subtitle: "(Neutral until attacked) Women cursed to have their hearts turn to flint"
-			description: ["Spawns: in Ara Tents made of grey and white wool. These tents sometimes have a chest."]
+			description: ["生成：在由灰色和白色羊毛製成的 Ara 帳篷中。這些帳篷有時有箱子。"]
 			id: "3E46643D4C7C360C"
 			tasks: [{
 				id: "4B64545CB1510FE5"
@@ -1068,7 +1068,7 @@
 			x: 0.0d
 			y: -1.5d
 			subtitle: "(Neutral until attacked) Half-men, half-horse"
-			description: ["Spawns: in plains and taiga areas"]
+			description: ["生成：在平原和針葉林區域"]
 			id: "57F033F7F0C22F1B"
 			tasks: [{
 				id: "50B922B67C4E41BC"
@@ -1087,7 +1087,7 @@
 			x: 1.5d
 			y: -1.5d
 			subtitle: "(Hostile) Horned vipers"
-			description: ["Spawns: in the desert and other sandy areas"]
+			description: ["生成：在沙漠和其他沙質區域"]
 			id: "512F6C9E10C753BE"
 			tasks: [{
 				id: "6BD68EA596CEFF6B"
@@ -1106,8 +1106,8 @@
 			x: 3.0d
 			y: -1.5d
 			description: [
-				"Sorcerer who spawns wherever witches spawn. Her wand can turn people to pigs!"
-				"Spawns: 2% chance to replace a witch that is spawned"
+				"在女巫生成的地方生成的女巫。她的魔杖可以把人變成豬！"
+				"生成：有 2% 的機率取代生成的女巫"
 			]
 			id: "1474FFA8B7F6835B"
 			tasks: [{
@@ -1127,7 +1127,7 @@
 			x: 4.5d
 			y: -1.5d
 			subtitle: "(Hostile) One-eyed monsters that are slightly bigger than the player"
-			description: ["Spawns: in mountain areas"]
+			description: ["生成：在山區"]
 			id: "66CF5A82A071E2B0"
 			tasks: [{
 				id: "6B1DA199E150221E"
@@ -1147,8 +1147,8 @@
 			y: -1.5d
 			subtitle: "(Hostile) Bull-headed centaurs"
 			description: [
-				"Spawns: plains and taiga areas"
-				"Only spawns at night"
+				"生成：平原和針葉林區域"
+				"僅在夜間生成"
 			]
 			id: "66F4479CFC54D971"
 			tasks: [{
@@ -1169,8 +1169,8 @@
 			y: -1.5d
 			subtitle: "(Hostile) Snake monster"
 			description: [
-				"Spawns: in most overworld biomes and the nether"
-				"Only spawns at night"
+				"生成：在大多數主世界生物群系和地獄"
+				"僅在夜間生成"
 			]
 			id: "354015E58AE4BA7C"
 			tasks: [{
@@ -1209,7 +1209,7 @@
 			x: 10.5d
 			y: -1.5d
 			subtitle: "(Neutral until attacked) the original giants"
-			description: ["Spawns: in mountain areas and snowy plains"]
+			description: ["生成：在山區和雪原"]
 			id: "594026DA1FB53C1E"
 			tasks: [{
 				id: "29ACD8FE1FEDDE28"
