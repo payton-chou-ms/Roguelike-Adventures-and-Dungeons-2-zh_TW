@@ -2585,7 +2585,7 @@
 				""
 				"- 你使用刀殺死的任何動物都保證掉落次要物品，例如皮革和羽毛；"
 				""
-				"- Grassy plants (grass, wheat, rice etc) cut with a Knife will occasionally yield Straw, a firm and useful fiber;"
+				"- 用刀切割的草本植物（草、小麥、水稻等）偶爾會產出稻草，一種堅韌且有用的纖維；"
 				""
 				"- They act as a modest melee weapon: swings faster than a sword for lesser damage;"
 				""
@@ -2641,7 +2641,7 @@
 				""
 				"要向其烤架添加物品，只需在其頂面沒有物體阻擋時右鍵點擊爐灶。爐灶檢測營火食譜進行烹飪，這意味著它們通常也需要 30 秒才能完全準備物品。爐灶無法透過物品轉移方塊（例如漏斗）自動化，但不需要燃料來烹飪物品，就像營火一樣。"
 				""
-				"Stoves can hold six (6) items on its grill, and will gently pop cooked outputs above its surface, instead of throwing them around."
+				"爐灶的烤架上可以容納六 (6) 個物品，並會在其表面上方輕輕彈出煮熟的輸出，而不是將它們扔到周圍。"
 				""
 				"Stoves can be put out using shovels or buckets of water, and reignited with Flint and Steel."
 			]
@@ -2673,7 +2673,7 @@
 				""
 				"你可以在鍋中放入最多六種材料。如果它們匹配，鍋將開始將它們烹飪成一頓飯。大多數膳食需要一個容器來盛裝，例如碗；結果槽會告訴你使用哪一個。只需將容器添加到相應的槽位，或用它右鍵點擊鍋，即可取出一份！"
 				""
-				"Meals tend to be quite large, so they don't stack up as high in your inventory. If you're not going to eat them all right away, you can just mine the whole pot and take it with you! Cooking Pots can hold 64 servings of any meal with a container, regardless of their maximum stack limit."
+				"膳食往往相當大，因此它們在你的物品欄中堆疊得不高。如果你不打算立即吃完它們，你可以直接開採整個鍋並隨身攜帶！烹飪鍋可以容納 64 份帶容器的任何膳食，無論其最大堆疊限制如何。"
 			]
 			dependencies: ["32D6083223BDCD90"]
 			id: "18F8DADD01FEC9C2"

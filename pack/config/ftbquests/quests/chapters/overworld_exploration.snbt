@@ -3498,9 +3498,9 @@
 			description: [
 				"地獄傳送門現在以次元裂縫的形式出現，你會發現它們散佈在地下深處。你必須找到其中一個裂縫才能到達地獄 - 但要小心，因為這現在是單程旅行！"
 				""
-				"To get back from the Nether, you'll have to search for a Monolith. These are new, semi-rare structures that can be easily spotted from far away thanks to the beams they shoot into the sky."
+				"要從地獄回來，你必須尋找巨石陣。這些是新的、半稀有的結構，由於它們射向天空的光束，可以從遠處輕鬆發現。"
 				""
-				"The block at the center of each Monolith that shoots this beam is called a Reclaimer, and it's the key to returning to the Overworld. However, the Reclaimer won't do much without a little power. In order to power it, you'll have to place a gold block on each of its four sides - something that shouldn't be too difficult to pull off in the Nether. "
+				"每個巨石陣中心射出這束光的方塊稱為回收器，它是返回主世界的關鍵。然而，回收器沒有一點能量就做不了什麼。為了為它供電，你必須在它的四個側面各放置一個金塊 - 這在地獄中應該不會太難完成。"
 				""
 				"Once powered, the Reclaimer has the ability to lift you back into the Overworld."
 			]
@@ -3741,7 +3741,7 @@
 			description: [
 				"模組包鼓勵許多不同的遊戲風格，包括遊牧探索！"
 				""
-				"These items will help you with that. Though it may take time to gather them all..."
+				"這些物品將幫助你完成這項任務。雖然收集所有這些物品可能需要時間..."
 			]
 			dependencies: ["221A3D2E31B74520"]
 			id: "21D9206B88C5DE16"
@@ -3987,7 +3987,7 @@
 		{
 			x: 13.5d
 			y: -2.0d
-			description: ["Anvils have significantly more utility than previously.  Anvils have no level limit, and are enchantable.  Anvils can receive Unbreaking, Splitting, and Obliteration.  Splitting is a new enchantment that allows you to drop an anvil on an enchanted book with multiple enchantments, and receive an individual book for each level.  However, this process only has a 20% success chance per level of splitting, and will always cause damage to the anvil (but can be prevented by unbreaking).  Obliteration is similar, it has the same success rules, but it works on books with a single enchantment above level one.  It will create two books, each a level lower than the original.  Think of it as the inverse of combining two books in an anvil."]
+			description: ["鐵砧比以前有更多的用途。鐵砧沒有等級限制，並且可以附魔。鐵砧可以獲得耐久、分裂和毀滅附魔。分裂是一種新的附魔，允許你將鐵砧掉落在具有多個附魔的附魔書上，並為每個等級獲得一本個別的書。然而，這個過程每個分裂等級只有 20% 的成功機率，並且總是會對鐵砧造成損壞（但可以透過耐久預防）。毀滅是類似的，它有相同的成功規則，但它適用於具有一個等級一以上的單一附魔的書。它將創建兩本書，每本都比原來低一個等級。把它想像成在鐵砧中組合兩本書的反向操作。"]
 			dependencies: ["7FC81AF332294769"]
 			id: "2AA12D542527B597"
 			tasks: [{
@@ -4012,7 +4012,7 @@
 		{
 			x: 5.0d
 			y: 2.0d
-			description: ["Campfire will provide Regeneration Effect"]
+			description: ["營火將提供再生效果"]
 			dependencies: ["518DF4A178673014"]
 			id: "3BEED9F6C8434FF5"
 			tasks: [{

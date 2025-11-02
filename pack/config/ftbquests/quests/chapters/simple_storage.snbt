@@ -745,7 +745,7 @@
 		{
 			x: -2.0d
 			y: 8.0d
-			description: ["Trim pieces will allow you to extend your network around corners or other configurations without sacrificing a true storage drawer. It is helpful when setting up a controller based system."]
+			description: ["裝飾件將允許你在角落或其他配置周圍擴展你的網路，而不會犧牲真正的儲存抽屜。在設置基於控制器的系統時很有幫助。"]
 			id: "039F4C3E503F2102"
 			tasks: [{
 				id: "3CCB0CCB0FF80E03"

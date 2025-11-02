@@ -3216,7 +3216,7 @@
 			x: -4.0d
 			y: 26.0d
 			shape: "diamond"
-			description: ["Pies just like they used to make."]
+			description: ["就像他們過去製作的派。"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000013B5"
@@ -3292,7 +3292,7 @@
 			x: 2.0d
 			y: 28.0d
 			shape: "diamond"
-			description: ["Liquids that don't power machines, but they sure put pep in your step!"]
+			description: ["不為機器供電的液體，但它們確實讓你精神抖擻！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000014D5"
@@ -3391,7 +3391,7 @@
 			x: -11.0d
 			y: 19.0d
 			shape: "diamond"
-			description: ["Some meals from all over the world!"]
+			description: ["來自世界各地的一些膳食！"]
 			hide_dependency_lines: true
 			dependencies: [
 				"00000000000013E1"

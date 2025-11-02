@@ -981,7 +981,7 @@
 		{
 			x: -10.5d
 			y: 1.5d
-			description: ["The core of a Guster that can drop when they are killed."]
+			description: ["風暴者的核心，當它們被殺死時可以掉落。"]
 			dependencies: ["586FB5B01BB6C341"]
 			id: "1F21942D74A4B548"
 			tasks: [{
@@ -993,7 +993,7 @@
 		{
 			x: -10.0d
 			y: 3.0d
-			description: ["Throw a little sand in their eyes!"]
+			description: ["向它們的眼睛裡扔一點沙子！"]
 			dependencies: ["1F21942D74A4B548"]
 			id: "3E2F7D08A8E596F1"
 			tasks: [{
@@ -1016,7 +1016,7 @@
 		{
 			x: -11.0d
 			y: 3.0d
-			description: ["The Gustmaker, when powered with redstone, emits little Gusters in a line that can push stuff around."]
+			description: ["風暴製造機在被紅石供電時，會發射成一排的小風暴者，可以推動周圍的東西。"]
 			dependencies: ["1F21942D74A4B548"]
 			id: "2401BD24F4787BEE"
 			tasks: [{
@@ -1041,7 +1041,7 @@
 		{
 			x: -0.5d
 			y: 13.0d
-			description: ["What gives the Warped Mosquito its strength."]
+			description: ["賦予扭曲蚊子力量的東西。"]
 			dependencies: ["47BE77D8F21BBDCC"]
 			id: "323E3518BE41C84D"
 			tasks: [{
@@ -1058,7 +1058,7 @@
 		{
 			x: 1.5d
 			y: 13.0d
-			description: ["The warped power behind the Warped Mosquito."]
+			description: ["扭曲蚊子背後的扭曲力量。"]
 			dependencies: ["47BE77D8F21BBDCC"]
 			id: "1DD27A6265642B96"
 			tasks: [{
@@ -1076,7 +1076,7 @@
 		{
 			x: 0.5d
 			y: 15.0d
-			description: ["An upgraded Blood Sprayer."]
+			description: ["升級版的血液噴霧器。"]
 			dependencies: [
 				"323E3518BE41C84D"
 				"1DD27A6265642B96"
@@ -1104,7 +1104,7 @@
 		{
 			x: -12.0d
 			y: 11.5d
-			description: ["Try to catch a Stradpole in a bucket of lava."]
+			description: ["試著用岩漿桶捕捉跨熔蝌蚪。"]
 			dependencies: ["4EDC8D006049F8E4"]
 			id: "13EDF3FD77403F25"
 			tasks: [{
@@ -1121,7 +1121,7 @@
 		{
 			x: -13.0d
 			y: 13.0d
-			description: ["A rare Straddler drop that has an interesting use."]
+			description: ["跨熔者的稀有掉落物，有有趣的用途。"]
 			dependencies: ["4EDC8D006049F8E4"]
 			id: "1D01C2288B41EBDC"
 			tasks: [{
@@ -1138,7 +1138,7 @@
 		{
 			x: -11.0d
 			y: 13.0d
-			description: ["A dyeable board that allows you to surf lava. Be careful to not hit anything though because you may fall off."]
+			description: ["一個可染色的板，讓你可以在熔岩上衝浪。但要小心不要撞到任何東西，因為你可能會掉下來。"]
 			dependencies: ["1D01C2288B41EBDC"]
 			id: "76D75DF855373032"
 			tasks: [{
@@ -1161,7 +1161,7 @@
 		{
 			x: -1.0d
 			y: 1.5d
-			description: ["An occasional drop from a live Emu."]
+			description: ["活鴯鶓偶爾會掉落的物品。"]
 			dependencies: ["051CA3BEF47E6BCF"]
 			id: "38854ED19F0C1963"
 			tasks: [{
@@ -1178,7 +1178,7 @@
 		{
 			x: -1.0d
 			y: 3.0d
-			description: ["A whole omelet in a shell."]
+			description: ["殼裡的整個蛋餅。"]
 			dependencies: ["38854ED19F0C1963"]
 			id: "5155710838D1A547"
 			tasks: [{
@@ -1196,7 +1196,7 @@
 		{
 			x: -3.0d
 			y: 1.5d
-			description: ["An Emu drop when killed."]
+			description: ["鴯鶓被殺死時的掉落物。"]
 			dependencies: ["051CA3BEF47E6BCF"]
 			id: "369959C82AF24ECD"
 			tasks: [{
@@ -1213,7 +1213,7 @@
 		{
 			x: -4.0d
 			y: 3.0d
-			description: ["Gives the wearer the Emu dodge ability."]
+			description: ["賦予穿戴者鴯鶓閃避能力。"]
 			dependencies: [
 				"369959C82AF24ECD"
 				"4FBF9E3701C078F6"
@@ -1246,7 +1246,7 @@
 		{
 			x: -12.0d
 			y: 8.0d
-			description: ["A Dropbear drop which can be used to make flint and steel or a special potion."]
+			description: ["落熊的掉落物，可用於製作打火石和特殊藥水。"]
 			dependencies: ["0544039A394BA4C5"]
 			id: "3DAF08614ABA2EC5"
 			tasks: [{
@@ -1263,7 +1263,7 @@
 		{
 			x: -10.0d
 			y: 7.5d
-			description: ["This potion allows whoever drinks it to walk on ceilings like a Dropbear."]
+			description: ["這種藥水讓喝下它的人可以像落熊一樣在天花板上行走。"]
 			dependencies: ["3DAF08614ABA2EC5"]
 			id: "4FE66E25E32AEBAE"
 			tasks: [{
@@ -1286,7 +1286,7 @@
 		{
 			x: -7.0d
 			y: 1.5d
-			description: ["A Kangaroo drop when they are sadly killed."]
+			description: ["袋鼠被不幸殺死時的掉落物。"]
 			dependencies: ["6941D667244F04D9"]
 			id: "62E977DBD3A3F3FE"
 			tasks: [{
@@ -1303,7 +1303,7 @@
 		{
 			x: -7.0d
 			y: 3.0d
-			description: ["Might as well cook up the meat."]
+			description: ["不妨把肉煮熟。"]
 			dependencies: ["62E977DBD3A3F3FE"]
 			id: "5156BA2D508BE4D0"
 			tasks: [{
@@ -1321,7 +1321,7 @@
 		{
 			x: -6.0d
 			y: 4.0d
-			description: ["A fine artisan burger."]
+			description: ["一個精緻的手工漢堡。"]
 			dependencies: ["5156BA2D508BE4D0"]
 			id: "16FB2CA4AEF796DC"
 			tasks: [{
@@ -1338,7 +1338,7 @@
 		{
 			x: -5.0d
 			y: 1.5d
-			description: ["A Kangaroo that can be crafted into leather or some fancy pants."]
+			description: ["袋鼠掉落物，可以製成皮革或一些花哨的褲子。"]
 			dependencies: ["6941D667244F04D9"]
 			id: "4FBF9E3701C078F6"
 			tasks: [{
@@ -1355,7 +1355,7 @@
 		{
 			x: 11.0d
 			y: 2.0d
-			description: ["A drop from Cachalot Whales when they attack."]
+			description: ["抹香鯨攻擊時的掉落物。"]
 			id: "68D06C789ABF3D14"
 			tasks: [{
 				id: "6A36D4B67C346235"
@@ -1372,7 +1372,7 @@
 		{
 			x: 10.0d
 			y: 3.0d
-			description: ["A reward given by a whale for saving it from being beached."]
+			description: ["鯨魚因拯救它免於擱淺而給予的獎勵。"]
 			id: "151159150037976D"
 			tasks: [{
 				id: "1BDD5F030839EFB0"
@@ -1388,7 +1388,7 @@
 		{
 			x: 11.5d
 			y: 3.5d
-			description: ["The Echolocator can locate nearby caves."]
+			description: ["回聲定位器可以定位附近的洞穴。"]
 			dependencies: [
 				"151159150037976D"
 				"68D06C789ABF3D14"
@@ -1414,7 +1414,7 @@
 		{
 			x: 13.5d
 			y: 3.5d
-			description: ["The Enderlocator can be used to locate the end portal."]
+			description: ["終界定位器可用於定位終界傳送門。"]
 			dependencies: ["456C97EA74811997"]
 			id: "02E95675EB8EF204"
 			tasks: [{
@@ -1437,7 +1437,7 @@
 		{
 			x: -2.0d
 			y: -12.5d
-			description: ["A rare drop from chamber blocks or Queens. Can be used to create new ant colonies when used on dirt or grass."]
+			description: ["蟻室方塊或蟻后的稀有掉落物。在泥土或草地上使用時可用於創建新的蟻群。"]
 			dependencies: ["7E6468F38A587264"]
 			id: "16CAFA17D62FD870"
 			tasks: [{
@@ -1449,7 +1449,7 @@
 		{
 			x: -0.5d
 			y: -11.5d
-			description: ["This fungi can be used to feed ants and heal them or boost the Queen's reprodction. It can be collected by right clicking a moldy ant chamber under an anthill, where placing a shroomlight will stop the ants from being angry."]
+			description: ["這種真菌可用於餵養螞蟻並治療它們或提高蟻后的繁殖。可以透過右鍵點擊蟻丘下發霉的蟻室來收集，放置菌光體將阻止螞蟻生氣。"]
 			dependencies: ["7E6468F38A587264"]
 			id: "6C244C409D094052"
 			tasks: [{
@@ -1467,7 +1467,7 @@
 		{
 			x: 9.0d
 			y: 12.0d
-			description: ["A drop from Enderiophage, it can hold a stack of items inside which will be transported into whatever block is above them."]
+			description: ["終界噬菌體的掉落物，可以容納一組物品，這些物品將被運送到它們上方的任何方塊中。"]
 			dependencies: ["40CFB3D7A3ECB1B9"]
 			id: "57D3C1E86A23E5AD"
 			tasks: [{
@@ -1484,7 +1484,7 @@
 		{
 			x: 7.5d
 			y: 9.5d
-			description: ["A special firework with special DNA effect that can be made in the End."]
+			description: ["一種具有特殊 DNA 效果的特殊煙火，可以在終界製作。"]
 			dependencies: ["57D3C1E86A23E5AD"]
 			id: "1A85A5ED5D9EDD86"
 			tasks: [{
@@ -1501,7 +1501,7 @@
 		{
 			x: -7.5d
 			y: -11.5d
-			description: ["The Falconry Glove will allow you to pick up tamed Bald Eagles. Then by punching while pointing at a mob from long range will send the eagle off to attack it. If not hovering over a mob the eagle will just hop off."]
+			description: ["鷹獵手套將允許你拾起馴服的禿鷹。然後透過在遠距離指向生物時揮拳將把鷹送出去攻擊它。如果沒有懸停在生物上，鷹就會跳下來。"]
 			dependencies: ["0433861EE023060D"]
 			id: "7FB236F280E77256"
 			tasks: [{
@@ -1518,7 +1518,7 @@
 		{
 			x: -6.0d
 			y: -12.5d
-			description: ["The Falconry Hood allows finer control of Bald Eagle flight, giving third-person control over the eagle's flight. The Eagle can fly up to 150 blocks out from its owner. Sneaking will stop the flying mode."]
+			description: ["鷹獵頭罩允許更精細地控制禿鷹的飛行，提供對鷹飛行的第三人稱控制。鷹可以飛到距離其主人 150 個方塊遠的地方。潛行將停止飛行模式。"]
 			dependencies: ["7FB236F280E77256"]
 			id: "2BA83FDF7240DE8B"
 			tasks: [{
@@ -1535,7 +1535,7 @@
 		{
 			x: -16.5d
 			y: 1.5d
-			description: ["A drop when a Tarantula Hawk is killed."]
+			description: ["狼蛛蜂被殺死時的掉落物。"]
 			dependencies: ["737BD5F672EB23AF"]
 			id: "5F33DAD5DEE9892A"
 			tasks: [{
@@ -1553,7 +1553,7 @@
 		{
 			x: -15.5d
 			y: 2.5d
-			description: ["A reconstructed Tarantula Hawk wing."]
+			description: ["重建的狼蛛蜂翅膀。"]
 			dependencies: ["5F33DAD5DEE9892A"]
 			id: "4480FBB32C9E3248"
 			tasks: [{
@@ -1577,7 +1577,7 @@
 		{
 			x: -15.5d
 			y: 4.0d
-			description: ["An enhanced elytra with Tarantula Hawk wings that provides extra protection, durability, and enchantability."]
+			description: ["帶有狼蛛蜂翅膀的增強鞘翅，提供額外的保護、耐久度和可附魔性。"]
 			dependencies: ["4480FBB32C9E3248"]
 			id: "6F5AC67DDB20ADB4"
 			tasks: [{
@@ -1601,9 +1601,9 @@
 			x: -3.5d
 			y: -9.0d
 			description: [
-				"Encounter a Grizzly Bear"
+				"遭遇灰熊"
 				""
-				"While these forest bears may seem cuddly, it is best to keep your distance from a Grizzly Bear as they may have young nearby that they will protect fiercely. Naturally they are very neutral mobs though. "
+				"雖然這些森林熊看起來很可愛，但最好與灰熊保持距離，因為它們附近可能有幼熊，它們會兇猛地保護幼熊。雖然它們天生是非常中立的生物。"
 			]
 			id: "4E20E64264B2AA55"
 			tasks: [{
@@ -1639,7 +1639,7 @@
 		{
 			x: 0.5d
 			y: -10.0d
-			description: ["A Grizzly Bear can be tamed by waiting for it to eat some honey, or by feeding a honeycomb to the bear, then feeding it some salmon. They are fierce defenders and a good mount."]
+			description: ["灰熊可以透過等待它吃一些蜂蜜，或餵熊一個蜂巢，然後餵它一些鮭魚來馴服。它們是兇猛的防禦者和良好的坐騎。"]
 			dependencies: ["4E20E64264B2AA55"]
 			id: "240F618AC1E292F7"
 			tasks: [{
@@ -1653,7 +1653,7 @@
 		{
 			x: -7.5d
 			y: -6.5d
-			description: ["This potion will allow you to create a uncommon speed potion that will help you get where you are going quicker."]
+			description: ["這種藥水將允許你創建一種不常見的速度藥水，可以幫助你更快地到達目的地。"]
 			dependencies: ["1561DE019D318A18"]
 			id: "792DBA9FA8A22FD5"
 			tasks: [{
@@ -1676,7 +1676,7 @@
 		{
 			x: 0.0d
 			y: 0.5d
-			description: ["A crocodile is a large swamp and river based creature that is very dangerous to be near. You can still breed these creatures though with the use of rotten flesh. When the egg hatches, a nearby player is imprinted upon the baby and it will listen to their commands."]
+			description: ["鱷魚是一種生活在沼澤和河流中的大型生物，靠近它非常危險。不過你仍然可以用腐肉繁殖這些生物。當蛋孵化時，附近的玩家會被印記在寶寶身上，它會聽從他們的命令。"]
 			id: "4B89A8800535AB16"
 			tasks: [{
 				id: "1CBE91AD76108762"
@@ -1701,7 +1701,7 @@
 		{
 			x: 0.5d
 			y: 2.0d
-			description: ["Alligator Snapping Turtles are large swamp turtles. They will take a bite out of anything that gets too near. They rarely move and grow a mossy layer over their shell."]
+			description: ["鱷龜是大型沼澤龜。它們會咬任何靠得太近的東西。它們很少移動，並在殼上長出一層苔蘚層。"]
 			id: "6964B640BF90A11C"
 			tasks: [{
 				id: "76B42026258E100A"
@@ -1727,9 +1727,9 @@
 			x: -4.0d
 			y: -5.5d
 			description: [
-				"Breed two Hummingbirds with flowers."
+				"用花繁殖兩隻蜂鳥。"
 				""
-				"Hummingbirds are found in jungles, flower forests, and sunflower areas where they are quickly flying around pollinating crops and flowers more quickly than bees."
+				"蜂鳥在叢林、花卉森林和向日葵區域被發現，它們快速飛行授粉作物和花朵的速度比蜜蜂更快。"
 			]
 			id: "68585BA9EB6949FD"
 			tasks: [{
@@ -1762,7 +1762,7 @@
 			x: 8.0d
 			y: 1.0d
 			description: [
-				"Go swimming with a pod of Orcas. Will grant faster attack speed."
+				"與一群虎鯨一起游泳。將授予更快的攻擊速度。"
 				""
 				"This large sea animal can be found in cold oceans where it can be seen jumping up out of the water. They aren't the friendliest so watch where you swing but they will also attack Guardians and Drowned."
 			]
@@ -1859,7 +1859,7 @@
 		{
 			x: -13.0d
 			y: 0.5d
-			description: ["The Rattlesnake is a venomous snake native to deserts and badlands. Its location is usually given away by it's distinctive rattle sound made by its tail. They bite and poison a person if they get too close while rattling."]
+			description: ["響尾蛇是沙漠和惡地的原生毒蛇。它的位置通常由尾巴發出的獨特沙沙聲暴露。如果在發出沙沙聲時靠得太近，它們會咬人並使人中毒。"]
 			id: "295FFF98AC0C3FB2"
 			tasks: [{
 				id: "5ED6AA67B994CB19"
@@ -1877,7 +1877,7 @@
 		{
 			x: -13.5d
 			y: 4.5d
-			description: ["Who knows what will happen if you give a Cockroach a Maraca."]
+			description: ["誰知道如果你給蟑螂一個沙鈴會發生什麼。"]
 			dependencies: [
 				"679FB7E7C654385F"
 				"3B5935EFBF9C27D7"
@@ -1991,7 +1991,7 @@
 		{
 			x: 7.5d
 			y: 5.0d
-			description: ["Give tamed mantis shrimp a bucket of water"]
+			description: ["給馴服的螳螂蝦一桶水"]
 			dependencies: ["1404B0021D22163E"]
 			id: "7E59CB5BD918ED99"
 			tasks: [{
@@ -2054,7 +2054,7 @@
 		{
 			x: -4.0d
 			y: -12.5d
-			description: ["Kill an animal from 100 blocks away with a hooded Bald Eagle."]
+			description: ["用戴著頭罩的禿鷹從 100 個方塊遠的地方殺死一隻動物。"]
 			dependencies: ["2BA83FDF7240DE8B"]
 			id: "2FABD2A54A4B0A4E"
 			tasks: [{
@@ -2288,7 +2288,7 @@
 		{
 			x: 6.0d
 			y: 12.0d
-			description: ["To heal the End Flu Chorus fruit or milk can be eaten/drank."]
+			description: ["要治療終界流感，可以吃/喝歌唱果或牛奶。"]
 			dependencies: ["40CFB3D7A3ECB1B9"]
 			id: "44DD26244ADEC0F8"
 			tasks: [{
@@ -2308,7 +2308,7 @@
 		{
 			x: -8.0d
 			y: 8.5d
-			description: ["Long dead birds that now inhabits the Nether. They have a health stealing attack which they use to great effect up to five times."]
+			description: ["早已死去的鳥類，現在棲息在地獄。它們有生命竊取攻擊，最多可以使用五次並產生很大的效果。"]
 			id: "292B32B34CD5094A"
 			tasks: [{
 				id: "021CDEE7CA77D77C"
@@ -2396,7 +2396,7 @@
 		{
 			x: -10.0d
 			y: 11.5d
-			description: ["Feeding a Stradpole a Crimson Mosquito Larva and it might grow up."]
+			description: ["餵跨熔蝌蚪一個緋紅蚊子幼蟲，它可能會長大。"]
 			dependencies: [
 				"13EDF3FD77403F25"
 				"6D5AA599D202F0AF"
@@ -2418,7 +2418,7 @@
 		{
 			x: -4.0d
 			y: 10.5d
-			description: ["The Crimson Mosquito is a native of Crimson Forests where it will suck the blood of almost an creature. It can then spit this blood back at other targets."]
+			description: ["緋紅蚊子是緋紅森林的原生生物，它會吸幾乎所有生物的血。然後它可以將這些血吐回其他目標。"]
 			id: "3EF3C919FDC60E1B"
 			tasks: [{
 				id: "5E6012AB1B7B64E9"
@@ -2465,7 +2465,7 @@
 		{
 			x: -2.0d
 			y: 13.0d
-			description: ["What could happen when a Crimson Mosquito feeds on a Mungus covered with Warped Fungus?"]
+			description: ["當緋紅蚊子以覆蓋著扭曲真菌的蘑菇獸為食時會發生什麼？"]
 			dependencies: [
 				"3EF3C919FDC60E1B"
 				"365AD0B3FADC70B1"
@@ -2517,7 +2517,7 @@
 			}
 			x: 3.5d
 			y: 2.0d
-			description: ["The seal is a cute, if not loud, creature frequently found on beaches or icebergs. Usually they are found sleeping but are very good swimmers. Giving a seal three fish with \"trade\" with the seal and they will dive into the water and bring back a sea related item (some are valuable). Can be bred with lobster tails."]
+			description: ["海豹是一種可愛的生物，即使很吵，經常在海灘或冰山上發現。通常它們被發現在睡覺，但它們是非常好的游泳者。給海豹三條魚與海豹「交易」，它們會潛入水中並帶回與海洋相關的物品（有些很有價值）。可以用龍蝦尾巴繁殖。"]
 			id: "5A0A76BD018B4C93"
 			tasks: [{
 				id: "197A98242A90B910"
@@ -2540,7 +2540,7 @@
 			}
 			x: 1.5d
 			y: 0.5d
-			description: ["Shoebills are strange birds that inhabit swamps and will flee if attacked. They are more of solitary fishmen and won't keep all of their catch which can be picked up. They can be fed Crocodile eggs to increase the lure of their catches and Blobfish to increase the luck of their catch. They cannot be bred."]
+			description: ["鯨頭鸛是棲息在沼澤中的奇怪鳥類，如果受到攻擊會逃跑。它們更像是獨居的漁夫，不會保留所有的捕獲物，這些可以被撿起。可以餵它們鱷魚蛋以增加捕獲的誘惑，餵水滴魚以增加捕獲的運氣。它們無法繁殖。"]
 			id: "249C1132B4C26334"
 			tasks: [{
 				id: "03E5690E11AA0C47"
@@ -2563,7 +2563,7 @@
 			}
 			x: -2.0d
 			y: -3.5d
-			description: ["The Snow Leopard is a big cat found in snowy mountain area where they live in solitude. They won't be aggressive to players but love hunting and will protect themselves. While hunting they often create extra drops due to their skill (like high luck). They cannot be tamed but can be bred with Moose Ribs. "]
+			description: ["雪豹是在雪山地區發現的大型貓科動物，它們獨自生活。它們不會對玩家有攻擊性，但喜歡狩獵並會保護自己。在狩獵時，它們經常由於技能而創造額外的掉落物（就像高運氣）。它們無法被馴服，但可以用駝鹿肋骨繁殖。"]
 			id: "782985747FDE09EA"
 			tasks: [{
 				id: "2B166C07821F73AF"
@@ -2587,7 +2587,7 @@
 			x: -4.0d
 			y: -2.5d
 			description: [
-				"Crows are annoyancing birds found in forests and plains where they circle fields and stop crop growth. They can be scared away with a scarecrow of a simple carved pumpkin. They will pickup any food or seeds and eat them."
+				"烏鴉是在森林和平原中發現的煩人鳥類，它們在田地周圍盤旋並阻止作物生長。它們可以被一個簡單的雕刻南瓜稻草人嚇跑。它們會拾起任何食物或種子並吃掉它們。"
 				"They can be tamed by giving them some pumpkin seeds. When tamed they can follow the the basic tamed animal rules (Stay, follow, wander) but can also collect items. When set to gather mode crows will look for chests with item frames on them. Whatever item is in the frame will be collected and placed into the chest."
 			]
 			id: "0AE3D19B46EFA9D1"
@@ -2612,7 +2612,7 @@
 			}
 			x: -2.0d
 			y: 11.5d
-			description: ["Mungi are mushroom creatures found in different Mushroom biomes. They are completely passive. They have mushroomson them that on them that they will grow more of depending on the biome. They have a chance of creating giant mushrooms. If killed with 5 mushrooms on it, it will explode and spread their mushroom covering them. They can be bred with Mushroom Stew."]
+			description: ["蘑菇獸是在不同蘑菇生物群系中發現的蘑菇生物。它們完全是被動的。它們身上有蘑菇，會根據生物群系生長更多蘑菇。它們有機會創造巨型蘑菇。如果在身上有 5 個蘑菇時被殺死，它會爆炸並散佈覆蓋它們的蘑菇。它們可以用蘑菇燉菜繁殖。"]
 			id: "365AD0B3FADC70B1"
 			tasks: [{
 				id: "3F02A31D66A19AAE"
@@ -2668,7 +2668,7 @@
 			}
 			x: -4.0d
 			y: 0.5d
-			description: ["The Tasmanian Devil is a small creature found in temperate forests. They can be found in groups making growling noises. They will also heartily defend themselves if attacked. Can be fed rotten flesh to release a howl to scare away all monsters for a time. They cannot be tamed but can be bred with meat."]
+			description: ["塔斯馬尼亞惡魔是在溫帶森林中發現的小型生物。可以發現它們成群發出咆哮聲。如果受到攻擊，它們也會盡力保護自己。可以餵腐肉以釋放嚎叫以暫時嚇跑所有怪物。它們無法被馴服，但可以用肉繁殖。"]
 			id: "44E83C7E2B80B35F"
 			tasks: [{
 				id: "1B4280C7AA14546E"
@@ -2691,7 +2691,7 @@
 			}
 			x: -3.0d
 			y: -8.0d
-			description: ["Raccoons are natives of plains and forests where they can be seen foraging for food. They will come up to players to beg if food is being held but they will also steal food from chests. Will wash food when near water. Can be tamed when given an egg near water and can be bred with bread."]
+			description: ["浣熊是平原和森林的原生動物，在那裡可以看到它們覓食。如果玩家拿著食物，它們會來向玩家乞討，但它們也會從箱子裡偷食物。在水邊時會洗食物。在水邊給雞蛋時可以被馴服，可以用麵包繁殖。"]
 			id: "5AF05B20BB414210"
 			tasks: [{
 				id: "3A7584CFC76C55E5"
@@ -2714,7 +2714,7 @@
 			}
 			x: -5.0d
 			y: -8.0d
-			description: ["The Gazelle is a small creature of the savannas is very timid and prefers its large groups which will flee at the first sign of danger."]
+			description: ["瞪羚是草原的小型生物，非常膽小，喜歡大群生活，一有危險跡象就會逃跑。"]
 			id: "617FBFA90048602D"
 			tasks: [{
 				id: "7B953C134B4B9D34"
@@ -2737,7 +2737,7 @@
 			}
 			x: -10.5d
 			y: -2.5d
-			description: ["This annoying bug is pretty common across the overworld. They will chase and bite zombies to near death. They are bred with rotten flesh. Make sure these do not get into the Nether...."]
+			description: ["這種煩人的蟲子在主世界相當常見。它們會追逐並咬殭屍直到瀕死。它們用腐肉繁殖。確保這些不要進入地獄...."]
 			id: "49AB71E75762D0B9"
 			tasks: [{
 				id: "3F5513E24A79A11D"
@@ -2837,7 +2837,7 @@
 			}
 			x: -8.5d
 			y: 0.5d
-			description: ["The Roadrunner is a quick ground bird that can be found in deserts and badlands. They are predator of Rattlesnakes. Can be bred with maggots."]
+			description: ["走鵑是可以在沙漠和惡地找到的快速地面鳥類。它們是響尾蛇的掠食者。可以用蛆繁殖。"]
 			id: "32F7D28F7B29709C"
 			tasks: [{
 				id: "2F70AE2127CF9BD6"
@@ -2860,7 +2860,7 @@
 			}
 			x: -18.5d
 			y: 3.5d
-			description: ["A rare underground bug that can be found deep down. It slowly moves but it has a powerful bite and is poisonous."]
+			description: ["一種可以在深處找到的稀有地下蟲子。它移動緩慢，但有強大的咬合力且有毒。"]
 			id: "3231E98238491AF0"
 			tasks: [{
 				id: "1B833EB81F91BAA8"
@@ -2903,7 +2903,7 @@
 			y: 4.5d
 			description: [
 				"Cockroaches can be be found underground in the dark corners of caves. While they are normally scared of people they can be fed with sugar or bread to make them more comfortable. They will eat any food dropped on the ground as well."
-				"Their most unique ability may be the ability to lose their head and keep on running though. They can be bred with sugar."
+				"它們最獨特的能力可能是失去頭部後還能繼續奔跑的能力。它們可以用糖繁殖。"
 			]
 			id: "3B5935EFBF9C27D7"
 			tasks: [{
@@ -2927,7 +2927,7 @@
 			}
 			x: 5.0d
 			y: 2.0d
-			description: ["A Lobster is a small sea creature found in the water right off the beach. They will pinch anything aggresive to them but usually won't chase. Can come in a number of colors."]
+			description: ["龍蝦是在海灘附近水中發現的小型海洋生物。它們會夾任何對它們有攻擊性的東西，但通常不會追逐。可以有多種顏色。"]
 			id: "493146EF96766BF4"
 			tasks: [{
 				id: "02C48EBD34FB1A3C"
@@ -2950,7 +2950,7 @@
 			}
 			x: 6.5d
 			y: 1.5d
-			description: ["This..... squishy fish is usually found deep in oceans. When a slimeball is used on a blobfish will allow it to survive on land."]
+			description: ["這種.....軟綿綿的魚通常在海洋深處發現。當在水滴魚上使用史萊姆球時，它將能夠在陸地上生存。"]
 			id: "2142DDB9A0AF6B94"
 			tasks: [{
 				id: "6A2D1EB640ED231C"
@@ -2973,7 +2973,7 @@
 			}
 			x: 9.0d
 			y: 3.5d
-			description: ["A Hammerhead Shark are a large creature native in warmer oceans. It is a predator of any creature below half health."]
+			description: ["雙髻鯊是溫暖海洋中的大型生物。它是任何生命值低於一半的生物的掠食者。"]
 			id: "2C2D57D238A96C47"
 			tasks: [{
 				id: "53C361BF979CBC5C"
@@ -2996,7 +2996,7 @@
 			}
 			x: 8.5d
 			y: 8.5d
-			description: ["This large animal of the End is a peaceful floating creature that is happy spending its days just floating around Chorus Forests eating chorus fruits. You can lure a Endergrade over to you by holding a Chorus fruit which you can also use to breed them."]
+			description: ["這種終界的大型動物是一種和平的漂浮生物，樂於整天在歌唱森林中漂浮並吃歌唱果。你可以透過拿著歌唱果將終界飄引誘到你身邊，你也可以用它來繁殖它們。"]
 			id: "3CD714A755372F99"
 			tasks: [{
 				id: "4CC884AF1B78D455"
@@ -3019,7 +3019,7 @@
 			}
 			x: 6.5d
 			y: 8.5d
-			description: ["A slime relative of the End found typically in End Cities. Have very powerful magical abilities of mimicing an attackers weapons and armor."]
+			description: ["終界的史萊姆親戚，通常在終界城中發現。擁有非常強大的魔法能力，可以模仿攻擊者的武器和盔甲。"]
 			id: "54A887A01A32BB84"
 			tasks: [{
 				id: "1B2BDECD58C9963B"
@@ -3042,7 +3042,7 @@
 			}
 			x: -11.0d
 			y: 15.0d
-			description: ["The Bone Serpent is a native of the lava lakes of the Nether where it preys on almost everything, especially Wither Skeletons."]
+			description: ["骨蟒是地獄熔岩湖的原生生物，它捕食幾乎所有東西，尤其是凋零骷髏。"]
 			id: "6C2B0968097E6A03"
 			tasks: [{
 				id: "2F90E30454A80EFC"
@@ -3065,7 +3065,7 @@
 			}
 			x: -14.0d
 			y: 9.5d
-			description: ["The Dropbear is an evil creature native to the Nether Wastes. It hangs from the ceiling where it waits for things to walk beneath it to drop down upon and attack."]
+			description: ["落熊是地獄荒地的原生邪惡生物。它掛在天花板上，等待東西走到它下面，然後掉下來攻擊。"]
 			id: "0544039A394BA4C5"
 			tasks: [{
 				id: "3904F121483CB9A9"
@@ -3081,7 +3081,7 @@
 		{
 			x: 0.5d
 			y: -8.0d
-			description: ["This potion, made from bear hair and potions of strength, will create a potion giving knockback resistance."]
+			description: ["這種藥水由熊毛和力量藥水製成，將創造一種給予擊退抗性的藥水。"]
 			dependencies: ["11AD9C3E6F7ED206"]
 			id: "2655420D8A840C65"
 			tasks: [{
